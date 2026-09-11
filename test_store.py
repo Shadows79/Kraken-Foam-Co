@@ -155,6 +155,13 @@ def main() -> int:
           gulf["event_signal"], "Hosts an end-of-season field day every spring")
     check("highest fit_score kept", gulf["fit_score"], 5)
     check("found in both cells", gulf["found_in_cells"], [0, 9])
+    check("both categories kept in types",
+          gulf["types"],
+          ["summer and day camps", "kids gyms and youth sports leagues"])
+    check("type keeps one primary label", isinstance(gulf["type"], str), True)
+    solo = next(r for r in merged if r["city"] == "Naples")
+    check("single-category org has a one-item types",
+          solo["types"], ["kids gyms and youth sports leagues"])
 
     riversides = [r for r in merged if "riverside" in r["organization"].lower()]
     check("same name, different city stays split", len(riversides), 2)
@@ -167,6 +174,11 @@ def main() -> int:
         rows_out = list(_csv.DictReader(fh))
     check("source_urls column replaces source_url",
           "source_urls" in rows_out[0] and "source_url" not in rows_out[0], True)
+    check("types column sits beside type",
+          list(rows_out[0])[:3], ["organization", "type", "types"])
+    check("types pipe-joined in csv",
+          next(r["types"] for r in rows_out if "Gulf" in r["organization"]),
+          "summer and day camps | kids gyms and youth sports leagues")
     scores = [int(r["fit_score"]) for r in rows_out]
     check("sorted by fit_score desc", scores, sorted(scores, reverse=True))
     check("pipe-joined source_urls",

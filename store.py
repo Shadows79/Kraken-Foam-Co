@@ -37,7 +37,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable
 
-from grid import RECORD_FIELDS, Cell, build_grid, cell_by_index
+from grid import CATEGORIES, RECORD_FIELDS, Cell, build_grid, cell_by_index
 
 ROOT = Path(__file__).resolve().parent
 STATE_PATH = ROOT / "state.json"
@@ -160,9 +160,12 @@ def normalize_record(record: dict[str, Any], cell: Cell) -> dict[str, Any]:
         ) from None
     score = max(1, min(5, score))
     # House rule, enforced here so it cannot be forgotten while researching:
-    # no evidence of running events caps the score at 2.
-    if not out["event_signal"]:
-        score = min(score, 2)
+    # no evidence of running events caps the score at 2. Announced rather than
+    # silent — a round with several clamps is a round of thin research.
+    if not out["event_signal"] and score > 2:
+        print(f"clamped: {out['organization']} fit_score {score} -> 2 "
+              f"(no event_signal)", file=sys.stderr)
+        score = 2
     out["fit_score"] = score
 
     unknown = set(record) - set(RECORD_FIELDS)
@@ -292,6 +295,16 @@ def merge_group(group: list[dict[str, Any]]) -> dict[str, Any]:
     # event_signal already merged to the richest value above.
     merged["fit_score"] = max(int(r.get("fit_score") or 1) for r in group)
 
+    # Every distinct category this org surfaced under. `type` keeps one primary
+    # label for the call sheet; `types` keeps the full picture.
+    seen_types: list[str] = []
+    for record in group:
+        label = (record.get("type") or "").strip()
+        if label and label not in seen_types:
+            seen_types.append(label)
+    order = {cat: i for i, cat in enumerate(CATEGORIES)}
+    merged["types"] = sorted(seen_types, key=lambda t: (order.get(t, len(order)), t))
+
     urls: list[str] = []
     for record in group:
         url = (record.get("source_url") or "").strip()
@@ -330,9 +343,19 @@ def dedupe(records: list[dict[str, Any]] | None = None) -> list[dict[str, Any]]:
 # output
 # ---------------------------------------------------------------------------
 
-CSV_COLUMNS = tuple(f for f in RECORD_FIELDS if f != "source_url") + (
-    "source_urls", "merged_count",
-)
+def _csv_columns() -> tuple[str, ...]:
+    """Schema order, with `types` beside `type` and source_urls at the end."""
+    columns: list[str] = []
+    for field_name in RECORD_FIELDS:
+        if field_name == "source_url":
+            continue
+        columns.append(field_name)
+        if field_name == "type":
+            columns.append("types")
+    return tuple(columns) + ("source_urls", "merged_count", "found_in_cells")
+
+
+CSV_COLUMNS = _csv_columns()
 
 
 def write_csv(path: Path | None = None) -> int:
@@ -346,6 +369,10 @@ def write_csv(path: Path | None = None) -> int:
     for record in merged:
         row = {key: record.get(key) for key in CSV_COLUMNS}
         row["source_urls"] = " | ".join(record.get("source_urls", []))
+        row["types"] = " | ".join(record.get("types", []))
+        row["found_in_cells"] = " | ".join(
+            str(i) for i in record.get("found_in_cells", [])
+        )
         rows.append(row)
 
     buffer = tempfile.SpooledTemporaryFile(mode="w+", newline="", encoding="utf-8")
