@@ -3,7 +3,7 @@
 Mobile foam party service, Lee and Collier counties.
 Packages: Classic $349/60min · Deluxe $449/90min · Commercial and Camps $649/2hr.
 
-Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**.
+Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**.
 
 Research note: this environment's network policy blocks direct page fetches (403 on CONNECT),
 so all records were gathered via web search of the cited source pages rather than by opening
@@ -1154,14 +1154,14 @@ could not be confirmed are marked "unknown" rather than guessed.
 - type: party and event rental companies
 - city: Fort Myers
 - website: https://bouncebrosentertainment.com/
-- phone: (239) 328-6398
+- phone: (239) 328-6398 (a chamber listing also shows 239-209-2688 — verify)
 - email: unknown
 - contact: unknown
-- size signal: Delivers across Fort Myers, Cape Coral, Lehigh Acres, Alva, Labelle, Babcock Ranch, Estero, Punta Gorda, Bonita and Naples. Maintains per-city landing pages, a sign of an active paid-lead pipeline.
-- event signal: NO FOAM OFFERING FOUND. Catalog covers bounce houses, water slides, combo units and obstacle courses only. They explicitly market to "backyard parties, school events, corporate gatherings, community festivals, and church events" — exactly the segments that generate foam requests — and handle delivery, setup and take-down on every booking.
-- fit score: 4
-- why: Excellent partner profile: real booking volume across both Lee and Collier, an audience already buying wet play, and no foam in the catalog. Their school, camp, festival and church accounts are the natural home for the $649 Commercial package. They can resell foam without buying equipment.
-- source: https://bouncebrosentertainment.com/party-rentals-in-fort-myers-fl/
+- size signal: 12923 5th St, Fort Myers 33905. Delivers across Fort Myers, Cape Coral, Lehigh Acres, Alva, Labelle, Babcock Ranch, Estero, Punta Gorda, Bonita and Naples. Maintains per-city landing pages, a sign of an active paid-lead pipeline.
+- event signal: ALREADY OWNS FOAM — CORRECTED. They run a dedicated Foam Machine Rental product page offering "the ultimate foam party experience," delivering to Fort Myers and surrounding areas, with rain rescheduling at no extra cost and units cleaned and sanitized before use. Catalog also covers bounce houses, water slides, combo units and obstacle courses. They market to "backyard parties, school events, corporate gatherings, community festivals, and church events."
+- fit score: 1
+- why: Direct competitor, not a partner. CORRECTION: an earlier pass recorded "no foam offering found" and scored this 4 as a partner prospect; that was wrong — the foam machine rental page is live on their own site. They cover the full Lee and Collier footprint and sell foam into the exact school, camp, festival and church segments we target. No subcontract or referral opportunity.
+- source: https://bouncebrosentertainment.com/rentals/equipment/foam-machine-rental/
 
 ### Vargas Rentals (Vargas Party Rental)
 - type: party and event rental companies
@@ -1558,3 +1558,1263 @@ could not be confirmed are marked "unknown" rather than guessed.
 - fit score: 2
 - why: Scored low — no specific event evidence and no family-friendly signal located. Taproom-first, beer-nerd positioning. Low priority; would need a site visit or phone call to confirm whether any outdoor area exists.
 - source: https://www.visitfortmyers.com/visit/editorial/local-breweries-offer-beer-lovers-variety-fun-and-friendship
+
+---
+
+## Cape Coral
+
+Dedupe note: Sun Splash Family Waterpark, City of Cape Coral Parks & Recreation, and
+Cape Coral Yacht Club were each returned by two or three category agents. Each appears
+ONCE below, under its best-fitting category, with the strongest evidence merged in.
+
+### 1. Summer and day camps
+
+### City of Cape Coral Parks & Recreation Department
+- type: summer and day camps
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/parks_recreation/index.php (registration at CapeParks.com)
+- phone: (239) 573-3128
+- email: ccpks@capecoral.gov
+- contact: Parks & Recreation, 1015 Cultural Park Blvd., Cape Coral
+- size signal: Department operates 39+ locations covering 1,595 acres — waterfront parks, playgrounds, athletic complexes, community centers, a youth center/skate park, boat ramps and a golf course. Runs multiple simultaneous camp sites citywide (Four Freedoms Park, Lake Kennedy Center, Art Center, Eco-Adventure). Citywide camp registration opened April 6 for 2026 and "fills quickly."
+- event signal: Four Freedoms Park "Camp Horizons" includes "themed arts and crafts, music, games, indoor/outdoor recreational activities, and water days"; younger-camper theme weeks include "Commotion in the Ocean," "Beachy Days," and "Camping Adventures." Publishes a seasonal Parks & Recreation Activity Guide and runs a dedicated Special Events Division.
+- fit score: 5
+- why: Central municipal buyer for all recreation programming citywide, with explicit recurring water days and themed weeks across age groups — the strongest recurring Commercial and Camps prospect in Cape Coral. Paid vendors route through city procurement (see the procurement record below).
+- source: https://www.capecoral.gov/news_detail_T4_R628.php
+
+### Cape Coral Police Athletic League (PAL)
+- type: summer and day camps
+- city: Cape Coral
+- website: https://ccpdpal.com/
+- phone: (239) 574-3223 (Cape Coral Police Department main line)
+- email: Cpalmer@capecoral.gov
+- contact: Officer Coby Palmer, PAL contact
+- size signal: Operated out of Cape Coral Police Department at 1100 Cultural Park Blvd; ages 7-10, $125/week with breakfast, lunch and field trips included
+- event signal: Camp includes "indoor and outdoor recreation, arts & crafts, guest speakers & field trips (including SunSplash, movies and the Pine Island pool)" — they already pay to bus campers to a waterpark for water-based fun.
+- fit score: 4
+- why: Already budgets for paid water-based field trips, so an on-site foam party is a cheaper substitute with no bus. A police-run program also carries credibility that helps with referrals to other city programs.
+- source: https://www.fox4now.com/news/local-news/police-athletic-league-hosts-summer-camp-in-cape-coral
+
+### Boys & Girls Clubs of Lee County — Cape Coral site (Challenger Middle School)
+- type: summer and day camps
+- city: Cape Coral
+- website: https://bgclee.org/
+- phone: (239) 334-1886
+- email: unknown
+- contact: unknown
+- size signal: Cape Coral camp at Challenger Middle School, 624 Trafalgar Pkwy, Cape Coral 33991; ages 6-18, 1:15 staff ratio, 7:30am-6pm
+- event signal: Program includes "karate classes, music classes, sports training and field trips" as part of a Summer Enrichment Program; the Club expanded summer camp options in Lee County with the Cape Coral site added in 2022.
+- fit score: 4
+- why: Large multi-week enrollment with an existing field-trip and enrichment budget line, and a parent organization already covered in the Fort Myers list — one relationship can serve both cities.
+- source: https://www.capecoralbreeze.com/news/community-news/2022/06/02/cape-coral-new-location-for-boys-girls-club-summer-camp/
+
+### Grace Community School (Skyline campus)
+- type: summer and day camps
+- city: Cape Coral
+- website: https://www.gracecommunityschools.com/locations/skyline-cape-coral
+- phone: (239) 458-1644
+- email: info@gracecommunityschools.com (general company inbox, not campus-specific)
+- contact: unknown
+- size signal: 2932 Skyline Blvd, Cape Coral 33914, open 6:30am-6:00pm year-round; summer camp ages 1-11. Multi-site SWFL operator with campuses in Cape Coral, Fort Myers, Bonita Springs/Estero, Lehigh Acres and Naples.
+- event signal: Summer camp "is designed to keep kids entertained and engaged all summer long, with different weekly themes, special events, and dress-up days," plus karate, music and dance lessons.
+- fit score: 4
+- why: Published weekly themes and "special events" language plus school-age campers up to 11. Same operator as the Fort Myers Medical Lane campus — a single corporate relationship could place foam at seven-plus campuses. (A second research pass found only generic camp language and scored this a 2; the themed-events evidence above is better sourced and carries.)
+- source: https://pages.gracecommunityschools.com/daycare-and-child-care-at-grace-community-school-16/
+
+### Southern Starz Gymnastics
+- type: summer and day camps
+- city: Cape Coral
+- website: http://www.southernstarzgymnastics.org/
+- phone: (239) 574-0034
+- email: unknown
+- contact: unknown
+- size signal: 915 SE 14th Pl, Unit 15, Cape Coral; described as "Cape Coral's largest gymnastic facility"; camp serves ages 5-14
+- event signal: Camp runs "gymnastic rotations followed by daily fun activities, and for adventure campers they offer rock climbing, rope courses, field day games, trampoline, and open gym" — "field day games" named directly as a recurring camp activity. Also runs Open Gym, Preschool Open Gym and "Fun Fridays," plus birthday party packages.
+- fit score: 5
+- why: Names field day games as standing programming, runs a weekly Fun Friday slot a foam party could headline, and already sells parties — three separate ways in. Largest gym in the city.
+- source: https://www.southernstarzgymnastics.org/
+
+### Full STEAM Ahead — Cape Coral
+- type: summer and day camps
+- city: Cape Coral
+- website: https://fullsteamaheadfl.com/summer-camps-cape-coral
+- phone: (239) 689-3602
+- email: unknown
+- contact: unknown
+- size signal: Inside the Activities Building at Living Faith Church, 939 SW 7th Ct, Cape Coral 33991; one of six Full STEAM Ahead locations across SWFL/Tampa for Summer 2026; full-day 9am-4pm plus extended care
+- event signal: Multiple named weekly themed camps confirmed — "Taste of STEAM," "To Infinity and Beyond" (space), "Environmental Engineers," "Under the Sea," and "Games" — a real rotating themed-week calendar.
+- fit score: 4
+- why: Confirmed weekly theme rotation including an "Under the Sea" week makes a water/foam tie-in an easy sell, and a six-location brand suggests budget for enrichment extras.
+- source: https://fullsteamaheadfl.com/summer-camps-cape-coral
+
+### Cape Coral Art Center (Creativity Camp)
+- type: summer and day camps
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/parks_recreation/recreation_facilities/cape_coral_art_center/index.php
+- phone: (239) 573-3128 (Parks & Recreation main line)
+- email: artcenter@capecoral.gov
+- contact: unknown
+- size signal: City-run arts facility at 4533 Coronado Pkwy operating a weekly camp for ages 7-13 since 1977
+- event signal: "Creativity Camp invites children ages 7 to 13... Each week features a unique theme," ending with "a special gallery event, sharing their accomplishments with friends and family" — a recurring weekly themed showcase.
+- fit score: 3
+- why: Structured weekly themed camp with an end-of-week celebration is a plausible finale slot, though activities are indoor and art-focused rather than water-friendly. Same decision-maker as the city Parks & Rec record — consolidate outreach.
+- source: https://fun4fortmyerskids.com/Camps/Art-Camps/Cape-Coral-Art-Center-Creativity-Camp/View-details
+
+### YMCA of Southwest Florida — Cape Coral Branch
+- type: summer and day camps
+- city: Cape Coral
+- website: https://www.ymcaswfl.org/summer-camp
+- phone: (239) 540-9760
+- email: unknown
+- contact: unknown
+- size signal: Branch at 4118 Coronado Pkwy, Cape Coral 33904; part of a multi-branch regional Y system
+- event signal: Weak. The Y's own site states camps let kids "explore places, activities and ideas outside their normal lives," but no Cape Coral-specific themed week, water day, or field day was found — only general regional camp brochures.
+- fit score: 2
+- why: Branch confirmed physically in Cape Coral and the brand runs camps regionally, but no branch-specific event evidence surfaced. Needs a discovery call before treating as a warm lead.
+- source: https://www.ymcaswfl.org/summer-camp
+
+### 2. Preschools and daycare centers
+
+### All Superstars Preschool (Midtown & Downtown Cape Coral)
+- type: preschools and daycare centers
+- city: Cape Coral
+- website: https://www.allsuperstarspreschool.com/
+- phone: Downtown (239) 540-7847; Midtown (239) 574-3515
+- email: unknown
+- contact: unknown
+- size signal: Three-location operator — Downtown Cape Coral at 1718 SE 47th St, Midtown at 1412 SE 16th Pl, plus a North Fort Myers site. Summer Camp specifically for elementary-age kids.
+- event signal: Facility "includes water play areas for those hot summer months" and "summer camp is held in the outdoor environment for activities such as swimming and outdoor trips" — direct evidence of outdoor water-based programming.
+- fit score: 4
+- why: Multi-site operator with water-play infrastructure and outdoor summer camp already built into the program. Foam is an upgrade to something they already do, and two Cape locations plus a third in North Fort Myers means repeat bookings.
+- source: https://www.allsuperstarspreschool.com/
+
+### Alphabet Zoo II Child Care
+- type: preschools and daycare centers
+- city: Cape Coral
+- website: https://www.alphabetzoochildcare.com/
+- phone: (239) 542-3938
+- email: alphabetzoo2@yahoo.com
+- contact: unknown
+- size signal: 810 Lafayette St; free preschool plus after-school care and tutoring up to age 12; maintains a dedicated "Upcoming Events" page on its own site
+- event signal: "Summer Camp for Elementary ages with weekly themes and full time Summer Camp including 3 meals," plus a standalone Upcoming Events webpage — direct evidence of a structured, themed-week calendar.
+- fit score: 4
+- why: Weekly-themed summer camp plus an actively maintained events page is exactly the themed-week signal to pitch into. Published email makes outreach easy. Single-site scale is the limiting factor — pitch Classic or Deluxe.
+- source: https://www.alphabetzoochildcare.com/child-care-upcoming-events
+
+### Pine Island Academy
+- type: preschools and daycare centers
+- city: Cape Coral
+- website: https://www.pineislandacademy.com/
+- phone: (239) 458-2974
+- email: unknown
+- contact: unknown
+- size signal: 1031 NE Pine Island Rd #8; infant through pre-K day care plus a dedicated summer program; provides free breakfast, lunch and snacks
+- event signal: Describes "a fun comprehensive summer program with exciting fieldtrips to places such as skating, waterparks, bowling and more" — specific, named paid outing types showing an active activities budget.
+- fit score: 4
+- why: Explicitly funds waterpark and skating outings, indicating both budget and appetite for a novel activity booking delivered on-site at lower cost than a field trip.
+- source: https://www.pineislandacademy.com/
+
+### Kid's World Preschool
+- type: preschools and daycare centers
+- city: Cape Coral
+- website: https://kidsworldpreschool.com/
+- phone: North Cape Coral (239) 573-7233; Skyline Blvd (239) 599-9010
+- email: unknown
+- contact: unknown
+- size signal: Two Cape Coral locations (1126 NE 16th Terrace; 1942 Skyline Blvd), nationally accredited, infant through school-age "Kids Club" with winter/spring/summer camps for kids up to age 9-11
+- event signal: The "Kids Club" program provides "fun-filled programs during holidays and other school closures" and "all activities and field trips are included in tuition fees" for Winter Break, Spring Break and Summer Break — a recurring, pre-funded activity budget.
+- fit score: 3
+- why: Two-site accredited operator with a formalized break-camp program and an included-activities budget line, which is a clean funding path. No water-day or party specifics confirmed, so verify on the call.
+- source: https://kidsworldpreschool.com/programs/school-age/
+
+### Brighton Academy (Cape Coral)
+- type: preschools and daycare centers
+- city: Cape Coral
+- website: https://mybrightonacademy.com/cape-coral/
+- phone: (239) 542-6444
+- email: unknown
+- contact: unknown
+- size signal: 3300 Santa Barbara Blvd; serves ages 6 weeks through 5th grade; part of a multi-state Brighton Academy chain with dedicated summer camp and private school divisions
+- event signal: Summer camp activities range "from STEM adventures to creative arts, outdoor play, and team challenges," plus dedicated seasonal camps such as a winter camp with "holiday-themed activities" — structured, themed break-camp programming.
+- fit score: 3
+- why: Corporate-backed center with school-age camp through 5th grade and named themed activity blocks, but no direct evidence of outdoor water-based events specifically.
+- source: https://mybrightonacademy.com/summer-camp-cape-coral-fl/
+
+### Open Doors Preschool of Cape Coral
+- type: preschools and daycare centers
+- city: Cape Coral
+- website: https://opendoorspreschool.com/open-doors-preschool-cape-coral-fl/
+- phone: Location 1 (239) 303-1944 (1918 SE Santa Barbara Pl); Location 2 (239) 362-3766 (1903 Santa Barbara Blvd)
+- email: unknown
+- contact: unknown
+- size signal: Two Cape Coral locations under a regional multi-site brand also operating in Fort Myers, Lehigh Acres and Estero; summer camp serves children up to age 11
+- event signal: Summer camp includes "outdoor play, arts and crafts, music, and more" for children up to age 11, but no themed-week, water-day or family-night specifics were found.
+- fit score: 2
+- why: Multi-site scale and school-age camp capacity make them worth a call, but published event evidence is generic rather than specific.
+- source: https://opendoorspreschool.com/open-doors-preschool-cape-coral-fl/
+
+### All Aboard Preschool
+- type: preschools and daycare centers
+- city: Cape Coral
+- website: http://allaboardpreschoolcape.com/
+- phone: (239) 574-5220
+- email: unknown
+- contact: unknown
+- size signal: 1918 SE Santa Barbara Pl; ages 4 weeks to 12 years with Preschool, VPK, After School, and Holiday/Summer Camps
+- event signal: Holiday and Summer Camps confirmed for school-age kids, but no description of themed weeks, water days or family events was found.
+- fit score: 2
+- why: Age range up to 12 with dedicated camp programming is a reasonable prospect, but lacks confirmed specific event evidence.
+- source: http://allaboardpreschoolcape.com/programs.html
+
+### Cape Christian Preschool
+- type: preschools and daycare centers
+- city: Cape Coral
+- website: https://www.capechristianpreschool.com/
+- phone: (239) 772-5781
+- email: unknown
+- contact: unknown
+- size signal: 2110 Chiquita Blvd S; ages 18 months to 5 years (VPK included); offers "Summer Fun Enrollment" for year-round care
+- event signal: Only a "Summer Fun Enrollment" option for families wanting year-round summer care — no themed weeks, water days or specific events found.
+- fit score: 1
+- why: Narrow age range with no elementary/school-age camp, and only generic summer-care evidence. Lowest priority in this category. Note the affiliated Cape Christian Fellowship church has a splash pad and a K-5 "Cape Kids" ministry — the church, not the preschool, is the better door.
+- source: https://www.capechristianpreschool.com/contact-us.html
+
+### 3. Church youth programs
+
+### Grace Church — Cape Coral Campus
+- type: church youth programs
+- city: Cape Coral
+- website: https://www.egracechurch.com/cape/
+- phone: (239) 574-7161
+- email: info@egracechurch.com
+- contact: unknown (youth pastor name not published)
+- size signal: Multi-site congregation with three SWFL campuses; Cape Coral campus at 13 SE 21st Place with two Sunday services (9:30am and 11am)
+- event signal: Dedicated "Vacation Bible School 2026 - Cape Campus" page, plus a separate VBS page for the Shores campus; weekly student ministry — "Revolution" for middle and high schoolers Wednesdays 6:30pm and a Middle School Gathering Sundays 11am.
+- fit score: 5
+- why: Large, well-resourced multi-campus church with staffed youth ministry and an actively promoted annual VBS. Same organization as the Fort Myers Central campus already on this list — one relationship, three campuses.
+- source: https://www.egracechurch.com/vbs/
+
+### Crosspoint Christian Church
+- type: church youth programs
+- city: Cape Coral
+- website: https://www.crosspointcape.com/
+- phone: (239) 574-1422
+- email: unknown
+- contact: unknown
+- size signal: Three Sunday services (8:30, 10:00, 11:30 AM) at 204 SW 11th Pl; separate Middle School (Tue 6:30-8pm) and High School (Sun 6:30-8:30pm) ministries
+- event signal: "Crosspoint Church Trunk or Treat Fall Festival" at 204 SW 11th Pl, 4-7pm — free family event featuring Trunk or Treat, inflatables, games and food trucks.
+- fit score: 5
+- why: They already rent inflatables and book food trucks for a free public family festival — foam is the same purchase from the same budget line, and the event format is a direct match.
+- source: https://fun4fortmyerskids.com/calendar/eventdetail/30172/-/crosspoint-church-trunk-or-treat-fall-festival
+
+### Cape Coral First United Methodist Church
+- type: church youth programs
+- city: Cape Coral
+- website: https://capecoralfirst.org
+- phone: (239) 542-4051
+- email: admin@capecoralfirst.org
+- contact: unknown
+- size signal: Traditional (8:45am) and Contemporary (11am) Sunday services at 4118 Coronado Pkwy
+- event signal: "Cape Coral First Methodist Church Fall Festival & Trunk or Treat," 4118 Coronado Pkwy, 4-7pm, listed on the Cape Coral Living Magazine community events calendar.
+- fit score: 4
+- why: Established church with a specific, currently-listed fall festival that draws families, plus a published office email for outreach.
+- source: https://www.capecorallivingmagazine.com/events/273598/trunk-treat-event
+
+### New Hope Church (Family Worship Center)
+- type: church youth programs
+- city: Cape Coral
+- website: https://www.newhopecapecoral.com
+- phone: (239) 573-1370
+- email: unknown
+- contact: Pastor Matt Irvin, Youth Group leader
+- size signal: Baptist congregation with two Sunday services (9:30 and 11am) at 431 Nicholas Pkwy East; standalone youth ministry page
+- event signal: VBS confirmed Monday-Friday, July 14-18, 9am-noon, for ages preschool through 5th grade; weekly Youth Group Sundays 9:30am and Wednesdays 6-8pm.
+- fit score: 4
+- why: Specific dated VBS with a defined age range plus an active weekly youth program under a named pastor. A mid-July morning VBS in Cape Coral is prime foam weather; Classic or Deluxe fits a single VBS day.
+- source: https://www.newhopecapecoral.com/vacation-bible-school
+
+### First Christian Church — Cape Coral
+- type: church youth programs
+- city: Cape Coral
+- website: https://www.firstchristiancc.com
+- phone: unknown
+- email: unknown
+- contact: Pastor Keith Kruger; Pastor Gary Jones (youth pastor name not confirmed)
+- size signal: 2620 Country Club Blvd; multiple pastoral/ministry staff listed including a Creative Arts Pastor and a Children's Director
+- event signal: "First Christian Church of Cape Coral Fall Festival + Trunk or Treat" listed as a specific community event, plus a dedicated youth ministry page with weekly worship, teaching and games.
+- fit score: 4
+- why: Confirmed fall festival plus a staffed children's and youth structure. No phone found — start through the staff page.
+- source: https://fun4fortmyerskids.com/calendar/eventdetail/29528/17/first-christian-church-of-cape-coral-fall-festival-trunk-or-treat
+
+### First Cape Church
+- type: church youth programs
+- city: Cape Coral
+- website: https://firstcape.org
+- phone: (239) 542-3703
+- email: unknown
+- contact: unknown
+- size signal: Southern Baptist congregation at 4117 Coronado Pkwy with a separate youth/children's building on SE 41st Terrace; two Sunday services including a Spanish-language service at 11:45am
+- event signal: VBS "What a Mess!" scheduled June 16-20, 9am-12pm, $10 registration opening March 1, including a t-shirt.
+- fit score: 4
+- why: Specific, dated, currently-promoted VBS with registration mechanics and a dedicated children's facility. The "What a Mess!" theme is an unusually direct hook for a foam pitch.
+- source: https://firstcape.org/vbs/
+
+### City First Church — Cape Coral
+- type: church youth programs
+- city: Cape Coral
+- website: https://www.cityfirst.church/locations/cape-coral/
+- phone: (239) 458-0813
+- email: unknown
+- contact: Jason and Bianca Callahan, Location Pastors
+- size signal: Part of the multi-location City First Church network; 121 Del Prado Blvd S with dedicated youth-night programming
+- event signal: Weekly Youth Nights for 6th-12th graders Wednesdays 6:30pm, with a separately branded "City First Youth Cape Coral" presence. The parent brand has historically run a Fall Festival with inflatables and food trucks, but the specific listing found dates to 2017 — a current-year event was NOT confirmed.
+- fit score: 3
+- why: Named on-site leadership and an active youth ministry are strong signals, but the large-event evidence is stale. Call to verify this year's fall calendar before pitching.
+- source: https://www.cityfirst.church/locations/cape-coral/
+
+### Cape Coral Community Church
+- type: church youth programs
+- city: Cape Coral
+- website: https://capecoralchurch.com
+- phone: (239) 574-1148
+- email: info@capecoralchurch.com
+- contact: unknown
+- size signal: 811 Santa Barbara Blvd; two Sunday services (9am and 10:45am); branded "C4 Youth Group" with its own page
+- event signal: C4 Youth Group meets weekly Wednesdays 6:30pm and is described as involved in community clean-up projects; no dated festival, VBS or trunk-or-treat was found.
+- fit score: 2
+- why: Real, active, named youth ministry with a published office email, but no specific large-event evidence surfaced. Worth a call to ask about VBS and fall plans.
+- source: https://capecoralchurch.com/youth/
+
+### Cape Vineyard Community Church
+- type: church youth programs
+- city: Cape Coral
+- website: https://capevineyard.com
+- phone: (239) 549-8075
+- email: info@capevineyard.com
+- contact: unknown
+- size signal: 923 SE 47th Terrace; dedicated "NOVA Student Ministry" for 6th-12th graders
+- event signal: NOVA meets weekly Wednesdays 6-8pm and the church maintains a general events page, but no specific VBS, trunk-or-treat or fall festival listing was found.
+- fit score: 2
+- why: Confirmed dedicated student ministry with a published email, but no dated event evidence. Check their events page directly before pitching.
+- source: https://capevineyard.com/nova
+
+### Providence Christian Church (PCA)
+- type: church youth programs
+- city: Cape Coral
+- website: https://providencecapecoral.com
+- phone: unknown
+- email: peter@providencecapecoral.com
+- contact: Rev. Peter Stonecipher, Youth Activities contact
+- size signal: 701 Mohawk Pkwy; runs separate boys' and girls' youth group meetings in named rooms of an Education Building, indicating a facility built out for youth ministry
+- event signal: Only weekly youth group meetings were confirmed; no VBS, festival or trunk-or-treat was found.
+- fit score: 2
+- why: A named staff contact with a published organizational email is a real lead, but there is no confirmed large-event evidence. Approach as a direct inquiry rather than an event-based pitch.
+- source: https://providencecapecoral.com/meet-our-team/
+
+### 4. Schools and PTOs
+
+### St. Andrew Catholic School
+- type: schools and PTOs
+- city: Cape Coral
+- website: https://www.standrewcs.org/
+- phone: unknown
+- email: unknown
+- contact: St. Andrew Catholic School office
+- size signal: Private Catholic school affiliated with St. Andrew Catholic Church, Cape Coral
+- event signal: The Saint Andrew Festival, running since 1992, is described as "the largest four-day event in Cape Coral," featuring a full carnival midway, rides, games, food and live entertainment as the school's major fundraiser. The school also runs an annual Gala.
+- fit score: 5
+- why: A 30-plus-year, four-day carnival with a midway is the single largest school-affiliated event in the city — they contract rides and attractions annually, so foam is a familiar purchase. The separate Gala is a second budget line.
+- source: https://www.standrewcs.org/sacs-gala
+
+### Oasis Elementary North PTO
+- type: schools and PTOs
+- city: Cape Coral
+- website: https://www.oasisnorthpto.com/
+- phone: unknown
+- email: oasisnorthpto@gmail.com
+- contact: Oasis Elementary North PTO, Inc.
+- size signal: Public charter elementary, K-5, at 2817 SW 3rd Ln, Cape Coral 33991; part of the Cape Coral Charter School Authority
+- event signal: PTO states it "organizes events that bring the school community together" including a fall festival and family fun nights; runs its own website, active Facebook page, PTO calendar and a sponsorship program.
+- fit score: 5
+- why: An independently incorporated PTO with its own website, published email and a live sponsorship program is the easiest school sale there is — they already solicit vendors and control their own budget. Charter authority means no district procurement.
+- source: https://www.oasisnorthpto.com/
+
+### Oasis Elementary South
+- type: schools and PTOs
+- city: Cape Coral
+- website: https://oasiselementaryschool.net/
+- phone: unknown
+- email: unknown
+- contact: Oasis Elementary South PTO (school office)
+- size signal: Public charter elementary, Cape Coral Charter School Authority, 3415 Oasis Blvd, Cape Coral 33914
+- event signal: School Info page notes families get involved through "the PTO and School Advisory Committee," and the Charter School Authority events page lists activities across the Oasis campuses; no single named event confirmed.
+- fit score: 3
+- why: Confirmed active PTO structure and a district-wide charter events calendar, and the sister campus (Oasis North) has a proven festival — a warm referral path. No specific event name verified here yet.
+- source: https://oasiselementaryschool.net/school-info
+
+### Oasis Middle School
+- type: schools and PTOs
+- city: Cape Coral
+- website: https://oasismiddleschool.net/
+- phone: (239) 424-6100
+- email: unknown
+- contact: Oasis Middle School front office
+- size signal: Public charter middle school, Cape Coral Charter School Authority, 3519 Oasis Blvd, Cape Coral 33914
+- event signal: Confirmed events include an 8th Grade End-of-Year Dance; the school appears on the Charter School Authority events calendar, and the charter network held a 20th-anniversary "Platinum Nights" gala fundraiser in February 2026.
+- fit score: 3
+- why: Verified end-of-year dance and an active events calendar, but middle-school programming skews toward dances and galas rather than the outdoor family formats foam suits best.
+- source: https://www.capecharterschools.org/events
+
+### Gulf Elementary School PTO
+- type: schools and PTOs
+- city: Cape Coral
+- website: https://gfe.leeschools.net/our_families/p_t_a__p_t_o
+- phone: (239) 549-2726
+- email: unknown
+- contact: Gulf Elementary PTO (via school office)
+- size signal: Lee County public elementary at 3400 SW 17th Place, Cape Coral 33914
+- event signal: PTO maintains an active Facebook page and has "a presence at school events" with cafeteria tables and raffle prizes for interested families; no single named festival or fun run confirmed.
+- fit score: 3
+- why: Confirmed active PTO with school-event presence and fundraising activity. Lee County district school, so vendor approval is slower than at a charter.
+- source: https://gfe.leeschools.net/our_families/p_t_a__p_t_o
+
+### Trafalgar Elementary School
+- type: schools and PTOs
+- city: Cape Coral
+- website: https://tfe.leeschools.net/
+- phone: (239) 283-3043
+- email: unknown
+- contact: Trafalgar Elementary School office
+- size signal: Lee County public elementary at 1850 SW 20th Ave., Cape Coral 33991
+- event signal: School website lists a PTA/PTO section; no specific festival, fun run or family night could be confirmed.
+- fit score: 2
+- why: Verified school with an active PTA/PTO structure, but no concrete event evidence found — cold-call territory.
+- source: https://tfe.leeschools.net/
+
+### Cape Elementary School
+- type: schools and PTOs
+- city: Cape Coral
+- website: https://cap.leeschools.net/
+- phone: (239) 542-3551
+- email: unknown
+- contact: Cape Elementary School office
+- size signal: Lee County public elementary at 4519 Vincennes Blvd., Cape Coral 33904; the first school built on the Cape
+- event signal: School site includes a PTA/PTO section, but no specific named event was confirmed.
+- fit score: 2
+- why: Established school with a PTA/PTO presence, but no concrete event evidence found.
+- source: https://cap.leeschools.net/
+
+### Diplomat Elementary School
+- type: schools and PTOs
+- city: Cape Coral
+- website: https://dpl.leeschools.net/
+- phone: unknown
+- email: unknown
+- contact: Diplomat Elementary School office
+- size signal: Lee County public elementary (Pre-K through 5) in Cape Coral
+- event signal: None found. The school's own event listings returned "no events found" at time of research.
+- fit score: 1
+- why: Confirmed operating school, but zero evidence of festivals, fun runs or family nights. Lowest priority in this category.
+- source: https://dpl.leeschools.net/
+
+### 5. Municipal parks and recreation
+
+### Cape Coral Special Events Division (Parks & Recreation)
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://www.capecoral.gov/community/special_events/index.php
+- phone: (239) 573-3123 (a parks listing also shows 239-573-3122 — verify)
+- email: specialevents@capecoral.gov; seclerk@capecoral.gov (scheduling)
+- contact: Special Events staff, 1015 Cultural Park Blvd, 2nd floor, City Hall
+- size signal: Dedicated city division whose sole function is planning citywide special events; administers the city's special event permit process
+- event signal: "The Cape Coral Special Events Division plans and facilitates a variety of Citywide Special Events throughout the year," spanning sports, music, cuisine, motorcycle and cultural festivals and family-friendly entertainment. Direct producer of Red White & BOOM! and Cape Coral Bike Night.
+- fit score: 5
+- why: The single best point of contact in Cape Coral. This office both runs the city's flagship events and permits everyone else's, so one relationship opens multiple recurring activations and surfaces every other permitted third-party festival in the city.
+- source: https://www.capecoral.gov/community/special_events/special_events_division_.php
+
+### Sun Splash Family Waterpark
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://sunsplashwaterpark.com/
+- phone: (239) 574-0558
+- email: unknown
+- contact: unknown
+- size signal: City-owned 14-acre waterpark at 1105 Cape Coral Parkway East (also listed at 400 Santa Barbara Blvd), operated by Cape Coral Parks & Recreation since 1992; hosts groups from 30 to 3,000; seasonal March-September
+- event signal: Runs recurring branded special events — "Aqua Theatre Nights" dive-in movies, the annual Halloween "Spooky Splash Bash," and a canned-food "Cans Film Festival" — plus birthday party packages with private cabanas, group/corporate bookings, and its own youth programs (swim lessons, junior lifeguard, "Splashcateer" job training for ages 10-15).
+- fit score: 3
+- why: Genuinely split verdict. They run a real events calendar and sell party packages, so there is a partnership or cross-promotion path on their non-water event nights. But they are also a full-scale municipal water attraction — the closest thing to a direct substitute for foam in the city. Approach as an event partner for dry-side activations, not as a standard buyer.
+- source: https://sunsplashwaterpark.com/special-events/
+
+### Cape Coral Yacht Club Community Park
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/parks_recreation/yacht_club_community_park.php
+- phone: (239) 574-0806
+- email: ccpks@capecoral.gov
+- contact: unknown
+- size signal: Historic 1962 waterfront park at 5819 Driftwood Pkwy — public beach, marina/boat launch, fishing pier, tennis/racquetball, heated Junior Olympic pool plus kiddie pool, enclosed beach pavilion and a ballroom. Membership-based annual/semi-annual passes; not age-restricted.
+- event signal: Strongest family-event history in the city — annual Daddy-Daughter Dance (January), Kids Fishing Derby (September), family-friendly Concert in the Park series, monthly Sunset Celebration (first Wednesday, 40-50 vendors, live music, food trucks), swim lessons and birthday party packages. Beach pavilion explicitly used for "picnics, BBQs, birthday parties and other casual events."
+- fit score: 4
+- why: Deep, specific, recurring family programming plus rentable outdoor pavilion space and water access. IMPORTANT CAVEAT: the facility sustained major Hurricane Ian damage and is undergoing a large reconstruction project — confirm current operating and booking status before investing outreach time.
+- source: https://www.capecoral.gov/departments/parks_recreation/yacht_club_community_park.php
+
+### Four Freedoms Park
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/parks_recreation/recreation_facilities/four_freedoms_park/index.php
+- phone: (239) 574-0804
+- email: ccpks@capecoral.gov
+- contact: unknown
+- size signal: 3.2-acre waterfront park overlooking Bimini Basin with playgrounds for all ages and picnic areas; runs children's programming from birth through age 17
+- event signal: Site of the annual Cardboard Boat Regatta (April), summer family movie nights, and the Christmas Boat Parade; has a dedicated "Four Freedoms Events" city page. Also hosts the "Camp Horizons" day camp with water days.
+- fit score: 4
+- why: Confirmed recurring family and kids events at a playground-centric waterfront park, and it doubles as a camp site — two ways in through the same city contact.
+- source: https://www.capecoral.gov/departments/parks_recreation/recreation_facilities/four_freedoms_park/featured_events.php
+
+### William "Bill" Austen Youth Center
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://www.capecoral.gov/department/parks_and_recreationhome/wm_bill_austen_youth_center/index.php
+- phone: (239) 242-3968
+- email: ccpks@capecoral.gov
+- contact: unknown
+- size signal: 9,900 sq ft recreation center at 315 SW 2nd Avenue, adjacent to Eagle Skate Park; open Mon-Fri 6:30am-8:00pm
+- event signal: The city's own facility description names youth classes, after-school programs, "special events," and day camps as core year-round programming.
+- fit score: 4
+- why: A dedicated youth facility where the city itself lists special events and day camps as standing programming — a direct fit for Classic or Commercial, with a single named phone line.
+- source: https://www.capecoral.gov/department/parks_and_recreationhome/wm_bill_austen_youth_center/index.php
+
+### Cape Coral Parks & Recreation — Park Shelter and Pavilion Reservations
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/parks_recreation/park_services/park_shelter_reservations.php
+- phone: (239) 573-3128
+- email: ccpks@capecoral.gov
+- contact: unknown
+- size signal: Multiple city parks with rentable shelters, pavilions and gazebos (Veterans Park pavilion seats ~40); fees $50-$100/day; some shelters have BBQ grills, fans and electricity
+- event signal: City program explicitly for reserving picnic shelters "for family outings, special events, and gatherings."
+- fit score: 4
+- why: Not a B2B partner but a demand channel — these are cheap, outdoor, publicly bookable pavilions, exactly the setting foam needs. The play is marketing to the families and groups who reserve them, and knowing the fee structure lets you price a package against it.
+- source: https://www.capecoral.gov/departments/parks_recreation/park_services/park_shelter_reservations.php
+
+### Rotary Park Environmental Center
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/parks_recreation/recreation_facilities/rotary_park_environmental_center/index.php
+- phone: (239) 549-4606
+- email: ccpks@capecoral.gov
+- contact: unknown
+- size signal: City-run environmental park and nature center at 5505 Rose Garden Rd, with a Butterfly House and guided tour programming
+- event signal: Heavy documented annual slate — Burrowing Owl Festival, native/butterfly/edible plant sales, "Just for Fun Dog Show," Doxie Dash, Polynesian Show, Fossil Show, Star Gazing party — plus a listed summer camp and a dedicated events page.
+- fit score: 3
+- why: A genuinely busy festival calendar and a summer camp, but the environmental and wildlife focus (butterfly house, resident species) makes soap runoff a likely objection. Ask about that directly before pitching.
+- source: https://www.capecoral.gov/departments/parks_recreation/recreation_facilities/rotary_park_environmental_center/featured_events.php
+
+### Eagle Skate Park
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/parks_recreation/recreation_facilities/eagle_skate_park/index.php
+- phone: (239) 574-0490
+- email: ccpks@capecoral.gov
+- contact: unknown
+- size signal: ~27,000 sq ft skate facility at 315 SW 2nd Ave, one of the largest from Tampa to Miami; open daily with staffed hours
+- event signal: Offers featured events, after-school programs, lessons, contests, "Skate Camps," Bike Days every Wednesday, plus birthday parties and facility rental.
+- fit score: 3
+- why: Runs kids' camps and contests and already rents the facility for parties, so the buying motion exists. A concrete skate bowl is a poor foam surface, so any booking would need to run on the adjacent lot or grass.
+- source: https://www.capecoral.gov/departments/parks_recreation/recreation_facilities/eagle_skate_park/index.php
+
+### Lake Kennedy Center (Cape Coral Athletic Club)
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/parks_recreation/recreation_facilities/lake_kennedy_center/index.php
+- phone: (239) 574-0575
+- email: ccpks@capecoral.gov
+- contact: unknown
+- size signal: City recreation center at Lake Kennedy Community Park, at the entrance to Sun Splash Waterpark; operating since 1990
+- event signal: Offers youth camps including a "Lake Kennedy Dance Camp," themed bingo nights, day trips, fitness/dance classes, and a dedicated LKC Featured Events page.
+- fit score: 3
+- why: Confirmed youth camp programming and a dedicated events page, but the center's core focus skews to 50+ adult programming, so the kids' audience is intermittent.
+- source: https://www.capecoral.gov/departments/parks_recreation/recreation_facilities/lake_kennedy_center/featured_events.php
+
+### City of Cape Coral Procurement Division
+- type: municipal parks and recreation
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/financial_services/procurement/index.php
+- phone: (239) 574-0831
+- email: eprocurement@capecoral.gov
+- contact: unknown
+- size signal: Citywide procurement office serving all departments including Parks & Recreation
+- event signal: None — this office does not run events. It is the vendor-registration gateway for any paid city contract.
+- fit score: 2
+- why: Not a buyer, but the mechanism. The city requires vendor registration and E-Verify enrollment before contracting, so completing this unlocks every city record above. Do this once, before pitching Parks & Rec or Special Events.
+- source: https://www.capecoral.gov/departments/financial_services/procurement/vendor_registration_tyler.php
+
+### 6. Country clubs
+
+Category note: Cape Coral's private-club scene is genuinely thin compared with Fort Myers,
+Naples or Estero. Five records, not padded. Many clubs that surface in "Cape Coral country
+club" searches (Fiddlesticks, Gulf Harbour, Six Lakes, The Club at Renaissance, Cross Creek,
+Lexington, Shadow Wood, Bonita Bay, Pelican's Nest) are actually in Fort Myers, Estero or
+Bonita Springs and are excluded here.
+
+### Cape Coral Yacht Club (club membership side)
+- type: country clubs
+- city: Cape Coral
+- website: https://www.capecoral.gov/departments/parks_recreation/yacht_club_community_park.php
+- phone: (239) 574-0806
+- email: ccpks@capecoral.gov
+- contact: unknown
+- size signal: City-operated waterfront club at 5819 Driftwood Pkwy functioning as the city's athletic/social club, with annual and semi-annual membership passes granting facility access — beach, marina, pool, tennis/racquetball, ballroom and pavilion
+- event signal: Daddy-Daughter Dance (annual, January), Kids Fishing Derby (annual, September), family-friendly Concert in the Park series, swimming lessons, birthday party packages, playground and shuffleboard beside the pool.
+- fit score: 4
+- why: Not a traditional private club, but it is the closest thing Cape Coral has to one and it carries by far the clearest documented family and kids event history of any club-type venue in the city. Cross-listed with the parks record above — one contact, two angles. Same Hurricane Ian reconstruction caveat applies.
+- source: https://www.capecoral.gov/departments/parks_recreation/yacht_club_community_park.php
+
+### Palmetto-Pine Country Club
+- type: country clubs
+- city: Cape Coral
+- website: https://palmettopinecc.com/
+- phone: (239) 574-7262
+- email: info@palmettopinecc.com
+- contact: unknown
+- size signal: Equity-owned private club since 1969; full-service restaurant, bar, banquet facilities seating up to 225; 18-hole course in the Trafalgar Woods neighborhood
+- event signal: Year-round social calendar including an annual "Parking Lot Party," cornhole tournaments, dinner/dancing evenings, themed parties and holiday events, plus bocce, Bridge, Poker and Mah Jongg groups. No kids or family programming found — activities skew adult.
+- fit score: 2
+- why: A real private club with active social programming, banquet capacity and a published email, but every documented event is adult-oriented. Worth one call to ask whether they run a grandkids or family season; do not lead with a kids' pitch.
+- source: https://palmettopinecc.com/
+
+### Cape Royal Golf Club
+- type: country clubs
+- city: Cape Coral
+- website: https://www.caperoyalgolfclub.com/
+- phone: (239) 283-5522
+- email: unknown
+- contact: unknown
+- size signal: Semi-private 27-hole Gordon Lewis course at 11460 Royal Tee Cir, managed under Troon, with clubhouse grill/lounge (The Caloosa Club), pro shop, pub and tennis; social and golf memberships. This is the successor/rebrand of the former Royal Tee Golf Club at the same address, which is now listed as closed.
+- event signal: Membership includes "invites to special events"; community activities include a bocce league, euchre club and summer bowling league; the separate Cape Royal HOA hosts "fun events throughout the year and holiday parties." No kids or family event evidence found.
+- fit score: 2
+- why: Active golf community with a real events calendar and a separate HOA that also programs events, but all documented activity is adult. The HOA is arguably the better door than the club.
+- source: https://www.caperoyalgolfclub.com/
+
+### Coral Oaks Golf Course
+- type: country clubs
+- city: Cape Coral
+- website: https://www.coraloaksgolf.com/ (city page: capecoral.gov/coraloak)
+- phone: (239) 573-3100
+- email: amanguson@capecoral.gov (events); coraloaks@capecoral.net (general)
+- contact: unknown
+- size signal: City of Cape Coral-owned 18-hole championship course, renovated 2017, with driving range, practice areas and the Knickers Pub restaurant. Not a private membership club.
+- event signal: Hosts a Pro-Am and City Championship Tournament (October), charity golf events and PGA-led Golf School sessions. No family or kids non-golf programming found.
+- fit score: 1
+- why: Municipal golf facility whose entire event calendar is adult golf tournaments. Listed for completeness; there is a published events email if a family day ever appears on their calendar.
+- source: https://www.capecoral.gov/coraloak/course_news/upcoming_events/index.php
+
+### Hunters Run Executive Golf Club
+- type: country clubs
+- city: Cape Coral
+- website: https://www.huntersrungolf.com/
+- phone: (239) 574-4454
+- email: unknown
+- contact: unknown
+- size signal: Small family-owned 9-hole executive course at 1006 SE 4th Pl, established 1961; no membership program, first-come-first-play, snacks and beer only
+- event signal: None found.
+- fit score: 1
+- why: A casual public executive course rather than a club with member programming. No events, no membership, no budget line. Deprioritize.
+- source: https://www.huntersrungolf.com/
+
+### 7. Apartment and condo communities with event staff
+
+### Sandoval Community Association
+- type: apartment and condo communities with event staff
+- city: Cape Coral
+- website: https://www.livesandoval.com/
+- phone: (239) 282-5525
+- email: unknown
+- contact: Administrative Office, 2573 Sandoval Pkwy, Cape Coral 33991 (activities director role confirmed, name not published)
+- size signal: Large master-planned single-family HOA community, thousands of homes; mixed ages and family-skewing, not age-restricted
+- event signal: HOA-run activity director publishes a monthly calendar of events for all ages, including wine tastings, fitness classes and holiday celebrations; community center on site.
+- fit score: 4
+- why: Confirmed on-staff activities coordination, a recurring published calendar, a community center and a large resident base. The events role is the buyer — ask for the activities director by title.
+- source: https://www.livesandoval.com/community-center
+
+### Coral Lakes Community Association
+- type: apartment and condo communities with event staff
+- city: Cape Coral
+- website: https://www.ourcorallakes.com/
+- phone: (239) 242-6344
+- email: unknown
+- contact: HOA office, 1500 Coral Lakes Blvd, Cape Coral 33909
+- size signal: 250+ acre gated master-planned community with single-family homes, villas and townhomes; explicitly family-friendly with playground and basketball court; not age-restricted
+- event signal: Community calendar described as filled with events "tailored to residents of all ages," including holiday celebrations, movie nights, fitness classes and seminars.
+- fit score: 4
+- why: Verified family-oriented programming with an all-ages events calendar and kid amenities already on site — a receptive audience and an HOA office with a published phone.
+- source: https://www.ourcorallakes.com/
+
+### Bella Vida at Entrada Homeowners Association
+- type: apartment and condo communities with event staff
+- city: Cape Coral
+- website: unknown (two conflicting URLs surfaced — mybellavidahoa.com and bellavida-hoa.com; neither independently verified)
+- phone: (239) 543-3458
+- email: unknown
+- contact: HOA office, 3410 Malagrotta Circle, Cape Coral 33909; clubhouse at 3427 Malagrotta Circle
+- size signal: Large master-planned family community within the broader Entrada development; explicitly family-friendly, not age-restricted
+- event signal: Waterfront clubhouse with "frequently planned events"; the HOA organizes fitness classes, book clubs, seasonal events, BBQs and holiday celebrations. Kids' pool on site.
+- fit score: 4
+- why: A dedicated waterfront clubhouse plus a documented pattern of recurring HOA-run social events and a kids' pool. Verify the correct website on the call — two conflicting addresses are in circulation.
+- source: https://www.searchcapecoralhomes.com/blog/bella-vida-cape-coral/
+
+### Village at Entrada Homeowners Association
+- type: apartment and condo communities with event staff
+- city: Cape Coral
+- website: https://villageatentrada.sites.townsq.io
+- phone: unknown
+- email: unknown
+- contact: HOA board/property manager via TownSq portal
+- size signal: 721 homes, gated, D.R. Horton-built master-planned community in NE Cape Coral; family-oriented with splash pad, playground, tennis and pickleball
+- event signal: Amenity center with a clubhouse "social hub," splash pad, and a community described as offering "numerous community events throughout the year"; no specific recurring calendar verified.
+- fit score: 3
+- why: Large family-skewing community with a splash pad and clubhouse built for gatherings — the splash pad proves the audience buys water play. Event evidence is marketing language rather than a verified program, and no direct phone was found.
+- source: https://www.aboveboardchamber.com/press-releases/amenity-center-now-open-at-d-r-hortons-entrada-community/
+
+### The Cove at 47th
+- type: apartment and condo communities with event staff
+- city: Cape Coral
+- website: https://coveat47th.com/
+- phone: unknown
+- email: unknown
+- contact: Leasing office (developed/managed by Flaherty & Collins Properties)
+- size signal: 292-unit luxury apartment community (studio-2BR), opened September 2024, downtown mixed-use; young professional and family mix, not age-restricted
+- event signal: Clubhouse explicitly positioned for "hosting events, meeting neighbors," plus rooftop lounge, fire pits, and stated "planned social events" for residents.
+- fit score: 3
+- why: Sizable new rental community with dedicated event-hosting space and a professional multifamily operator behind it, but no named lifestyle-director role or specific event calendar was found, and a studio-heavy unit mix suggests fewer kids.
+- source: https://coveat47th.com/
+
+### Cape at Savona Point
+- type: apartment and condo communities with event staff
+- city: Cape Coral
+- website: https://www.thecapeatsavonapoint.com/
+- phone: unknown
+- email: unknown
+- contact: Leasing office, 1730 Savona Point Cir, Cape Coral 33914
+- size signal: 320-unit four-story rental complex in SW Cape Coral; family/mixed-age amenity mix with playground and picnic areas; not age-restricted
+- event signal: Large clubhouse, tiki hut, game area, and playground/picnic areas indicate event capacity, but no specific events calendar or lifestyle-staff role was found.
+- fit score: 2
+- why: One of the larger rental complexes in Cape Coral with genuinely good physical space for a foam party, but no verified evidence of an active resident-events program. Qualify by phone.
+- source: https://www.thecapeatsavonapoint.com/cape-at-savona-cape-coral-fl/
+
+### Vantage Apartments
+- type: apartment and condo communities with event staff
+- city: Cape Coral
+- website: https://www.apartments-capecoral.com/
+- phone: (844) 424-8209
+- email: unknown
+- contact: Leasing office, 3050 Steeple Circle, Cape Coral 33909
+- size signal: 292 units, built 2025; standard garden-style family/mixed-age rental community, not age-restricted
+- event signal: "Vibrant social spaces" cited in marketing; no specific named events, calendar, or lifestyle-director role found.
+- fit score: 2
+- why: Large new-build rental with social common areas, but the only evidence is marketing language — no actual resident-events program verified.
+- source: https://www.apartments-capecoral.com/
+
+### 8. Birthday party venues
+
+### Saddlewood Horse Club (CapeHorses.com)
+- type: birthday party venues
+- city: Cape Coral
+- website: https://capehorses.com/
+- phone: (239) 738-9300
+- email: unknown
+- contact: unknown
+- size signal: Working horse boarding and riding facility at 16111 Saddlewood Ln
+- event signal: Published birthday party pricing — flat rate for up to 10 kids ($15 per additional child), ~45 minutes riding with two ponies/horses and handlers, plus an add-on animal interaction option (mini goats, mini horses, "snuggle bunny").
+- fit score: 5
+- why: Outdoor ranch setting with open pasture is an excellent physical fit for foam, and they already sell structured, priced party packages with optional add-ons — foam slots in as another add-on tier rather than competing with anything they offer.
+- source: https://capehorses.com/birthday-parties
+
+### Gator Mike's Family Fun Park
+- type: birthday party venues
+- city: Cape Coral
+- website: https://gatormikes.com/
+- phone: (239) 574-4386 (party bookings line reported as 239-699-2794)
+- email: pr@gatormikes.com
+- contact: unknown (a dedicated "party host" role is referenced)
+- size signal: 20-acre family entertainment complex at 35 NE Pine Island Rd, operating since 1992. Formerly Mike Greenwell's Bat-A-Ball & Family Fun Park.
+- event signal: Multiple published birthday packages ("Grand Slam" and "Home Run") starting at $28.99/guest with a 10-guest minimum, a dedicated party host and reserved arcade-lounge space.
+- fit score: 4
+- why: 20 acres with real outdoor attractions (mini golf, go-karts, climbing wall) gives genuine room for foam, and they already sell tiered party packages — foam is a natural premium upsell tier. Published business email is a clean entry point.
+- source: https://gatormikes.com/parties-events/birthday-parties/
+
+### Sun Splash Family Waterpark (party packages)
+- type: birthday party venues
+- city: Cape Coral
+- website: https://sunsplashwaterpark.com/birthday-parties/
+- phone: (239) 574-0558
+- email: unknown
+- contact: unknown
+- size signal: City-owned regional waterpark; party area, reserved cabanas, catering add-ons, group discounts
+- event signal: Dedicated Birthday Parties page advertising a party area, gift bags, ice cream vouchers, reserved cabanas, catering add-ons and group discounts, plus a separate Group Events page.
+- fit score: 3
+- why: Cross-listed with the parks record. Real party infrastructure and pool-deck space, but as a municipal water attraction they are the nearest substitute for foam in the city — pitch as a dry-side add-on to cabana and group packages, not as a straightforward buyer.
+- source: https://sunsplashwaterpark.com/birthday-parties/
+
+### Saddlewood Hall
+- type: birthday party venues
+- city: Cape Coral
+- website: unknown
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Rustic event hall accommodating up to 75 guests; appears to be on or near the same Saddlewood Ln property as Saddlewood Horse Club, unconfirmed
+- event signal: Third-party venue listing names it a venue for "wedding receptions, birthday parties, and more."
+- fit score: 3
+- why: Barn/hall venues of this type usually have adjoining lawn space that suits foam, and the likely co-location with Saddlewood Horse Club (fit 5) means one site visit covers both. Only source is a listing aggregator, so packages and outdoor capacity are unconfirmed.
+- source: https://www.eventective.com/cape-coral-fl/saddlewood-hall-768955.html
+
+### Cape Coral History Museum
+- type: birthday party venues
+- city: Cape Coral
+- website: https://capecoralmuseum.org/
+- phone: (239) 772-7037
+- email: unknown
+- contact: unknown
+- size signal: Small local history museum operated by the Cape Coral Historical Society
+- event signal: No published birthday-party packages, pricing or booking page found — only a general Events page. Birthday-party use is unconfirmed.
+- fit score: 2
+- why: No evidence this venue hosts birthday parties as a service, and likely indoor-only exhibit space, which is a weak physical fit for foam even if they added party rentals. Confirm by phone before treating as a lead.
+- source: https://capecoralmuseum.org/events/
+
+### 9. Party and event rental companies (PARTNERS)
+
+Category note: Cape Coral is a crowded foam market. Three confirmed competitors and one
+likely competitor were found here, on top of the two already identified in Fort Myers.
+See the competitive summary at the end of this city section.
+
+### Taylor Rental & Creative Events — Cape Coral
+- type: party and event rental companies
+- city: Cape Coral
+- website: unknown (Cape Coral branch listed via the Chamber directory; parent site taylorrentalnaples.com appears to cover a different branch — do not assume it is the same storefront)
+- phone: (239) 574-4474
+- email: unknown
+- contact: unknown
+- size signal: Cape Coral location at 946 NE Pine Island Rd; part of the multi-location Taylor Rental / Creative Events & Rentals franchise group (Fort Myers HQ at 12090 Metro Parkway, plus a Naples operation). Large-catalog, multi-branch operator — tents, tables, chairs, staging, general equipment.
+- event signal: NO FOAM OFFERING FOUND. Catalog reads as general equipment and party rental, not inflatables, water or foam entertainment.
+- fit score: 5
+- why: Same parent group as the top-scoring Fort Myers partner prospect, with a physical Cape Coral branch. Big established rental pipeline, no foam product of their own, and they already staff the tents and tables at exactly the events that want add-on entertainment. Approach the Fort Myers HQ and the Cape branch as one conversation.
+- source: https://capecoralchamber.com/business-directory/rentals/creative-events-taylor-rental/
+
+### 239 Party Rentals LLC
+- type: party and event rental companies
+- city: Cape Coral
+- website: http://www.239partyrentals.com/
+- phone: (239) 747-5277
+- email: unknown
+- contact: unknown
+- size signal: 1111 SW 37th Ter, Cape Coral 33914; family-owned, open daily 8am-8pm; catalog covers bounce houses, water slides, tables and chairs
+- event signal: NO FOAM OFFERING FOUND in any listing. Long daily hours suggest steady booking volume for an inflatable-focused operator.
+- fit score: 4
+- why: Cape Coral-based inflatable and table rental company with no foam product — a plausible referral source when their customers ask for foam and they have nothing to offer. Their water-slide customers are the same buyer as ours.
+- source: https://www.yelp.com/biz/239-party-rentals-cape-coral
+
+### A and D Party Rental
+- type: party and event rental companies
+- city: Cape Coral
+- website: https://adpartyrentalcapecoral.com/
+- phone: (239) 763-6016
+- email: unknown
+- contact: unknown
+- size signal: Cape Coral-based, family-owned, self-described "premium party equipment" specialist — tents, tables, chairs; reviews cite on-time setup and clean equipment
+- event signal: NO FOAM OR INFLATABLE OFFERING FOUND — catalog is tent, table and chair focused, which is the wedding and corporate segment that often wants entertainment they do not carry.
+- fit score: 4
+- why: A tent-and-table specialist, not an inflatables company, so there is essentially zero channel conflict. They get asked for "something for the kids" at family reunions and graduations and currently have no answer.
+- source: https://adpartyrentalcapecoral.com/
+
+### Bounce House Delivery
+- type: party and event rental companies
+- city: Cape Coral
+- website: unknown (Yelp listing only)
+- phone: (239) 443-9401
+- email: unknown
+- contact: unknown
+- size signal: Cape Coral 33904; catalog includes bounce houses, water slides, chairs, tables, tents; extended weekend hours (Sat 11am-11pm)
+- event signal: NO FOAM OFFERING FOUND in the listing. Limited web presence beyond Yelp is a caveat on scale.
+- fit score: 3
+- why: Local inflatable and tent outfit with no foam product and a decent booking-hours signal, but a thin web footprint. Confirm size by phone before prioritizing.
+- source: https://www.yelp.com/biz/bounce-house-delivery-cape-coral
+
+### A Better Bounce House
+- type: party and event rental companies
+- city: Cape Coral
+- website: unknown (Yelp and Yahoo listings only)
+- phone: (239) 245-2425
+- email: unknown
+- contact: unknown
+- size signal: Cape Coral 33990; long near-daily hours (Mon-Sat 8am-8:45pm, Sun 10am-7pm) consistent with a busy weekend party schedule
+- event signal: NO FOAM OFFERING FOUND in available listings. No booking-volume metric beyond the operating-hours signal.
+- fit score: 3
+- why: Extended hours point to a busy local inflatable business with no foam product — a plausible referral source, but confirm scale directly since no independent website was found.
+- source: https://www.yelp.com/biz/a-better-bounce-house-cape-coral
+
+### AB Event Rentals
+- type: party and event rental companies
+- city: Cape Coral
+- website: https://www.abeventrentals.com/
+- phone: (941) 539-8070
+- email: unknown
+- contact: unknown
+- size signal: Serves Cape Coral and Fort Myers with a broad catalog — tents, tables, chairs, inflatables, water slides
+- event signal: UNRESOLVED. They list a "Foam Party" category on their site, but a second research pass still could not confirm whether they own and operate foam equipment or list it as a resold/brokered category. No dedicated foam product page surfaced.
+- fit score: 3
+- why: Still the open question in this market. If they own foam gear they are a competitor (1-2); if they merely list the category without equipment, their broad catalog and two-city reach make them a strong subcontract prospect (4-5). One phone call resolves it — worth making early.
+- source: https://www.abeventrentals.com/water-slide-cape-coral-fl/
+
+### Day and Night Bounce House Rentals of Cape Coral FL LLC
+- type: party and event rental companies
+- city: Cape Coral
+- website: https://www.bouncehouserentalsincapecoral.com/
+- phone: (239) 209-2109
+- email: unknown
+- contact: unknown
+- size signal: 2454 NW 22nd Ter, Cape Coral 33993. A BBB profile flags the business as possibly out of business or inactive — treat activity signals as unverified.
+- event signal: No foam offering found, but operating status is uncertain, so booking-volume evidence cannot be trusted without a live call.
+- fit score: 2
+- why: Would otherwise fit the busy-inflatable-company-with-no-foam profile, but closure signals mean verify by phone before any outreach.
+- source: https://www.bbb.org/us/fl/cape-coral/profile/bounce-house/day-and-night-bounce-house-rentals-cape-coral-llc-0653-90274299
+
+### The Bounce House People
+- type: party and event rental companies
+- city: Cape Coral (serves all of SWFL; home base unconfirmed)
+- website: https://thebouncehouseppl.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Self-described as serving all of Southwest Florida including Cape Coral, family-owned; headquarters address not confirmed
+- event signal: LIKELY COMPETITOR. Their own Cape Coral service-area page explicitly lists "foam fun" alongside bounce houses and slides, indicating they already offer foam. Not confirmed with a dedicated foam product page.
+- fit score: 2
+- why: Marketing copy indicates foam is already in their lineup, making them a likely competitor rather than a partner. Verify before any outreach, but do not treat as a warm partner lead.
+- source: https://thebouncehouseppl.com/bounce-house-rentals-in-cape-coral-fl/
+
+### SWFL Amusements, LLC
+- type: party and event rental companies
+- city: Cape Coral
+- website: https://www.swflamusements.com/
+- phone: (239) 212-0011
+- email: reservations@swflamusements.com
+- contact: unknown
+- size signal: 1718 NW 14th Ter, Cape Coral 33993; describes itself as "Cape Coral & Lee County's premiere source" for inflatable games, with 18 games in catalog and staffed setup/teardown
+- event signal: CONFIRMED COMPETITOR — they sell a "Foam Machine Rental" package at $199 for 4 hours, delivery, setup and teardown included, on their own site.
+- fit score: 1
+- why: Owns and actively sells foam in this exact market at the lowest price point found anywhere in Lee County — $199 for 4 hours versus our $649 for 2 hours. Competitor, not a partner, and the most aggressive pricing pressure identified so far.
+- source: https://www.swflamusements.com/foam_machine.php
+
+### 10. Kids gyms and youth sports leagues
+
+### Southern Starz Gymnastics (gym programs)
+- type: kids gyms and youth sports leagues
+- city: Cape Coral
+- website: https://www.southernstarzgymnastics.org/
+- phone: (239) 574-0034
+- email: unknown
+- contact: unknown
+- size signal: "Cape Coral's largest gymnastic facility"; recreational ages 3-15 plus competitive team levels 2-10; 915 SE 14th Pl, Unit 15
+- event signal: Dedicated Summer Camp page, recurring "Open Gym," "Preschool Open Gym" and "Fun Fridays" events on the local kids-events calendar, plus advertised birthday party packages.
+- fit score: 5
+- why: The largest gym in the city with a steady cadence of open-gym nights, camps and birthday parties already on the calendar. Cross-listed with the camps record — one call covers both the camp and the party/open-gym business.
+- source: https://www.southernstarzgymnastics.org/
+
+### Cape Coral Junior Football Association (Cape Jr. Sharks) — Pop Warner football & cheer
+- type: kids gyms and youth sports leagues
+- city: Cape Coral
+- website: https://www.capejr.com/
+- phone: unknown — use the website contact form (a volunteer officer's personal cell appears in search results and is deliberately omitted here)
+- email: unknown
+- contact: unknown (named volunteer officers found but withheld as personal contact details)
+- size signal: 50+ year-old nonprofit; football ages 5-14, cheer ages 5-18; practices and home games at 610 Del Prado Blvd behind Caloosa Middle School
+- event signal: Two Cape Coral cheer squads won a Pop Warner national title and travelled to the Pop Warner Globals competition in Atlantic City — evidence of a high-engagement program with season-culminating competitive events.
+- fit score: 4
+- why: Long-running, large Pop Warner program with national-caliber cheer squads, combined football and cheer rosters, and a season that ends in celebration. Strong end-of-season or homecoming-week target.
+- source: https://www.winknews.com/sports/two-cape-coral-cheer-teams-win-pop-warner-national-title/article_f1818f5f-dcdd-47ec-ae54-655c2dc1b19b.html
+
+### Cape Coral American Little League
+- type: kids gyms and youth sports leagues
+- city: Cape Coral
+- website: https://capeamericanbaseball.com
+- phone: unknown (the 239-573-3128 number that surfaced is the general Cape Coral parks line, not league-specific)
+- email: unknown
+- contact: unknown
+- size signal: Ages 5-12, plays at Koza/Saladino Park — four lighted Little League fields with a concession stand
+- event signal: Confirmed opening-day celebration — the league's own video "It's OPENING DAY at Cape Coral American Little League" with ceremony footage.
+- fit score: 4
+- why: Direct evidence of a season-kickoff event at a dedicated four-field complex with parking and open grass. Opening day is the pitch; end-of-season is the follow-up.
+- source: https://www.capecoral.gov/departments/parks_recreation/parks_facilities/koza_saladino_park.php
+
+### Royal Dynasty Athletics
+- type: kids gyms and youth sports leagues
+- city: Cape Coral
+- website: https://www.royaldynastyathletics.com/
+- phone: (239) 549-0827
+- email: royaldynastycheer@yahoo.com
+- contact: Jason Metevia, Head Coach/Program Director
+- size signal: Competitive all-star cheerleading program with team placements and evaluations at 244 Santa Barbara Blvd
+- event signal: Active tryout and evaluation cycle for the upcoming cheer season with a published team-placement process.
+- fit score: 4
+- why: A dedicated all-star cheer gym running a full seasonal cycle from tryouts through competition, with a named director and published business email. Good fit for a season-kickoff or parents'-night-out booking.
+- source: https://www.royaldynastyathletics.com/
+
+### Cape Coral Soccer Association (Cape Coral Cyclones)
+- type: kids gyms and youth sports leagues
+- city: Cape Coral
+- website: https://capecoralsoccer.com/
+- phone: (239) 573-3128 (published in search results; not independently verified as league-specific versus the general parks line)
+- email: unknown
+- contact: unknown
+- size signal: Recreational plus Select "Cyclones" program spanning ages 5-18, reported 25-41 select teams, playing at Pelican Soccer Complex and Trafalgar Fields
+- event signal: Recreational program runs spring and fall seasons with a published team calendar; no specific kickoff or end-of-season party page surfaced.
+- fit score: 3
+- why: Large multi-team club with year-round seasons and a big registration base across two field complexes — the audience is there. Event evidence is a season calendar rather than a named party, so the first call is discovery.
+- source: https://capecoralsoccer.com/
+
+### Swim Florida ~ Cape Coral (Cape Aquatics)
+- type: kids gyms and youth sports leagues
+- city: Cape Coral
+- website: https://www.swimcapecoral.com/
+- phone: (239) 574-7108
+- email: coached@swimcapecoral.com
+- contact: Ed Collins, Head Coach
+- size signal: Competitive year-round club with athletes setting team records at championship meets
+- event signal: Team competes at USA Swimming championship meets with record-setting performances referenced, showing an active competitive calendar, but no explicit party or camp event was confirmed.
+- fit score: 3
+- why: Established competitive club with a named coach and published business email — an easy contact. An end-of-season celebration is the natural ask, though water-sport families may see foam as less novel.
+- source: https://www.swimcapecoral.com/
+
+### Tropical Twisters Gymnastics
+- type: kids gyms and youth sports leagues
+- city: Cape Coral
+- website: https://tropicaltwistersgymnastics.com
+- phone: (239) 540-9800 (a second source listed 239-772-FLIP — conflicting, verify)
+- email: info@tropicaltwistersgymnastics.com
+- contact: unknown
+- size signal: Full-service gym at 307 SW 7th Pl offering recreational classes, competitive team and gym rental
+- event signal: Summer camp ("Fun, Flips & Friends"), holiday and school's-out camps, birthday parties and gym rentals.
+- fit score: 3
+- why: Solid camp and party history, but a Yelp listing flags the location as CLOSED and possibly rebranded — verify the business is still operating under this name before outreach. Two conflicting phone numbers add to the uncertainty.
+- source: https://www.activityhero.com/biz/35008-tropical-twisters-gymnastics-cape-coral-fl
+
+### Cape Coral National Little League (CCNLL)
+- type: kids gyms and youth sports leagues
+- city: Cape Coral
+- website: https://capenationalyouthbaseball.com/
+- phone: (239) 574-3365
+- email: unknown
+- contact: unknown
+- size signal: Two seasons per year (spring and fall), ages 4-12, multiple teams, own sponsors page, complex at 801 SE 27th St
+- event signal: Spring season January-May with an All-Star tournament track and fall season September-November; no specific opening-day, party or camp page surfaced.
+- fit score: 2
+- why: Real, active multi-team league with its own ballpark and a sponsor program — the sponsor page is a possible angle. Capped at 2 because no actual event evidence was confirmed, unlike its sister league Cape Coral American.
+- source: https://capenationalyouthbaseball.com/
+
+### 11. Festival and community event organizers
+
+### Red, White & BOOM! (City of Cape Coral)
+- type: festival and community event organizers
+- city: Cape Coral
+- website: https://www.capeboom.com/
+- phone: (239) 573-3123
+- email: specialevents@capecoral.gov
+- contact: City of Cape Coral Special Events Division
+- size signal: City-produced Independence Day celebration on Cape Coral Parkway at the Cape Coral Bridge; 60+ vendor booths, a main stage and a ticketed VIP "Boom Zone"
+- event signal: Annual July 4th event, 5-10pm, free general admission, including "Kids Patriot Park" with rides, a climbing wall, obstacle courses and face painting; fireworks at 9:30pm. Next confirmed date July 4, 2026.
+- fit score: 5
+- why: An explicit, confirmed kids' zone with rides and obstacle courses inside a large free city festival that already runs a 60+ vendor program. They contract kids' attractions annually — foam is the same purchase. Peak July heat makes the pitch obvious.
+- source: https://www.capeboom.com/home
+
+### Chamber of Commerce of Cape Coral
+- type: festival and community event organizers
+- city: Cape Coral
+- website: https://capecoralchamber.com/
+- phone: (239) 549-6900
+- email: unknown (Farmers Market vendor inquiries: cso@capecoralchamber.com)
+- contact: Claudia St. Onge (Farmers Market vendor coordinator)
+- size signal: Established chamber at 2051 Cape Coral Parkway E, Cape Coral 33904; operates a business directory, a Business Expo, ribbon cuttings, networking events, and presents community fundraisers
+- event signal: Presents the Priority Business Solutions Freedom 5K & Kid's Fun Run (benefiting Brotherhood of Heroes Resource Center and Museum), operates the Cape Coral Farmers Market, and lists Red White & BOOM! and other community events on its calendar.
+- fit score: 4
+- why: An umbrella organization behind several recurring family and fundraiser events with a named, reachable vendor coordinator — a single point of contact that can open the Freedom 5K, the Farmers Market and member-business referrals at once.
+- source: https://capecoralchamber.com/contact/
+
+### Priority Business Solutions Freedom 5K & Kid's Fun Run
+- type: festival and community event organizers
+- city: Cape Coral
+- website: https://runsignup.com/Race/FL/CapeCoral/Freedom5KRunWalkKidsFunRun
+- phone: (239) 549-6900 (via presenting organizer, Chamber of Commerce of Cape Coral)
+- email: unknown
+- contact: unknown
+- size signal: Presented by the Chamber of Commerce of Cape Coral; proceeds benefit the Brotherhood of Heroes Resource Center and Museum and the Special Operations Communicators Association
+- event signal: Combined 5K run/walk plus a dedicated Kid's Fun Run for children under 12 held after the 5K; all kids receive ribbons and t-shirts.
+- fit score: 4
+- why: A nonprofit-benefit fun run with an explicit, confirmed kids' race component — exactly the family-fundraiser segment worth targeting. A foam finish line or post-race kids' zone is a natural, easily-pictured activation.
+- source: https://runsignup.com/Race/FL/CapeCoral/Freedom5KRunWalkKidsFunRun
+
+### Cape Coral Art Festival
+- type: festival and community event organizers
+- city: Cape Coral
+- website: https://capecoralartfestival.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Large juried outdoor arts festival; historical attendance cited as high as 140,000, with the 2026 edition (Jan 10-11) drawing over 87,000; up to 240 artist/crafter booths, $450 booth fee plus $35 application fee
+- event signal: Annual January festival (Cape Coral Art Festival & Market Place) plus a companion virtual festival; vendor applications close in early September with juror notifications in October. No dedicated kids' zone confirmed.
+- fit score: 3
+- why: Very large recurring community festival with an established, priced vendor pipeline, but it skews toward art browsing and shopping rather than confirmed kids' activation space. Worth asking whether they would add a family zone — the attendance justifies it.
+- source: https://capecoralartfestival.com/apply/
+
+### Cape Coral Farmers Market
+- type: festival and community event organizers
+- city: Cape Coral
+- website: https://capecoralfarmersmarket.com/
+- phone: (239) 549-6900 x101
+- email: cso@capecoralchamber.com
+- contact: Claudia St. Onge (vendor inquiries)
+- size signal: Operated by the Chamber of Commerce of Cape Coral; runs multiple recurring market locations including a North Cape Farmers' Market; requires vendor liability insurance naming the Chamber as additional insured
+- event signal: Weekly recurring markets with a formal vendor application and published 2026 policies and procedures.
+- fit score: 3
+- why: Steady weekly family foot traffic with an accessible application process and a named coordinator. Smaller per-day scale than the flagship festivals, so treat it as a low-cost repeat activation rather than one big booking. Note the insurance requirement — have a COI ready.
+- source: https://capecoralfarmersmarket.com/contact/
+
+### Cape Coral Bike Night
+- type: festival and community event organizers
+- city: Cape Coral
+- website: https://www.ccbikenight.com/
+- phone: (239) 573-3123 (City of Cape Coral Special Events Division)
+- email: specialevents@capecoral.gov
+- contact: unknown
+- size signal: Recurring motorcycle and community street event produced by the City Special Events Division; over a decade running, with a dedicated vendor-application site and designated vendor staging
+- event signal: Multiple dates per year with an active vendor program, but no dedicated kids' zone — the audience skews to an adult motorcycle and bar-district crowd.
+- fit score: 3
+- why: Established recurring event with a working vendor pipeline and the same city contact as Red White & BOOM!, but no confirmed family programming. A general vendor-booth opportunity rather than a core fit.
+- source: https://www.ccbikenight.com/vendors
+
+### German-American Social Club of Cape Coral (Cape Coral Oktoberfest)
+- type: festival and community event organizers
+- city: Cape Coral
+- website: https://www.gasc-capecoral.com/
+- phone: (239) 283-1400
+- email: info@gasc-capecoral.com
+- contact: unknown
+- size signal: Nonprofit social club with its own venue and grounds at 2101 SW Pine Island Rd, Cape Coral 33991; runs a multi-weekend Oktoberfest plus other club events year-round
+- event signal: Cape Coral Oktoberfest held over two fall weekends (Oct 17-19 and Oct 24-26 in the most recent cycle); ticketed with a full entertainment schedule. No kids' zone confirmed.
+- fit score: 3
+- why: A recurring multi-day festival on its own private grounds with a published email — the club owns the site, so no city permit conversation. Primarily an adult beer-garden event, so the ask would be a daytime family session rather than the main event.
+- source: https://www.gasc-capecoral.com/
+
+### Walk, Wiggle, Wag & 5K Run (Cape Coral Animal Shelter)
+- type: festival and community event organizers
+- city: Cape Coral
+- website: https://www.letsdothis.com/us/e/walk-wiggle-wag-5k-run-for-the-cape-coral-animal-shelter-2027-200722
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Annual fundraiser benefiting the Cape Coral Animal Shelter; offers family packages (2 adults plus children 12 and under), indicating deliberate family ticketing
+- event signal: Recurring event (March 22, 2025 and March 21, 2026) combining a timed 5K at 8:00am with a 1-mile family fun walk at 9:30am; family package pricing points to organized family attendance, though no specific kids' zone was confirmed.
+- fit score: 3
+- why: A recurring charity fun run with explicit family-package ticketing — plausible for a foam finish or family zone. Organizer contact details were not found, so route through the Cape Coral Animal Shelter directly.
+- source: https://www.letsdothis.com/us/e/walk-wiggle-wag-5k-run-for-the-cape-coral-animal-shelter-2027-200722
+
+### 12. Breweries and food truck parks that host family events
+
+### Slipaway Food Truck Park & Marina
+- type: breweries and food truck parks that host family events
+- city: Cape Coral
+- website: https://slipawaycape.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: 3.1-acre waterfront site at 1811 Cape Coral Parkway E, 10 food trucks, 120 dedicated onsite parking spaces plus overflow and a weekend shuttle — a substantial purpose-built venue
+- event signal: Explicitly described as "family-friendly outdoor fun and entertainment"; recurring signature events include the Sip & Shop Night Market and Wags on the Water, plus daily live music and an inaugural Fourth of July Bash planned as an annual celebration.
+- fit score: 5
+- why: The best venue fit in Cape Coral. A purpose-built outdoor waterfront site marketing itself as family-friendly, with an active recurring events calendar and 3+ acres of open ground. Newer venue still building its calendar, which makes them more receptive to a new attraction.
+- source: https://www.capecoral.gov/edo/slipaway.php
+
+### Cape Coral Brewing Company
+- type: breweries and food truck parks that host family events
+- city: Cape Coral
+- website: unknown
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Established local craft brewery and taproom, described as a rising presence in the local craft beer scene
+- event signal: Trivia nights, live music and jam sessions, rotating food trucks on site, outdoor dog-friendly seating with life-size Jenga, Connect Four, cornhole, board games and a free book library.
+- fit score: 4
+- why: Confirmed outdoor seating, games and a recurring events cadence, plus an explicit dog-friendly policy suggesting a casual family-tolerant atmosphere. Held at 4 rather than 5 because no large lawn or published family-day calendar was confirmed, and no direct contact details were found.
+- source: https://www.tripadvisor.com/Attraction_Review-g34118-d8649122-Reviews-Cape_Coral_Brewing_Company-Cape_Coral_Florida.html
+
+### Botanical Brewing Company
+- type: breweries and food truck parks that host family events
+- city: Cape Coral
+- website: unknown
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Listed as an active Cape Coral brewery; no further detail available from sources found
+- event signal: Unknown — no events calendar, outdoor space or family-friendly policy could be confirmed.
+- fit score: 2
+- why: Confirmed to exist as a Cape Coral brewery, but no evidence of an outdoor area or family events was found. Capped at 2 per the scoring rule. Needs direct site or social verification before outreach.
+- source: https://www.tripadvisor.com/Attraction_Review-g34118-d23178860-Reviews-Botanical_Brewing_Company-Cape_Coral_Florida.html
+
+### Big Storm Brewery — Cape Coral location
+- type: breweries and food truck parks that host family events
+- city: Cape Coral
+- website: unknown (bigstormbrewery.com — current status of this location unconfirmed)
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Former taproom at 4721 SE 10th Pl, Cape Coral with 16 taps, full kitchen, pool table, cornhole and TVs
+- event signal: Historically ran live music Thursday-Saturday, Tuesday and Thursday trivia, Sunday open mic, private tours/tastings and catered events.
+- fit score: 2
+- why: A genuine events cadence historically, but Yelp lists this location as CLOSED and the status is unconfirmed. Do not prioritize outreach until operating status is verified directly.
+- source: https://www.yelp.com/biz/big-storm-brewery-cape-coral-3
+
+### Scotty's Bierwerks
+- type: breweries and food truck parks that host family events
+- city: Cape Coral
+- website: https://www.scottysbierwerks.net/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Was described as "Cape Coral's last brewery," at 901 East Industrial Cir.; operated nine years
+- event signal: Historically strong — Trunk or Treat, Charity Bingo, food truck Fridays, weekly trivia, yoga, happy hours and a published event schedule.
+- fit score: 1
+- why: CLOSED permanently as of November 2025 per local news coverage. Historically an excellent fit; recorded here only so it is not re-researched in a later pass. Do not contact.
+- source: https://www.winknews.com/news/lee/cape-corals-last-brewery-scottys-bierwerks-closes-after-9-years/article_f33b986f-77d2-4d9b-9cd4-9e159d460694.html
+
+### Rack'em Spirits & Times
+- type: breweries and food truck parks that host family events
+- city: Cape Coral
+- website: unknown
+- phone: (239) 540-7225
+- email: unknown
+- contact: unknown
+- size signal: Bar, live-music venue and pool hall at 1011 SE 47th Ter, Cape Coral
+- event signal: Regular live original-music bookings (6-12 bands on weekends), but promotions are adult-oriented — Ladies Night, $1 domestic drafts, cigars, full liquor bar.
+- fit score: 1
+- why: Not actually a brewery — a billiards and cigar bar with a nightlife-focused 21+ crowd and no family or outdoor-lawn signal. Poor fit; listed to close the loop on a name that appears in brewery directories.
+- source: https://www.yelp.com/biz/rackem-spirits-and-times-cape-coral
+
+---
+
+### Cape Coral competitive summary
+
+Foam is already being sold into this market by at least four operators, and the pricing is
+well below the Kraken Foam Co. card:
+
+| Company | Foam offering | Price found | Status |
+|---|---|---|---|
+| SWFL Amusements (Cape Coral) | Foam Machine Rental | $199 / 4 hrs | Confirmed competitor |
+| Family First Events (Fort Myers) | Foam party | $225 / 2 hrs | Confirmed competitor |
+| Bounce Bros Entertainment (Fort Myers, serves Cape) | Foam Machine Rental page | not published | Confirmed competitor |
+| Gator Bounce Rentals (Fort Myers, serves Cape) | Two foam landing pages | not published | Confirmed competitor |
+| The Bounce House People (SWFL) | "foam fun" in service copy | not published | Likely competitor |
+| AB Event Rentals (Cape + Fort Myers) | "Foam Party" category listed | not published | UNRESOLVED — one call settles it |
+
+These are equipment-rental prices, not staffed-service prices, which is the defensible gap:
+every confirmed competitor sells a machine drop-off. The Kraken packages are staffed, insured
+and timed, which is what municipal buyers (Cape Coral Parks & Rec, Special Events) and schools
+require and what a $199 machine rental cannot satisfy. Lead with insurance, staffing and
+vendor registration when selling to the city and to charter PTOs.
