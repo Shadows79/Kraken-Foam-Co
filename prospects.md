@@ -3,7 +3,7 @@
 Mobile foam party service, Lee and Collier counties.
 Packages: Classic $349/60min · Deluxe $449/90min · Commercial and Camps $649/2hr.
 
-Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**.
+Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**.
 
 Research note: this environment's network policy blocks direct page fetches (403 on CONNECT),
 so all records were gathered via web search of the cited source pages rather than by opening
@@ -2767,8 +2767,8 @@ See the competitive summary at the end of this city section.
 - contact: unknown
 - size signal: Former taproom at 4721 SE 10th Pl, Cape Coral with 16 taps, full kitchen, pool table, cornhole and TVs
 - event signal: Historically ran live music Thursday-Saturday, Tuesday and Thursday trivia, Sunday open mic, private tours/tastings and catered events.
-- fit score: 2
-- why: A genuine events cadence historically, but Yelp lists this location as CLOSED and the status is unconfirmed. Do not prioritize outreach until operating status is verified directly.
+- fit score: 1
+- why: CLOSED — firmed up in Round 3. A later pass found every Florida Big Storm listing (Cape Coral, Clearwater, Odessa, Tampa) marked closed as of 2026, and no Naples location ever existed. Recorded so it is not re-researched. Do not contact.
 - source: https://www.yelp.com/biz/big-storm-brewery-cape-coral-3
 
 ### Scotty's Bierwerks
@@ -2818,3 +2818,1444 @@ every confirmed competitor sells a machine drop-off. The Kraken packages are sta
 and timed, which is what municipal buyers (Cape Coral Parks & Rec, Special Events) and schools
 require and what a $199 machine rental cannot satisfy. Lead with insurance, staffing and
 vendor registration when selling to the city and to charter PTOs.
+
+---
+
+## Naples
+
+Collier County. Two separate governments operate here — the CITY of Naples and COLLIER
+COUNTY — with different facilities, contacts and procurement paths. Records say which.
+
+Dedupe note: organizations returned by more than one category agent appear ONCE, under the
+category where their evidence is strongest, with cross-references noted inline. Affected:
+Sun-N-Fun Lagoon, Fiddler's Creek, Community School of Naples, Seacrest Country Day,
+Royal Palm Academy, First Baptist Academy, Grace Community School, YMCA of Collier County,
+River Park Community Center, Naples Botanical Garden, Golisano Children's Museum.
+
+### 1. Summer and day camps
+
+### Grace Community School — Golden Gate (Naples)
+- type: summer and day camps
+- city: Naples
+- website: https://www.gracecommunityschools.com/locations/golden-gate-naples
+- phone: (239) 455-4520
+- email: unknown
+- contact: unknown
+- size signal: 5524 19th Ct SW, Naples 34116; licensed child care operating since 1986, ages 1-11, open Mon-Fri 6:30am-6pm year-round. Multi-site SWFL operator with 7+ locations across Lee and Collier.
+- event signal: "The camps are packed with theme weeks, parties, dress-up days, bounce houses, Water Wednesdays, karate, dance, art, and more!" Weekly themes include Pirate Week, Hawaii Week, Carnival Week and Super Hero Week.
+- fit score: 5
+- why: THE STRONGEST MULTI-CITY ACCOUNT ON THIS LIST. Grace scores 4-5 in all three cities researched so far — Fort Myers, Cape Coral and now Naples. They already run Water Wednesdays and rent bounce houses, so foam is a substitution, not a new idea. One corporate conversation could place foam at seven-plus campuses across both counties. Also serves as this city's preschool/daycare record.
+- source: https://pages.gracecommunityschools.com/summer-camp/
+
+### Royal Palm Academy — Summer Camp
+- type: summer and day camps
+- city: Naples
+- website: https://www.royalpalmacademy.org/student-life/summer-camp
+- phone: (239) 594-9888
+- email: unknown
+- contact: Mrs. Jen Clarke, Director of Student Experience
+- size signal: 16100 Livingston Rd, Naples 34110; private Catholic school Pre-K3 through Grade 8; camp runs seven full weeks each summer, limited to enrolled RPA students
+- event signal: "Seven weeks, with each week featuring a unique theme such as LEGO Camp, Ice Cream Social, RPA Olympics Camp... special guests including representatives from the Collier County Fire Department and animals from Hubbard Farm," plus an RPA Olympics with team games and a medal ceremony.
+- fit score: 4
+- why: They already build event-style days into camp and already bring in outside guests and attractions — the buying behaviour is proven. RPA Olympics is the obvious slot. Named director. Enrolled-students-only means the sale is to the school, not to parents.
+- source: https://www.royalpalmacademy.org/student-life/summer-camp
+
+### Golisano Children's Museum of Naples (C'mon)
+- type: summer and day camps
+- city: Naples
+- website: https://www.cmon.org/
+- phone: (239) 514-0084 (birthday parties: 239-260-1704)
+- email: unknown
+- contact: unknown
+- size signal: 30,000-38,000 sq ft museum inside North Collier Regional Park; week-long camps for ages 5-11, 8:30am-5pm Mon-Fri all summer
+- event signal: "Week-long camps provide a concentrated dose of play-based learning... your child can learn to juggle, explore fossils, marvel at undersea creatures, go behind the scenes of a theatre, participate in sports and learn to mix color at the easel" — explicit rotating weekly themes. Also runs a dedicated Birthday Parties program with private party rooms and weekend slots.
+- fit score: 4
+- why: A new theme every week for a full summer at a major Naples institution, plus a published birthday-party business — two revenue paths. Caveat: predominantly indoor exhibit space; ask about an outdoor courtyard or the surrounding regional park before pitching.
+- source: https://www.cmon.org/birthday-parties/
+
+### Collier County Parks & Recreation — Summer Camp (Camp Collier)
+- type: summer and day camps
+- city: Naples
+- website: https://www.collierparks.com/camps/
+- phone: (239) 252-4000
+- email: parksandrecreation@collier.gov
+- contact: unknown
+- size signal: County-wide program with locations across Collier County; full 9-week summer program at $600 for the full summer
+- event signal: "Offers a variety of weekly themes... campers will take nature walks, play games, make arts and crafts, participate in different sports, host guests from the community, as well as take weekly swim and field trips." Weekly swim days, themed weeks, and community guest visits.
+- fit score: 3
+- why: Rotating weekly themes plus weekly swim days across multiple county sites is a real recurring cadence, and "guests from the community" means they already bring outside providers in. Scored 3 rather than higher because it is a county vendor process rather than a single decision-maker — see the procurement note in the parks section.
+- source: https://www.collierparks.com/camps/
+
+### Naples Botanical Garden
+- type: summer and day camps
+- city: Naples
+- website: https://www.naplesgarden.org/children-families/children-families/
+- phone: (239) 325-1356
+- email: unknown
+- contact: unknown
+- size signal: 170-acre botanical garden with multiple indoor and outdoor rental spaces; camp for grades 1-6 with named tracks such as "Wild Florida Wanderers"; also runs a weekly W.O.N.D.E.R. family program Fri-Mon
+- event signal: Distinct themed camp tracks plus a recurring weekly family nature program, and a dedicated Private Events page listing rentable garden venues for celebrations.
+- fit score: 4
+- why: 170 acres of outdoor space is an excellent physical fit, they run both camps and private event rentals, and the family program gives a recurring audience. Ask early about soap runoff near plant collections — that is the likely objection.
+- source: https://www.naplesgarden.org/private-events/
+
+### Conservancy of Southwest Florida
+- type: summer and day camps
+- city: Naples
+- website: https://conservancy.org
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Nature Center at 1495 Smith Preserve Way, Naples; a recent summer welcomed "124 first through sixth-grade campers" across "eight different camp groups... over 20 days" in four week-long sessions
+- event signal: "Through immersive hands-on activities, guided explorations, interactive learning sessions, and exciting off-site field trips, campers embark on a journey to discover the remarkable ecosystems of Southwest Florida," with named field-trip days (Naples Zoo, Rookery Bay, Tigertail Beach).
+- fit score: 3
+- why: Verified multi-week camp with a real headcount and a rotating slate of special outing days — an on-site cool-down day is a plausible substitute for a paid excursion. Conservation-education focus makes soap a likely objection; lead with biodegradable solution.
+- source: https://conservancy.org/conservancys-summer-camp-encourages-young-nature-explorers/
+
+### Greater Naples YMCA (YMCA of Collier County — North Campus)
+- type: summer and day camps
+- city: Naples
+- website: https://ymcacollier.org/camp.html
+- phone: (239) 394-9622
+- email: unknown
+- contact: unknown
+- size signal: Full-service campus at 5450 YMCA Rd combining an Early Learning Center with a major school-age Summer Day Camp; day camp, sports camps (ages 7-17) and theater camp (ages 4-12) running continuously since 1967
+- event signal: Summer Day Camp includes weekly pool/swim days plus field trips to Sun-N-Fun, Naples Zoo and the Botanical Garden — an active, outdoor-event-oriented program.
+- fit score: 4
+- why: Large nonprofit with real budget and an existing weekly pool-day culture for school-age campers. They already pay for Sun-N-Fun trips, so an on-site foam day is a cheaper substitute with no bus. Also serves as this city's early-learning record.
+- source: https://ymcacollier.org/camp.html
+
+### Boys & Girls Club of Collier County (Nichols Campus)
+- type: summer and day camps
+- city: Naples
+- website: https://bgccc.com/club/nichols-campus/
+- phone: (239) 325-1700
+- email: unknown
+- contact: unknown
+- size signal: Summer Camp June 9 – Aug 1, Mon-Fri 7:30am-6pm, ages 5-18 at the Naples (Nichols) campus; membership free, funded by scholarships and sliding-scale support, implying high enrollment volume
+- event signal: Weak. Only "full-day, high-quality programming that keeps youth engaged, safe, and learning" — no specific event, party or theme evidence found.
+- fit score: 2
+- why: Real, large-scale Naples camp with long hours serving many kids, and the Lee County sister organization is already on this list — but no verified event signal. A call would likely surface themed days not published online.
+- source: https://bgccc.com/club/nichols-campus/
+
+### City of Naples Parks & Recreation — River Park Community Center Camp
+- type: summer and day camps
+- city: Naples
+- website: https://www.naplesgov.com/parksrec/park/river-park-community-center
+- phone: (239) 213-3037 (summer camp line 239-213-3020)
+- email: riverpark@naplesgov.com; registration@naplesgov.com
+- contact: unknown
+- size signal: 301 11th Street North, Naples 34102; day camp runs June 1 – July 31, 7:30am-5:30pm, plus documented holiday break camps including a Christmas Camp
+- event signal: Camp description mentions "a variety of exciting activities, including outdoor games, arts and crafts, and hands-on learning activities," and the city separately documents holiday break camps. No specific party or water-day evidence found.
+- fit score: 3
+- why: Confirmed full-summer municipal camp with a published site email — an easy contact and a CITY-side budget (distinct from Collier County). No theme-week evidence yet, so the first call is discovery.
+- source: https://www.naplesgov.com/parksrec/page/2026-summer-camp
+
+### 2. Preschools and daycare centers
+
+Note: Grace Community School — Golden Gate and the YMCA of Collier County North Campus both
+operate early-learning programs and are recorded above under summer and day camps.
+
+### Creative World School at Naples
+- type: preschools and daycare centers
+- city: Naples
+- website: https://creativeworldschool.com/schools/naples-fl-daycare-preschool-childcare/
+- phone: (239) 323-7276
+- email: unknown
+- contact: unknown
+- size signal: Licensed for up to 202 children — one of the largest single-site capacities found in any city so far. Part of the multi-site Creative World group (also Estero, Gateway, North Naples), owned by Amy and Chris O'Malley.
+- event signal: Runs the corporate "CampTastic" school-age summer, spring and winter break camp featuring themed weeks including an "Island adventure" week with water games and splash zones.
+- fit score: 4
+- why: 202-child licensed capacity plus an established school-age camp brand built around themed weeks that already include water games. Same operator as the Fort Myers Gateway campus already on this list — a multi-site conversation.
+- source: https://creativeworldschool.com/schools/naples-fl-daycare-preschool-childcare/
+
+### Creative World School at North Naples
+- type: preschools and daycare centers
+- city: Naples
+- website: https://creativeworldschool.com/schools/northnaples/
+- phone: (239) 445-3628
+- email: unknown
+- contact: unknown
+- size signal: Sister campus to Creative World Naples under the same multi-site ownership; newer, larger-format facility
+- event signal: Same corporate CampTastic school-age camp program (ages up to 12) with themed weeks including water games and splash zones.
+- fit score: 4
+- why: A second bookable Creative World site in the same city with confirmed water-themed camp weeks. Pitch both Naples campuses together, and tie to the Gateway campus in Fort Myers.
+- source: https://creativeworldschool.com/schools/northnaples/
+
+### Montessori Academy of Naples
+- type: preschools and daycare centers
+- city: Naples
+- website: https://naplesmontessori.org
+- phone: (239) 597-2255
+- email: info@naplesmontessori.org
+- contact: unknown
+- size signal: 2655 Northbrooke Dr; programs from 18 months through age 12, running its own dedicated summer program open to non-students as well as current families
+- event signal: Hosts a public family event called "Sunset Social," plus a dynamic theme-based summer program running June-July.
+- fit score: 4
+- why: Confirmed public family-event programming plus an open-enrollment themed summer camp — concrete evidence they organize and pay for family gatherings. Published business email.
+- source: https://www.naplesmontessori.org/event-details-registration/sunset-social-3
+
+### Primrose School of North Naples
+- type: preschools and daycare centers
+- city: Naples
+- website: https://www.primroseschools.com/schools/north-naples
+- phone: (239) 774-6767
+- email: unknown
+- contact: unknown
+- size signal: National accredited franchise; full age range infant through Pre-K plus a dedicated school-age "Summer Adventure Club" (K-5th grade)
+- event signal: Runs Summer Adventure Club with rotating weekly themes for school-age kids. The national program page confirms theme-based weeks; this campus's specific theme list was not independently confirmed.
+- fit score: 3
+- why: National brand with real school-age summer programming and premium-paying parents, but the themed-week content for this campus could not be verified, and franchises sometimes need corporate vendor sign-off.
+- source: https://www.primroseschools.com/schools/north-naples/classrooms/summer-adventure-club
+
+### Naples Preschool of the Arts
+- type: preschools and daycare centers
+- city: Naples
+- website: https://www.naplespreschoolofthearts.com
+- phone: (239) 263-2620
+- email: unknown
+- contact: unknown
+- size signal: Single-site arts-focused preschool at 1789 Mandarin Rd with a "Summer of the Arts" camp for ages 4-8; smaller than the multi-site operators above
+- event signal: Confirmed public "Grand Thanksgiving Performance" family event at Cambier Park, plus an annual Summer of the Arts camp.
+- fit score: 3
+- why: Small, but the arts-showcase culture shows willingness to host and publicize family gatherings, and they already stage events off-site at a city park. Pitch Classic rather than Commercial.
+- source: https://www.naplesgov.com/parksrec/page/naples-preschool-artschabad-naples-grand-thanksgiving-performance-cambier-park
+
+### The Palm Preschool
+- type: preschools and daycare centers
+- city: Naples
+- website: https://www.palmpreschool.com/
+- phone: (239) 963-9948
+- email: info@palmpreschool.com
+- contact: unknown
+- size signal: Two-location operator — Naples at 13020 Livingston Rd Suite 15, plus a sister Ave Maria campus; full-day daycare with underwater-themed classrooms
+- event signal: No specific evidence of parties, water days, family nights or themed camp weeks was found — only general daycare program descriptions.
+- fit score: 2
+- why: Real multi-site operator with a published email and plausible budget, but no verifiable event programming. The underwater classroom theme is a conversational hook, not evidence.
+- source: https://www.palmpreschool.com/
+
+### 3. Church youth programs
+
+### First Naples Church (First Baptist Church of Naples)
+- type: church youth programs
+- city: Naples
+- website: https://www.firstnaples.org
+- phone: (239) 597-6057
+- email: info@firstnaples.org
+- contact: unknown (staff roster lists a Middle School Pastor, Student Pastor and High School Director; names not confirmed)
+- size signal: Large SBC congregation with a dedicated Student Center, separate Middle School and High School ministry tracks, multiple weekly gathering times, and an active missions program
+- event signal: VBS 2026 "Thrill Zone" for ages 4 through 5th grade, $25/child, with registration reaching capacity and a waitlist; weekly Sunday Connect Groups and Wednesday 6:30pm Student Ministries.
+- fit score: 5
+- why: A VBS that sells out to a waitlist is proof of turnout and willingness to pay. Dedicated student facility, large budget, published office email. Pitch the VBS finale or a back-to-school event.
+- source: https://www.firstnaples.org/vbs
+
+### Moorings Church (Moorings Presbyterian)
+- type: church youth programs
+- city: Naples
+- website: https://mooringschurch.org
+- phone: (239) 261-1487
+- email: unknown (affiliated preschool: preschool@mooringschurch.org)
+- contact: unknown
+- size signal: Full Middle School and High School Fellowship programs with dedicated Youth Center space, weekly Sunday-evening meetings including dinner, plus mission trips and retreats. Also operates a small ages-3-6 preschool camp at 791 Harbour Dr.
+- event signal: "MPC Kidz VBS 2026 – The Deep," June 15-19, 8:30am-12:30pm, with Bible stories, games, snacks and themed activities.
+- fit score: 5
+- why: Dated, themed VBS plus a weekly youth program that includes dinner — both signal real budget and turnout. "The Deep" is a water theme a foam party sells into directly.
+- source: https://mooringschurch.org/children-youth/
+
+### North Naples Church
+- type: church youth programs
+- city: Naples
+- website: https://www.nnchurch.org
+- phone: (239) 593-7600
+- email: unknown
+- contact: unknown (staff page lists an Associate Pastor of Youth Ministry; name not confirmed)
+- size signal: Large congregation with a dedicated Children's Ministry and Youth Programs, a 2026 "Serve Your World Camp" and a Preschool VBS
+- event signal: Trunk or Treat held the last weekend of October each year, described by the church itself as its "largest community outreach of the year"; weekly Sunday 9:30-10:30am Middle/High School youth program.
+- fit score: 5
+- why: When a church calls an event its biggest outreach of the year, that is where the budget and the attendance are. A dated annual occasion with a known slot.
+- source: https://www.nnchurch.org/youth
+
+### New Hope Ministries (New Hope Naples)
+- type: church youth programs
+- city: Naples
+- website: https://www.newhopenaples.com
+- phone: (239) 348-0122
+- email: jbarrett@newhopenaples.com
+- contact: J. Barrett (church staff contact; role not specified in source)
+- size signal: Owns a 44,000 sq ft event center on 20 acres of festival lawn and sports field, plus a weekly youth group and "B12 Kids Ministry" (preschool through 5th grade)
+- event signal: Published "Fall Fest" event page on the church's own site (2026 date not confirmed).
+- fit score: 4
+- why: BEST PHYSICAL VENUE IN THE CATEGORY. They own 20 acres of festival lawn and a 44,000 sq ft event center, so there is no third-party site approval, no space constraint, and no water-access problem — and they already run a named annual Fall Fest. Published staff email.
+- source: https://www.newhopenaples.com/events/fall-fest-3/
+
+### Covenant Church of Naples
+- type: church youth programs
+- city: Naples
+- website: https://covenantnaples.com
+- phone: (239) 597-3464
+- email: unknown
+- contact: Brian Campbell, Student Discipleship Director (title confirmed; email not independently verified)
+- size signal: PCA congregation with a multi-role student ministry staff — Family Ministries Director, Student Discipleship Director, Coordinators and an Assistant — plus a dedicated "CS Building" for youth programming
+- event signal: Vacation Bible School "SonWest Roundup," June 15-19, 8:45am-12pm, ages 3 through 5th grade; weekly Wednesday youth group 6:15-7:45pm and Sunday school for grades 6-12.
+- fit score: 4
+- why: A four-person student ministry staff is unusual and signals real budget. Confirmed dated VBS and a named director to ask for.
+- source: https://covenantnaples.com/students
+
+### St. John the Evangelist Catholic Church
+- type: church youth programs
+- city: Naples
+- website: https://sjecc.org
+- phone: (239) 566-8740
+- email: vbs@sjecc.com
+- contact: unknown
+- size signal: Large Catholic parish with a standing Faith Formation department and a dedicated Youth Ministry program
+- event signal: "Rainforest Falls" VBS held June 8-12, 9am-12pm, with a published registration email for families outside Faith Formation.
+- fit score: 4
+- why: Confirmed dated VBS with an organized registration process and — rare in this category — a dedicated VBS email address that reaches the person actually running the event.
+- source: https://vbspro.events/p/00d727
+
+### Destiny Church Naples
+- type: church youth programs
+- city: Naples
+- website: https://www.destinynaples.org
+- phone: (239) 592-7729
+- email: info@destinynaples.com
+- contact: unknown
+- size signal: Nondenominational church with a distinct "DC Youth" middle/high school brand and an on-campus early-learning center
+- event signal: Published "Trunk or Treat" event page and a "YEX" Youth Summer Camp, both on the church's own site; DC Youth meets weekly Wednesdays 7pm.
+- fit score: 4
+- why: Two independently published on-site event pages show an active recurring calendar, and the attached early-learning center is a second audience under one roof.
+- source: https://www.destinynaples.org/events-1/trunk-or-treat
+
+### Vanderbilt Presbyterian Church
+- type: church youth programs
+- city: Naples
+- website: https://www.vpcnaples.org
+- phone: (239) 597-5410
+- email: info@vpcnaples.org
+- contact: unknown
+- size signal: Established 1979 congregation with an endowment fund specifically supporting a "growing children's and youth ministry," plus dedicated volunteer teams
+- event signal: Annual Vacation Bible School, 9am-12pm for a week each summer ("Rainforest Falls," registered through the VBS Pro platform); also sends youth to Cedarkirk summer camp.
+- fit score: 4
+- why: An endowment earmarked for youth ministry is an unusually explicit budget signal. Recurring platform-registered VBS and a published office email.
+- source: https://www.vpcnaples.org/
+
+### Summit Church — Naples Campus
+- type: church youth programs
+- city: Naples
+- website: https://www.summitlife.com/naples
+- phone: (239) 947-7070
+- email: unknown
+- contact: Blaize Smith, Family Ministries Pastor (Naples Campus)
+- size signal: One of three SWFL campuses of a multi-campus church, with named ministry leadership for Summit Kids (infant-5th grade) and Summit Students (6th-12th grade)
+- event signal: Weekly Wednesday 6:30pm Summit Students gathering. A churchwide "Back to School Bash" with free backpacks and activities is documented for the Summit network, but a Naples-campus-specific date was NOT confirmed.
+- fit score: 3
+- why: Named campus pastor and a staffed kids/students ministry, and the Fort Myers Summit campus is already on this list scoring 5 — a multi-campus conversation. Held at 3 because the event evidence is network-wide rather than confirmed for Naples.
+- source: https://www.summitlife.com/naples
+
+### 4. Schools and PTOs
+
+### Community School of Naples (CSN)
+- type: schools and PTOs
+- city: Naples
+- website: https://www.communityschoolnaples.org/support-csn/events/fall-festival
+- phone: (239) 597-7575 (Summer Programs ext. 264)
+- email: unknown
+- contact: Dr. Amy Moviel, Director of Summer Programs
+- size signal: Independent college-prep day school, EL-12, 1,075+ students on a 77-acre campus — one of the largest and best-funded schools in the region
+- event signal: Dedicated annual "Fall Festival" with its own page in the school's Support/Events section. Separately runs summer programs open to non-CSN students, described as "an enriching day camp that excites their curious minds through themed weeks of play, creativity, physical activities, and academics."
+- fit score: 5
+- why: 1,075 students, 77 acres, a named annual festival AND a themed-week summer camp with a named director. Independent school means no district procurement — the school decides. Two separate booking occasions.
+- source: https://www.communityschoolnaples.org/support-csn/events/fall-festival
+
+### Seacrest Country Day School
+- type: schools and PTOs
+- city: Naples
+- website: https://www.seacrest.org/
+- phone: unknown
+- email: summer@seacrest.org
+- contact: unknown
+- size signal: Private Pre-K-12 independent school at 7100 Davis Blvd, Naples; camp program spans rising grades K-6
+- event signal: Annual "Stingray Shuffle" 5K family run/walk (next slated Oct 10, 2026) and an S.P.A. "Back-to-School Bash" family event with bounce house, games and food.
+- fit score: 5
+- why: The Back-to-School Bash already books a bounce house — same budget line, same decision, and August in Naples makes the foam pitch obvious. The Stingray Shuffle is a second dated occasion. Published summer email.
+- source: https://www.seacrest.org/stingrayshuffle
+
+### Sea Gate Elementary PTO
+- type: schools and PTOs
+- city: Naples
+- website: https://www.seagatepto.com/
+- phone: (239) 377-8300
+- email: seagatepto@gmail.com
+- contact: unknown
+- size signal: Collier County public elementary, 668 students K-5, National Blue Ribbon School
+- event signal: PTO calendar lists Fall Family Fun Night (Nov 1, 5-7pm at school), Spring Family Fun Night, a Walkathon, and Family Movie Night.
+- fit score: 5
+- why: An independently run PTO with its own website, its own email and FOUR named recurring family events including two Family Fun Nights. They control their own budget and already program exactly the format foam fits.
+- source: https://www.seagatepto.com/fallfamilyfunnight
+
+### The Village School of Naples
+- type: schools and PTOs
+- city: Naples
+- website: https://www.villageschoolnaples.org/support/special-events
+- phone: (239) 593-7686 (Development Office)
+- email: unknown
+- contact: unknown
+- size signal: Private independent school running nine special events annually per its own materials
+- event signal: Confirmed recurring events including "Trunk or Treat" and, explicitly, "Field Day" — among nine annual special events.
+- fit score: 4
+- why: A named Field Day is the single most direct foam occasion there is, and nine annual events means a real events budget and a Development Office that runs them. Published development phone.
+- source: https://www.villageschoolnaples.org/support/special-events
+
+### North Naples Middle School PTO
+- type: schools and PTOs
+- city: Naples
+- website: https://nnms.squarespace.com/fall
+- phone: (239) 377-4600
+- email: nnmspto@yahoo.com
+- contact: unknown
+- size signal: Collier County public middle school, 16165 Learning Lane, Naples 34110
+- event signal: Confirmed "Annual Fall Festival & Haunted House" run by the PTO, with a dedicated event page.
+- fit score: 4
+- why: A PTO-run annual carnival with its own event page and a published PTO email. Middle-school audience skews slightly older than ideal, but a haunted-house-scale event has the budget and attendance.
+- source: https://nnms.squarespace.com/fall
+
+### Lake Park Elementary PTO
+- type: schools and PTOs
+- city: Naples
+- website: https://lakeparkpto.com/
+- phone: (239) 377-7200
+- email: unknown
+- contact: unknown
+- size signal: Collier County public elementary ("Panthers")
+- event signal: Annual Walk-A-Thon running since 1985 — the PTO's biggest fundraiser — plus Holiday House and Thanksgiving Feast events on the PTO calendar.
+- fit score: 4
+- why: A fundraiser with a 40-year history means an organized PTO with reliable turnout and money. A foam station at the Walk-A-Thon finish is an easy sell.
+- source: https://lakeparkpto.com/walk-a-thon/
+
+### Naples Park Elementary School PTO
+- type: schools and PTOs
+- city: Naples
+- website: https://npe.collierschools.com/meet-the-npe-sharks/parent-teacher-organization-pto
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Collier County public elementary ("Sharks")
+- event signal: PTO runs recurring family events — Math & Muffins, Parents & Pastries, Literacy/STEAM/Health & Wellness Nights — and the school hosts a district-wide "CCPS Takeover with FC Naples" event Oct 3, 2026.
+- fit score: 3
+- why: Active PTO with regular family-night programming, but the events found are indoor, breakfast-and-literacy format rather than an outdoor carnival or field day. No direct contact found.
+- source: https://npe.collierschools.com/meet-the-npe-sharks/parent-teacher-organization-pto
+
+### First Baptist Academy
+- type: schools and PTOs
+- city: Naples
+- website: https://fbalions.org/
+- phone: (239) 597-2233
+- email: unknown
+- contact: Matthew Sibert, Summer Camp Director
+- size signal: Private Christian school, Preschool K3-12, 3000 Orange Blossom Dr, Naples 34109; summer camp 9am-3pm weekdays for ages 5-12, $140/week with a $35 daily option
+- event signal: Camp description: "Children engage in daily devotions, crafts, sports, and even go off campus for a number of different activities." No specific school festival, fun day or family night confirmed. NOTE: a "Naples Baptist Church" family night surfaced in search but belongs to a separate organization — do not attribute it here.
+- fit score: 2
+- why: Verified camp with a named director and clear pricing, but no event evidence for the academy itself. The named camp director is the fastest route to finding out whether theme days exist.
+- source: https://www.myfbalions.com/summer-camp
+
+### St. Ann Catholic School
+- type: schools and PTOs
+- city: Naples
+- website: https://www.stann.net/events
+- phone: (239) 262-4110
+- email: unknown
+- contact: unknown
+- size signal: PK-8 Catholic school operating since 1956 at 542 Eighth Ave, Naples 34102
+- event signal: Maintains a dedicated Events page; no specific carnival, field day or festival was named in available sources.
+- fit score: 2
+- why: Long-established downtown parish school likely to run seasonal events — the Cape Coral equivalent (St. Andrew) turned out to run the city's largest four-day festival — but nothing specific was verified here. Worth checking the events page directly.
+- source: https://www.stann.net/events
+
+### 5. Municipal parks and recreation
+
+### Collier County Parks & Recreation (COUNTY)
+- type: municipal parks and recreation
+- city: Naples
+- website: https://www.collierparks.com/
+- phone: (239) 252-4000
+- email: parksandrecreation@collier.gov
+- contact: unknown (department line)
+- size signal: Countywide department with dozens of facilities — North Collier Regional Park, Sun-N-Fun Lagoon, Golden Gate Community Center, Eagle Lakes, East Naples Community Park, Immokalee Sports Complex — running registration through ActiveNet
+- event signal: Publishes a public Events calendar including the Neapolitan Family Back to School Expo and "Christmas Around The World" at Immokalee Sports Complex; operates Camp Collier summer camps at multiple sites.
+- fit score: 5
+- why: The COUNTY-side department-level buyer, controlling multiple aquatic facilities and camps across Collier. One relationship reaches many sites. Uses a formal e-procurement vendor portal (procurement.opengov.com/portal/collier-county-fl) — register before pitching.
+- source: https://www.collierparks.com/events/
+
+### City of Naples Community Services / Parks & Recreation (CITY)
+- type: municipal parks and recreation
+- city: Naples
+- website: https://www.naplesgov.com/parksrec
+- phone: (239) 213-7120
+- email: events@naplesgov.com; registration@naplesgov.com
+- contact: Chad Merritt (staff directory entry; role not confirmed)
+- size signal: City department overseeing Fleischmann Park, Cambier Park, River Park Community Center and other facilities; administration at 280 Riverside Circle, Naples 34102
+- event signal: Publishes a 2026 Summer Camp Guide, runs the Naples Concert Band and Naples Big Band free concert series at the Cambier Park Bandshell (Nov-April), and holiday break camps.
+- fit score: 5
+- why: The CITY-side counterpart to Collier County — a completely separate budget, calendar and approval path. A dedicated events@ email address is the single best entry point for city venues (Fleischmann, River Park, Cambier).
+- source: https://www.naplesgov.com/parksrec
+
+### Sun-N-Fun Lagoon (COUNTY — North Collier Regional Park)
+- type: municipal parks and recreation
+- city: Naples
+- website: https://www.napleswaterpark.com/
+- phone: (239) 252-4021 (groups and rentals: 239-252-4073)
+- email: Diana.Ciardi@colliercountyfl.gov
+- contact: Diana Ciardi, groups and rentals contact
+- size signal: County-operated waterpark at 15000 Livingston Rd with 4 pools, 5 waterslides, a lazy river and a splash playground; seasonal operation
+- event signal: Published private facility rental rates — $1,500/hr with a 2-hour minimum, plus partial-facility per-pool rates and group ticket rates for 20+. Tied to summer opening events and sits inside a park that hosts the Neapolitan Family Back to School Expo.
+- fit score: 4
+- why: A named human contact with a direct government email is rare and valuable. Their $1,500/hr private rental rate is also useful pricing context — it tells you what Naples families already pay for an exclusive water event. Caveat: as a full waterpark they are the nearest substitute for foam, so pitch dry-side activations at their events rather than competing head-on.
+- source: https://www.napleswaterpark.com/groups-rentals.php
+
+### Vineyards Community Park (COUNTY)
+- type: municipal parks and recreation
+- city: Naples
+- website: https://www.collierparks.com/collier_park/vineyards-community-park/
+- phone: (239) 252-4105 (main Collier Parks line 239-252-4000)
+- email: unknown
+- contact: unknown
+- size signal: County community park with a fenced splash pad, playground, and three rentable pavilions
+- event signal: Shaded pavilions confirmed rentable for birthday parties, directly adjacent to the splash pad play area.
+- fit score: 5
+- why: BEST STRUCTURAL FIND IN NAPLES. Rentable outdoor pavilions sitting next to a fenced splash pad means water access is already on site and families are already booking the space for parties. This is a demand channel, not just a venue — market to the families renting these pavilions. Check for the same pattern in every remaining city.
+- source: https://www.collierparks.com/collier_park/vineyards-community-park/
+
+### Fleischmann Park Community Center (CITY)
+- type: municipal parks and recreation
+- city: Naples
+- website: https://www.naplesgov.com/parksrec/park/fleischmann-park
+- phone: (239) 213-3020
+- email: fleischmannpark@naplesgov.com
+- contact: unknown
+- size signal: City community center offering gymnastics, martial arts, creative arts, dance and after-school club programming; also hosts City of Naples youth flag football for grades 1-8 in spring
+- event signal: Runs numerous "summer and holiday camp programs" per its official City of Naples page.
+- fit score: 4
+- why: CITY facility with confirmed named camp programs and its own published site email — a site-level contact who can request an activity day without going through the county. Youth flag football adds a second audience.
+- source: https://www.naplesgov.com/parksrec/park/fleischmann-park
+
+### Immokalee Sports Complex (COUNTY)
+- type: municipal parks and recreation
+- city: Immokalee (Collier County — ~40 min from Naples, in service area)
+- website: https://www.collierparks.com/collier_park/immokalee-sports-complex/
+- phone: (239) 252-8811
+- email: unknown
+- contact: unknown
+- size signal: Three lighted multipurpose fields, indoor gymnasium, fitness center, a 6-lane competition pool plus a separate activity pool with zero-depth entry and a waterslide
+- event signal: Hosts the Camp Collier summer camp program and community events including a holiday parade and "Christmas Around The World."
+- fit score: 4
+- why: Runs both a kids' day camp and community events at the same site, with zero-depth pool infrastructure. Note the drive — it is Collier County but roughly 40 minutes inland from Naples, so price travel accordingly.
+- source: https://www.collierparks.com/collier_park/immokalee-sports-complex/
+
+### Golden Gate Community Center & Aquatic Facility (COUNTY)
+- type: municipal parks and recreation
+- city: Naples
+- website: https://www.collierparks.com/collier_park/golden-gate-aquatic-facility/
+- phone: (239) 252-6128 (aquatic); (239) 252-4180 (community center)
+- email: unknown
+- contact: unknown
+- size signal: 3300 Santa Barbara Blvd (aquatic) and 4701 Golden Gate Pkwy (community center); heated 25-yard pool, children's activity pool, wading pool, diving boards and slides; community center has a 150-seat auditorium, gym, nine meeting rooms, skate park and BMX track
+- event signal: Year-round swim lessons and classes plus a large multi-use community center hosting recreation programs, but no specific special-events calendar was confirmed.
+- fit score: 3
+- why: Strong physical infrastructure — pool, wading pool, large event-capable center — but evidence is ongoing classes rather than one-off events. Note this is the same Golden Gate area as the top-scoring Grace Community School campus.
+- source: https://www.collierparks.com/collier_park/golden-gate-aquatic-facility/
+
+### Cambier Park (CITY)
+- type: municipal parks and recreation
+- city: Naples
+- website: https://www.naplesgov.com/parksrec/park/cambier-park
+- phone: (239) 213-3058 (Norris Center staff, for hosting inquiries)
+- email: unknown
+- contact: unknown
+- size signal: 755 8th Ave S, Naples 34102; bandshell venue used by the Naples Concert Band and Naples Big Band
+- event signal: Confirmed recurring public concert series Nov-April, and the park hosts third-party events including the 5th Avenue South Halloween Spooktacular and Naples PrideFest.
+- fit score: 4
+- why: The city's downtown event park — it is where other organizers stage their family events. Value is less as a direct buyer than as the venue you will keep returning to; the Norris Center number is the hosting-inquiry line.
+- source: https://www.naplesgov.com/parksrec/park/cambier-park
+
+### East Naples Community Park (COUNTY)
+- type: municipal parks and recreation
+- city: Naples
+- website: https://www.collierparks.com/collier_park/east-naples-community-park/
+- phone: (239) 252-4414
+- email: unknown
+- contact: unknown
+- size signal: 3500 Thomasson Dr, Naples 34112; community center, basketball/racquetball/softball/soccer courts and 59 pickleball courts
+- event signal: Hosts the US Open Pickleball Championships, a large annual tournament with spectators. Not kids or camp oriented.
+- fit score: 3
+- why: Proven to host major large-attendance events, so the site and staff can handle vendors. The fit is a family-day or tournament-adjacent booking rather than a kids' camp.
+- source: https://www.collierparks.com/collier_park/east-naples-community-park/
+
+### Donna Fiala Eagle Lakes Community Park (COUNTY)
+- type: municipal parks and recreation
+- city: Naples
+- website: https://www.collierparks.com/collier_park/donna-fiala-eagle-lakes-community-park/
+- phone: (239) 252-3527
+- email: unknown
+- contact: unknown
+- size signal: 11565 Tamiami Trail E, Naples 34113; aquatic complex with lap pool, wading pool, splash pad, community center, fitness center and multiple sports fields
+- event signal: No specific special-events listing found — one source explicitly noted no events currently listed. Splash pad and pool infrastructure suggest camp programming likely runs through it.
+- fit score: 2
+- why: Excellent aquatic infrastructure including a splash pad, but no confirmed event or camp signal in this pass. Worth a call to verify whether Camp Collier runs here before investing time.
+- source: https://www.collierparks.com/collier_park/donna-fiala-eagle-lakes-community-park/
+
+### 6. Country clubs
+
+Selection note: Naples has dozens of country clubs — far more than belong on a call sheet.
+These were selected on FAMILY AND KIDS PROGRAMMING, not prestige. Several famous clubs were
+deliberately excluded or scored low because their family water amenities belong to an
+adjoining resort rather than to member programming (Tiburón/Ritz-Carlton, Naples Grande),
+or because their calendars are adult golf and dining only (Naples Lakes, Bear's Paw).
+
+### Vineyards Country Club
+- type: country clubs
+- city: Naples
+- website: https://vineyardscountryclubnaples.com
+- phone: (239) 353-6101 (Racquet Center/Activities: 239-353-1105)
+- email: jiravani@vineyardscountryclubnaples.com
+- contact: Jennifer Iravani, Membership
+- size signal: Private club delivering 800+ member experiences and events annually; full golf, tennis, dining and racquet center campus
+- event signal: A dedicated "Kid Friendly Events" blog post lists an annual Easter Egg Hunt with face painting, crafts and the Easter Bunny; poolside "BUBBLE BASH" pool parties for kids; poolside family movie nights; and a juniors pickleball camp.
+- fit score: 5
+- why: THE SINGLE BEST CLUB PROSPECT FOUND ANYWHERE SO FAR. They already run a poolside "bubble bash" for kids — a foam party is that event, done properly, with equipment they do not own. 800+ events a year, a published membership email and a named contact. Lead with the bubble bash.
+- source: https://vineyardscountryclubnaples.com/blog/kid-friendly-events-at-vineyards-country-club/
+
+### Fiddler's Creek
+- type: country clubs
+- city: Naples
+- website: https://www.fiddlerscreek.com/
+- phone: (239) 732-9300 (Membership 239-732-3081; Activities Office 239-732-3000)
+- email: Info@FiddlersCreek.com
+- contact: Membership Office / Activities Office
+- size signal: ~4,000-acre master-planned community with a 54,000 sq ft Club & Spa shared by all owners, multi-pool lagoon-style aquatics complex, spa, tennis and pickleball. Not age-restricted.
+- event signal: Club materials specifically describe "children's activities," "family and kids' events," poolside parties, a tot lot, designated shallow kids' play areas and "kid-friendly pool events," alongside a "never-ending schedule of events."
+- fit score: 5
+- why: Explicit, recurring kids programming plus dedicated shallow kids' pool zones and a dedicated Activities Office phone line. Also the largest residential community in this category — cross-listed as an HOA prospect, but the club is the buyer.
+- source: https://www.fiddlerscreek.com/club-life/
+
+### Quail Creek Country Club
+- type: country clubs
+- city: Naples
+- website: https://www.quailcreekcc.com
+- phone: (239) 597-2831 (Director of Membership: 239-254-7418)
+- email: unknown
+- contact: Emme Warburton, Director of Membership; Chris Evans, Managing Director
+- size signal: Established private golf, tennis and social club at 13300 Valewood Dr, Naples 34119
+- event signal: Publishes a dedicated "Family & Kids Activities" web page describing junior golf and tennis instruction and holiday parties "welcoming children and grandchildren."
+- fit score: 4
+- why: A club that builds a standalone Family & Kids page is telling you where its members' priorities are. Two named contacts including a Director of Membership. The grandchildren angle matters in Naples — that is the seasonal spike.
+- source: https://www.quailcreekcc.com/amenities/family-kids-activities
+
+### Grey Oaks Country Club
+- type: country clubs
+- city: Naples
+- website: https://www.greyoakscc.com/
+- phone: (239) 262-5550
+- email: info@greyoakscc.com
+- contact: Membership Office
+- size signal: Large luxury private club with golf, tennis and a resort-style pool; reported 1,000+ activities annually for members and families
+- event signal: Reported to host "family fun days," junior golf and tennis clinics, and youth programming alongside a resort-style pool with cabanas used by families.
+- fit score: 4
+- why: 1,000+ annual activities and named family fun days with a published general email. Less itemized than Vineyards, so confirm the specific family calendar on the call.
+- source: https://www.greyoakscc.com/
+
+### Quail West Golf & Country Club
+- type: country clubs
+- city: Naples
+- website: https://quailwest.com
+- phone: (239) 593-4162
+- email: unknown
+- contact: Tony D'Errico, General Manager; Ryan Sanders, Director of Golf. NOTE: the Director of Membership & Lifestyles role is reported open or in transition.
+- size signal: 70,000 sq ft "Grand Club House" with an indoor Junior Olympic-size lagoon pool; large luxury golf community
+- event signal: Offers junior golf and tennis programs, kids' swim/golf/tennis lessons, sports and fitness camps, and "festive holiday parties" for kids.
+- fit score: 4
+- why: Named kids' camps and holiday parties with a very large facility. Caveat: the lifestyle/membership role that would own this decision is reportedly vacant, so the pitch may need to go to the GM directly or wait for the hire.
+- source: https://clubandresortbusiness.com/club-fitness-2022/quail-west-golf-country-club/
+
+### The Players Club & Spa at Lely Resort
+- type: country clubs
+- city: Naples
+- website: https://playersclubandspa.com
+- phone: (239) 774-6354
+- email: unknown
+- contact: Erica Figueroa, Director of Membership
+- size signal: Large resort-style amenity club serving Lely Resort homeowners; two resort pools plus a dedicated kids' tot lot with beach sand and a "coconut" splash feature
+- event signal: Purpose-built family pool with a kiddie splash feature and tot lot; members may register up to four children as guests; full calendar of member and family events including a movie theater and ice cream parlor.
+- fit score: 4
+- why: A dedicated kids' splash feature and a guest policy explicitly counting children signal a genuine family membership. Named Director of Membership. This is the amenity club for Lely Resort — see the separate HOA record below.
+- source: https://lelyresortguides.com/amenities
+
+### Pelican Marsh Golf Club
+- type: country clubs
+- city: Naples
+- website: https://www.pelicanmarshgc.com
+- phone: (239) 597-3000 (an alternate listing shows 239-597-0016)
+- email: unknown (contact form at pelicanmarshgc.com/lifestyle/contact-us)
+- contact: General Club Office
+- size signal: Private 18-hole club with tennis, pickleball, bocce and a fitness center
+- event signal: Advertises a "full calendar of social, golf and dining activities" and carries a "Good for kids" attribute on Yelp, but no specific named kids' or family event was found.
+- fit score: 3
+- why: Family-adjacent signals exist but no concrete recurring kids' event was confirmed. Worth a qualifying call before investing — the difference between this and Vineyards is published evidence.
+- source: https://www.pelicanmarshgc.com/lifestyle/social-activities
+
+### The Club at Olde Cypress
+- type: country clubs
+- city: Naples
+- website: https://www.oldecypress.com/
+- phone: (239) 260-1604
+- email: unknown
+- contact: General Club Office
+- size signal: Private club at 7165 Treeline Dr, Naples, with pool, four Har-Tru tennis courts, two pickleball courts and a fitness center
+- event signal: Describes its social calendar as "packed with family-friendly fun all year round" — holiday events, themed dinners, fashion shows, concerts — but no kids-specific event was named.
+- fit score: 3
+- why: Self-described family-friendly with an active calendar, but lacks the confirmed dedicated kids' programming that Vineyards, Fiddler's Creek and Quail Creek publish.
+- source: https://www.oldecypress.com/
+
+### Naples Bath & Tennis Club
+- type: country clubs
+- city: Naples
+- website: https://tapnaples.com (Sanchez Tennis Academy on site)
+- phone: (239) 537-1919
+- email: unknown
+- contact: Clubhouse / Pro Shop office
+- size signal: 33,000 sq ft community clubhouse, 37 Har-Tru tennis courts, heated pool and fitness center at 4995 Airport Pulling Rd N
+- event signal: The on-site Sanchez Tennis Academy runs kids' and teens' classes plus summer and holiday tennis camps; the clubhouse hosts holiday parties and themed dinners.
+- fit score: 3
+- why: The tennis academy brings recurring groups of kids on site, which is the real opening — a camp day rather than a member event. More a residential tennis-community clubhouse than a classic country club.
+- source: https://www.globaltennisnetwork.com/tennis-courts/courts/tennis-court-page/court/25079-naples-bath-and-tennis-club
+
+### Naples Sailing & Yacht Club
+- type: country clubs
+- city: Naples
+- website: https://www.thensyc.com/
+- phone: (239) 774-0424
+- email: Info@thensyc.com
+- contact: General Club Office
+- size signal: Established 1964 waterfront club at 896 River Point Dr, Naples, with an active social calendar and "clubs within the club"
+- event signal: Serves "boating and non-boating members of the family" with luncheons, galas and holiday celebrations, but no specific children's programming, pool or family-day event was found.
+- fit score: 2
+- why: Generic family language only, with no confirmed kids' event and no pool or splash amenity. Published email makes it a cheap call, but do not prioritize.
+- source: https://www.thensyc.com/
+
+### Hamilton Harbor Yacht Club
+- type: country clubs
+- city: Naples
+- website: https://www.hamiltonharboryachtclub.com/
+- phone: (239) 775-0506
+- email: unknown
+- contact: General Club Office
+- size signal: Waterfront yacht club and marina at 7065 Hamilton Ave, Naples, with 35 wet slips and a fuel dock
+- event signal: Markets a "family-friendly atmosphere" with eco tours, kayaking and social events including fishing tournaments and yachting rendezvous, but no dedicated kids' event, pool or splash amenity was found.
+- fit score: 2
+- why: Boating and adult-social focus with only generic family language, and no pool infrastructure for foam. Weak fit.
+- source: https://www.hamiltonharboryachtclub.com/
+
+### Tiburón Golf Club (at The Ritz-Carlton Naples, Tiburón)
+- type: country clubs
+- city: Naples
+- website: https://www.tiburonnaples.com
+- phone: (239) 254-3340
+- email: unknown
+- contact: General Club/Resort Office
+- size signal: Ritz-Carlton-affiliated 36-hole private/resort club hosting the Chubb Classic, Grant Thornton Invitational and CME Group Tour Championship
+- event signal: A "kids golf free" policy and a junior golf academy exist, and the affiliated resort has a family water feature (The Reservoir) with slides — but that is RESORT programming, not member-family club events. The club's own calendar is dominated by pro tournaments and adult golf.
+- fit score: 2
+- why: Recorded specifically as a caution. The famous name and the resort water park make this look like a strong prospect; the family amenities belong to the hotel, not the club, and the club's member calendar has no kids' events. Do not lead with this one.
+- source: https://www.tiburonnaples.com/golf/tour-events
+
+### 7. Apartment and condo communities with event staff
+
+Age-restriction note: Naples has a high concentration of 55+ communities, which are weak fits
+for a kids' foam party. Every entry below was checked. Three communities — Winding Cypress,
+Lely Resort and SkySail — are routinely mis-listed as 55+ on third-party retirement sites but
+are confirmed ALL-AGES. Isles of Collier Preserve is genuinely disputed and scored down.
+
+### Naples Reserve
+- type: apartment and condo communities with event staff
+- city: Naples
+- website: https://naplesreservehoa.com/
+- phone: (239) 231-4188 (HOA office); gatehouse (239) 732-7548
+- email: naplesreserveadmin@kwpmc.com
+- contact: HOA managed by KW Property Management & Consulting
+- size signal: Large master-planned gated community, 11 waterfront neighborhoods around a 125-acre lake. CONFIRMED NOT age-restricted — marketed as all-ages with playgrounds, dog parks and kids' camps.
+- event signal: On-site activity director; the Island Club hosts lagoon-style pool parties, poolside dining, outdoor movie nights, seasonal kids' camps and community social events.
+- fit score: 5
+- why: All-ages family community that already runs pool parties AND seasonal kids' camps, with an activity director and a published management email. The Island Club lawn and pool deck are the venue.
+- source: https://naplesreservehoa.com/
+
+### Esplanade at Hacienda Lakes
+- type: apartment and condo communities with event staff
+- city: Naples
+- website: https://websites.kw-ic.com/ehl/
+- phone: (239) 249-5844
+- email: unknown
+- contact: HOA management office; full-time on-site Lifestyle Director role confirmed
+- size signal: Taylor Morrison master-planned community. CONFIRMED NOT age-restricted — explicitly marketed as all-ages. 6,500 sq ft clubhouse with playground.
+- event signal: Dedicated full-time on-site Lifestyle Director publishing a monthly calendar including poolside barbecues, holiday parties, fitness classes and clubs.
+- fit score: 5
+- why: A named full-time Lifestyle Director role, confirmed all-ages, a playground, and an events calendar already weighted toward poolside gatherings. Ask for the Lifestyle Director by title.
+- source: https://websites.kw-ic.com/ehl/Esplanade/About-Us
+
+### Riverstone (North Naples)
+- type: apartment and condo communities with event staff
+- city: Naples
+- website: https://www.riverstoneatnaples.com/
+- phone: (239) 331-7573 (Advanced Property Management)
+- email: TheClub@Riverstone.com
+- contact: Lifestyle Director / Assistant Lifestyle Director
+- size signal: GL Homes master-planned gated community; no age restriction found — described as an all-ages "vibrant social" community. Same builder as Marina Bay in Fort Myers, which also scored 5.
+- event signal: Full-time on-site Lifestyle Director running a Farmers Market, music and entertainment nights, trivia night and other resident programming.
+- fit score: 4
+- why: Named lifestyle-director role with a direct events email address — the cleanest contact path in this category. GL Homes communities consistently staff lifestyle directors, which is a pattern worth exploiting across cities.
+- source: https://www.riverstoneatnaples.com/
+
+### Winding Cypress
+- type: apartment and condo communities with event staff
+- city: Naples
+- website: https://windingcypress.org/
+- phone: unknown
+- email: unknown
+- contact: Winding Cypress Homeowners Association, Inc.
+- size signal: DiVosta/Pulte master-planned gated community. CONFIRMED NO age restriction despite frequent third-party listing as 55+ — genuinely open to all ages.
+- event signal: On-site activities director referenced with "a full range of planned activities and events"; specifics of a published calendar not confirmed.
+- fit score: 3
+- why: All-ages status confirmed against a common misclassification, and an activities-director role exists — but no concrete pool-party-level event evidence and no published contact. Call the HOA office to firm up.
+- source: https://windingcypress.org/
+
+### SkySail
+- type: apartment and condo communities with event staff
+- city: Naples
+- website: https://nealcommunities.com/communities/skysail/
+- phone: (239) 778-9757; toll-free (877) 798-1258
+- email: unknown
+- contact: Neal Communities amenity/community office
+- size signal: Newer 246-acre Neal Communities master-planned community. CONFIRMED all-ages despite some third-party retirement-site listings calling it "active adult."
+- event signal: Lake house and community center built for "neighborhood events and gatherings"; amenity programming implied but no named lifestyle-director role or published calendar found.
+- fit score: 3
+- why: All-ages status confirmed and event space exists, but evidence of an actual recurring program is weaker than the top entries. A newer community still building its social calendar can be more receptive — worth a verification call.
+- source: https://nealcommunities.com/communities/skysail/
+
+### Talis Park
+- type: apartment and condo communities with event staff
+- city: Naples
+- website: https://talispark.com/
+- phone: (239) 449-5900
+- email: unknown
+- contact: The Vyne House concierge/lifestyle team
+- size signal: Luxury golf master-planned community; not age-restricted, but skews affluent and adult-oriented with golf and country-club programming
+- event signal: Year-round events calendar at The Vyne House — weekly happy hour, pasta buffet nights, wine tastings, concerts and seasonal themed parties, supported by concierge-style lifestyle staff.
+- fit score: 3
+- why: Real, frequent event programming and a lifestyle team, but nothing points to family or kids programming. This is a "grandkids visiting" or private-booking pitch, not a default kids' event.
+- source: https://theresopteam.com/blog/inside-talis-park-golf-dining-and-social-life-in-naples
+
+### Lely Resort
+- type: apartment and condo communities with event staff
+- city: Naples
+- website: unknown (amenity club: playersclubandspa.com — see country clubs record)
+- phone: unknown (Players Club: 239-774-6354)
+- email: unknown
+- contact: unknown (activities director role confirmed, name unknown)
+- size signal: Very large master-planned community with 40+ neighborhoods. CONFIRMED NOT age-restricted despite frequent listing on 55+/retirement sites.
+- event signal: Full-time activities director organizing game nights, trivia, themed parties, fashion shows and movie nights across social clubs.
+- fit score: 3
+- why: Confirmed all-ages and a real activities-director role, but programming skews adult and no direct HOA contact was verified. THE BETTER DOOR IS THE PLAYERS CLUB & SPA (country clubs, fit 4) — it has a named Director of Membership, a kids' splash feature and a published phone.
+- source: https://www.neighborhoods.com/lely-resort-naples-fl
+
+### Isles of Collier Preserve
+- type: apartment and condo communities with event staff
+- city: Naples
+- website: https://www.islesofcollierpreserve.org/
+- phone: (239) 732-0842
+- email: icp@fsresidential.com
+- contact: Lifestyle team, managed by FirstService Residential
+- size signal: Minto master-planned community. AGE RESTRICTION DISPUTED — 55places and Seniorly list it as 55+, other sources say all ages. Treat as uncertain until confirmed with the POA.
+- event signal: Full-time activities director; the POA runs holiday celebrations, community parties, weekly farmers' markets and social/fitness clubs.
+- fit score: 2
+- why: Genuinely strong events infrastructure and a direct lifestyle-team email, but the conflicting age-restriction signal makes it a poor bet for a kids' event until resolved. One question on the call settles it — if it is all-ages, this jumps to a 4.
+- source: https://www.islesofcollierpreserve.org/activities
+
+### 8. Birthday party venues
+
+### Naples Zoo at Caribbean Gardens
+- type: birthday party venues
+- city: Naples
+- website: https://www.napleszoo.org/
+- phone: (239) 262-5409
+- email: unknown
+- contact: unknown
+- size signal: 43-acre accredited zoo and botanical gardens
+- event signal: Publishes a formal events and rentals program ("Wild Weddings and Events") and rents grounds for everything from intimate dinners to large festival-style events.
+- fit score: 5
+- why: 43 acres of outdoor grounds already hosting large private events, with a formal rentals program and a marketing team used to working with outside vendors. Strong upsell partner or referral source. Confirm animal-area setbacks and soap runoff early.
+- source: https://www.napleszoo.org/
+
+### Good Mood Ranch
+- type: birthday party venues
+- city: Naples
+- website: https://www.goodmoodranchnaples.com/
+- phone: unknown
+- email: karenmarcotec@yahoo.com
+- contact: unknown (owner-operated)
+- size signal: Small family-owned working farm and petting zoo with train rides and a playground; admission ~$18/child
+- event signal: Confirmed birthday-party hosting — reviews describe owner-run parties with animal interaction.
+- fit score: 5
+- why: Open-air farm grounds are an ideal structural fit, they already sell birthday parties, and an owner-operated business can say yes to an add-on partnership in one conversation. Same profile as the top Fort Myers and Cape Coral venue finds (M&M Farms, Saddlewood Horse Club) — farms are consistently the best venue category.
+- source: https://www.goodmoodranchnaples.com/
+
+### Corkscrew Swamp Sanctuary (Audubon)
+- type: birthday party venues
+- city: Naples
+- website: https://www.audubon.org/corkscrew/visit/weddings-and-private-events-corkscrew-swamp-sanctuary
+- phone: (239) 348-9151
+- email: unknown
+- contact: unknown
+- size signal: Large nature sanctuary with boardwalk and multiple rentable sites
+- event signal: Offers themed birthday-party programs plus private-event rentals priced $450-$2,500 for up to six hours across several site options.
+- fit score: 4
+- why: Published birthday programs AND priced private rentals, with outdoor sites that suit foam structurally. The conservation mission makes soap the obvious objection — lead with biodegradable, hypoallergenic solution and containment.
+- source: https://www.audubon.org/corkscrew/visit/weddings-and-private-events-corkscrew-swamp-sanctuary
+
+### Whiz Kids Play Zone
+- type: birthday party venues
+- city: Naples
+- website: https://www.whizkidsnaples.com/birthday-parties
+- phone: (239) 263-7017
+- email: whizkidsnaples@gmail.com
+- contact: unknown
+- size signal: Indoor children's activity and play center at 1050 Pine Ridge Rd
+- event signal: Dedicated birthday-party page, with the site noting updated packages and pricing "coming soon."
+- fit score: 2
+- why: Confirmed party program and a published email, but a purely indoor venue with no evident outdoor space — weak structural fit. Value is as a referral partner for families who want an outdoor or at-home option.
+- source: https://www.whizkidsnaples.com/birthday-parties
+
+### InPlay! Family Fun
+- type: birthday party venues
+- city: Naples
+- website: https://www.inplayfamilyfun.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Indoor playground at 4035 Santa Barbara Blvd with a three-level play structure and café
+- event signal: Published birthday pricing — $150/hr with a 2-hour minimum, up to 12 kids, with itemized add-ons for cake, pizza and favors.
+- fit score: 2
+- why: Clear priced packages, but entirely indoor with no outdoor or water-hookup space noted. Their $150/hr for 12 kids is useful local price context for what Naples families pay.
+- source: https://www.inplayfamilyfun.com/pricingandpasses.html
+
+### Revs Institute
+- type: birthday party venues
+- city: Naples
+- website: https://museum.revsinstitute.org/visit/tours-events/
+- phone: (239) 687-7387
+- email: unknown
+- contact: unknown
+- size signal: Automotive museum and research center with 100+ vehicles
+- event signal: Confirmed private and corporate event rental program (evenings and weekdays after 5pm, catering and alcohol permitted); no birthday-specific packaging found.
+- fit score: 2
+- why: Indoor museum gallery geared to corporate functions, with no outdoor grounds and no kids' birthday evidence. Listed to close the loop — not a realistic prospect.
+- source: https://museum.revsinstitute.org/visit/tours-events/
+
+### 9. Party and event rental companies (PARTNERS)
+
+Category note: Naples research surfaced TWO NEW COMPETITORS not previously known —
+M & K Inflatables and Celebration Events and Rentals — both advertising foam parties on
+their own sites. See the updated competitive summary at the end of this city section.
+
+### Taylor Rental — Party Plus (Naples)
+- type: party and event rental companies
+- city: Naples
+- website: https://www.taylorrentalnaples.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Described as the largest full-service rental company in Southwest Florida, operating since 1983 at 4472 Corporate Sq, Naples 34104; runs a dual party-rental and contractor/construction-equipment business
+- event signal: NO FOAM OFFERING FOUND. Catalog spans tents, stages and dance floors, inflatable bounce houses and games, dunk tanks, china and silver, linens, candelabras, arches, catering equipment and AV.
+- fit score: 5
+- why: THIRD CITY, SAME PARENT GROUP. Taylor Rental / Creative Events scores 5 in Fort Myers, Cape Coral and Naples — the largest rental operator in the region with branches in all three markets and no foam in any catalog. This is the single highest-value partner relationship available; approach it as one regional conversation, not three local ones.
+- source: https://www.taylorrentalnaples.com/
+
+### Royal Party Rentals
+- type: party and event rental companies
+- city: Naples
+- website: https://www.royalpartyonline.com/
+- phone: (239) 687-3777
+- email: unknown
+- contact: unknown
+- size signal: Naples company established 2019; open seven days a week (Mon-Fri 8am-6pm, Sat-Sun 7am-9pm), with a Yelp presence citing 5-star reviews
+- event signal: NO FOAM OFFERING FOUND. Catalog includes tents, tables, chairs, standard and combo bounce houses with basketball/obstacle/climb/slide add-ons, wet and dry water slides, popcorn and cotton candy machines, and photo booths.
+- fit score: 4
+- why: Active broad-catalog Naples inflatable company with no foam, and weekend hours running to 9pm indicate real booking volume. Their wet-slide customers are our exact buyer.
+- source: https://www.royalpartyonline.com/
+
+### Party Time Rentals and Special Events
+- type: party and event rental companies
+- city: Naples
+- website: https://www.partytimerentalsandspecialevents.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Full-service event rental serving Naples, Fort Myers, Estero, Bonita Springs, Marco Island, Cape Coral and Sanibel — effectively the whole service area
+- event signal: NO FOAM OFFERING FOUND. Catalog is tents, tables, chairs, lighting, staging and dance floors. A wedding review describes tent-size planning, lighting and dance-floor recommendations, indicating regular multi-vendor event work.
+- fit score: 4
+- why: Covers all eight target cities with visible wedding and corporate volume and zero entertainment inventory. Every family reunion and graduation they tent is a foam referral they cannot currently fill.
+- source: https://www.partytimerentalsandspecialevents.com/
+
+### All Event Party Rental (Naples Party Rental)
+- type: party and event rental companies
+- city: Naples
+- website: https://naplespartyrental.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Small family-owned business serving Naples, Marco Island and Bonita Springs
+- event signal: NO FOAM OR INFLATABLE OFFERING FOUND. Specializes in tables, chairs, linens and tents, with prices starting at $295.
+- fit score: 4
+- why: A pure tent, table and linen operation with no inflatables means zero channel conflict, and their Marco Island coverage is useful ahead of that round. Their $295 entry price tells you their customer is comfortable at our Classic tier.
+- source: https://naplespartyrental.com/services/
+
+### The Party Girl Co.
+- type: party and event rental companies
+- city: Naples
+- website: https://www.thepartygirlco.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Naples-based event company "serving the south of Florida," with distinct celebrations and weddings service lines
+- event signal: NO EQUIPMENT OWNED. Focus is event and wedding planning plus balloon decor; as a planner they select and book vendors for clients rather than owning gear.
+- fit score: 4
+- why: A pure planner with no inventory is the cleanest subcontract relationship available — nothing to protect and every reason to mark up a vendor. Same profile as My Party Guru in Fort Myers.
+- source: https://www.thepartygirlco.com/celebrations
+
+### Chipmunk Bounce Houses
+- type: party and event rental companies
+- city: Naples
+- website: https://www.chipmunkbouncehouses.com/
+- phone: 786-660-3345 (per a directory listing; unverified)
+- email: unknown
+- contact: unknown
+- size signal: 10+ years serving Naples and Ave Maria; address 8274 Key Royal Cir, Naples. CAUTION: Yelp lists this business as CLOSED (updated Feb 2026) while the company's own website appears active and its social pages are live — operating status is ambiguous.
+- event signal: NO FOAM OFFERING FOUND. Catalog is bounce houses, water slides, obstacle courses, tents, tables and concession machines; rentals start at $160 for bounce houses and $250 for water slides.
+- fit score: 3
+- why: Would be a 4-5 on catalog and tenure, but the conflicting closure signal caps it. Verify by phone before prioritizing. Their $160-$250 price points are useful market context.
+- source: https://www.chipmunkbouncehouses.com/
+
+### SW Florida Event Rentals
+- type: party and event rental companies
+- city: Naples
+- website: https://www.swfleventrentals.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: unknown — no independent evidence of scale beyond the company's own self-description
+- event signal: Markets itself as a Naples source for "tents, chairs, tables and more"; no foam offering found, but no booking-volume evidence or catalog depth either.
+- fit score: 2
+- why: Confirmed Naples tent and table company with no foam, but nothing independent confirms it is a business of any size. Worth a look, not yet a proven partner.
+- source: https://www.swfleventrentals.com/
+
+### Resilient Rentals
+- type: party and event rental companies
+- city: Naples
+- website: https://resilient-rentals.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: unknown — no independent evidence of scale
+- event signal: Markets itself as a Naples water-slide rental source, stating each rental is "cleaned and sanitized after every rental." No foam offering found.
+- fit score: 2
+- why: A water-slide specialist with no foam is the right shape for a partner, but there is no evidence of scale. Low-cost call, low expectation.
+- source: https://resilient-rentals.com/water-slide-rentals-in-naples-fl/
+
+### With Love From Naples Party Rentals
+- type: party and event rental companies
+- city: Naples
+- website: https://withlovefromnaplespartyrentals.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: unknown — surfaced only via a page title; not independently verified
+- event signal: Page title reads "Family Fun Party Rentals Naples FL – Bounce Houses, Water Slides & Tents." No catalog detail, reviews or foam confirmation retrieved before the search budget ran out.
+- fit score: 2
+- why: Fits the partner profile by name and category but the evidence is a page title and nothing more. Flagged for follow-up rather than confirmed — do not treat as researched.
+- source: https://withlovefromnaplespartyrentals.com/
+
+### AB Event Rentals — STATUS STILL UNRESOLVED
+- type: party and event rental companies
+- city: Naples
+- website: https://www.abeventrentals.com/
+- phone: (941) 539-8070
+- email: unknown
+- contact: unknown
+- size signal: Locally-owned full-service event rental company handling setup, with an "expansive collection of water slides along with party rentals and bounce houses," serving Naples, Cape Coral and Fort Myers
+- event signal: STILL UNRESOLVED AFTER THREE ROUNDS. They list a "Foam Party" category, but no pass has been able to confirm whether they own foam equipment or list it as a bookable pass-through. Direct page fetches are blocked by this environment's network policy.
+- fit score: 2
+- why: The longest-standing open question in this research. If they own foam they are a competitor; if they broker it, their three-city reach and full-service catalog make them a 4-5 partner. ONE PHONE CALL RESOLVES THIS — worth making before any further research spend.
+- source: https://www.abeventrentals.com/water-slide-naples-fl/
+
+### M & K Inflatables — COMPETITOR (newly identified)
+- type: party and event rental companies
+- city: Naples
+- website: https://mandkinflatables.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Naples-based inflatable rental company with a large catalog — bounce houses, waterslides, combos, obstacle courses, dunk tanks and inflatable games
+- event signal: CONFIRMED COMPETITOR. Their site includes a dedicated "Foam Parties" page, confirming they already market foam party service in Naples.
+- fit score: 1
+- why: Competitor, not a partner. Newly identified in this round and not previously on the known-competitor list — evidence that the foam market in SWFL is more crowded than earlier rounds suggested.
+- source: https://mandkinflatables.com/bounce-house-and-waterslide-rentals-in-naples-2/foam-parties/
+
+### Celebration Events and Rentals — COMPETITOR (newly identified)
+- type: party and event rental companies
+- city: Naples
+- website: https://www.celebrationeventsandrentals.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Self-described as "Lee & Collier County's best choice for inflatable attractions," serving Naples, Fort Myers, Lehigh Acres, Bonita Springs and Cape Coral, with a broad catalog including bounce houses, water slides, mechanical bulls and tents
+- event signal: CONFIRMED COMPETITOR. Their homepage explicitly lists "foam parties" alongside inflatables and mechanical bulls as a core offering.
+- fit score: 1
+- why: Competitor covering BOTH counties — the widest-reaching foam competitor identified so far. Newly found in this round.
+- source: https://www.celebrationeventsandrentals.com/
+
+### 10. Kids gyms and youth sports leagues
+
+### North Naples Little League
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://www.northnapleslittleleague.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Competitive Little League baseball for ages 4-12 with multiple divisions (AA, AAA, Majors) and formal tryouts
+- event signal: 2026 OPENING DAY CONFIRMED FOR FEBRUARY 6, 2026, with tryouts January 5-7 and practices from mid-January.
+- fit score: 5
+- why: A dated Opening Day on the calendar is the most actionable event signal in this category — you know exactly when to call and exactly what you are selling into. Large registered player base across three divisions.
+- source: https://www.northnapleslittleleague.com/Default.aspx?tabid=1285563
+
+### Greater Naples Little League
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://www.greaternapleslittleleague.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Described as Collier County's first and oldest Little League, implying a long-established and large registration base
+- event signal: 2026 Opening Day confirmed for FEBRUARY 21, 2026; the site maintains a dedicated "Save the Date" page.
+- fit score: 4
+- why: A second dated Opening Day two weeks after North Naples — two leagues, two bookable dates, same month, same pitch. The oldest league in the county carries the biggest roster.
+- source: https://www.greaternapleslittleleague.com/Default.aspx?tabid=1562868
+
+### Gymnastic World Naples
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://www.gwnaples.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Full gymnastics gym with recreational and competitive team programs
+- event signal: Runs dedicated summer and holiday camps and weekend birthday parties with full facility rental in two-hour Saturday and Sunday slots.
+- fit score: 4
+- why: Camps plus a standing weekend party business — two ways in. Their two-hour party format matches the Deluxe package almost exactly. Note the same brand name appears in Fort Myers (Gymnastics World, fit 4), so there may be a relationship.
+- source: https://www.gwnaples.com/services/events/birthday-parties/
+
+### Naples NFL Flag Football (NFFL)
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://naplesnflflag.com/
+- phone: unknown
+- email: naplesflagfootball@gmail.com (also naplesnflinfo@yahoo.com)
+- contact: unknown (a named individual's personal number appeared in results and is deliberately omitted)
+- size signal: Premier youth flag football program for boys and girls ages 4-15 in Collier County, playing at North Collier Regional Park
+- event signal: Published fall season game schedule (September-November) and a dedicated "Tournaments" page indicating recurring tournament activity.
+- fit score: 4
+- why: Active multi-week season plus tournament days at a large regional park, with a published league email. Tournament day and season close are the two natural bookings. Plays at the same park as Sun-N-Fun and C'mon.
+- source: https://naplesnflflag.com/tournaments/
+
+### Naples Performing Arts Center (NPAC)
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://naplesperformingartscenter.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Youth dance, music and theater programming with a recurring "JuniorStage" show series
+- event signal: Published summer camp season running June-August for ages 4+, with weekly themed camps, plus a dedicated Summer Camps category and JuniorStage performance events.
+- fit score: 4
+- why: Multiple weekly camp cohorts across a full summer, each with a natural end-of-week celebration slot. Performing-arts camps run indoors, so the sale is an outdoor cool-down day.
+- source: https://naplesperformingartscenter.com/category/summer-camps/
+
+### Naples Element All-Stars
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://napleselementallstars.com/
+- phone: (239) 919-6320
+- email: Info@napleselementallstars.com
+- contact: unknown
+- size signal: Elite and prep all-star cheer program with tumbling classes, private lessons and exhibition teams
+- event signal: Competitive all-star cheer team structure implies a competition season with kickoffs and banquets, but no specific party or camp page was confirmed.
+- fit score: 3
+- why: Published business phone AND email make this a cheap call, and all-star cheer programs reliably run season kickoffs and end-of-season banquets. Scored conservatively because no event page was confirmed.
+- source: https://napleselementallstars.com/cheer-gym-naples-fl/
+
+### T2 Aquatics (Naples Swim School)
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://www.t2aquatics.com/
+- phone: (239) 591-0204
+- email: unknown
+- contact: unknown
+- size signal: Swim school with group lessons for ages 3+ at 13275 Livingston Rd, Naples 34109
+- event signal: Runs a "Tiger Shark Swim Camp" for ages 6-12 in June and July.
+- fit score: 3
+- why: A named summer camp is concrete evidence of organized kid programming. Swim families may find foam less novel than other audiences, but a camp finale still works.
+- source: https://www.t2aquatics.com/page/naples-swim-school
+
+### Naples Family Martial Arts
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://naplesfamilymartialarts.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Kids martial arts program with an active RSVP-based birthday party booking system
+- event signal: Dedicated birthday party page with an RSVP system, describing a class demo plus board-breaking as part of the party.
+- fit score: 3
+- why: An actively promoted kids' birthday service is a direct event signal and a natural referral partner — they sell parties indoors and could refer the outdoor version. Gym size unknown.
+- source: https://naplesfamilymartialarts.com/birthday-parties-naples/
+
+### Naples United FC
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://www.naplesunited.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Competitive club soccer for players 5+, FYSA-affiliated, training at Paradise Coast Sports Complex
+- event signal: Published Academy Tryouts page and a distinct "Girls 2015 Invite" registration event, indicating organized recurring club events, but no season-kickoff or end-of-season party evidence.
+- fit score: 3
+- why: Tryout and registration events are confirmed and the club trains at a major complex, but no celebration-format event was found. Discovery call.
+- source: https://www.naplesunited.com/academy-tryouts
+
+### City of Naples Youth Flag Football (Parks & Recreation)
+- type: kids gyms and youth sports leagues
+- city: Naples
+- website: https://www.naplesgov.com/parksrec
+- phone: (239) 213-3020
+- email: unknown
+- contact: City of Naples Parks & Recreation
+- size signal: City-run flag football for grades 1-8, boys and girls, at Fleischmann Park during spring season
+- event signal: No specific event evidence (opening day, party, camp) was found beyond the existence of a spring season.
+- fit score: 2
+- why: Likely a decent-size municipal program, but no confirmed event evidence. Reaches the same CITY contact as Fleischmann Park — fold into that conversation rather than calling separately.
+- source: https://www.naplesgov.com/parksrec
+
+### 11. Festival and community event organizers
+
+### Stone Crab Festival (Tin City / City of Naples)
+- type: festival and community event organizers
+- city: Naples
+- website: https://www.naplesgov.com/parksrec/page/stone-crab-festival
+- phone: (239) 595-3962
+- email: unknown
+- contact: unknown
+- size signal: 15th annual edition; three-day outdoor waterfront festival at Tin City with 20+ restaurant and food vendors
+- event signal: Live music, food trucks, and a dedicated "Freedom Waters Foundation Kids Corner" with kids activities, an ice cream eating contest and raffle prizes — explicit kids zone confirmed.
+- fit score: 5
+- why: A recurring multi-day waterfront festival with a NAMED kids zone and a public contact line tied to kids-corner and vendor inquiries. The kids zone already exists; foam is an upgrade to it, not a new idea.
+- source: https://www.naplesgov.com/parksrec/page/stone-crab-festival
+
+### Naples Pride
+- type: festival and community event organizers
+- city: Naples
+- website: https://www.naplespride.org/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Nonprofit operating the Naples Pride Center; flagship festival in its 8th annual edition drawing thousands
+- event signal: Annual "Naples PrideFest," a family-friendly fundraiser at Cambier Park in April, 11am-4pm, with a named "Kidz Zone" featuring a bounce house, face painting and games, plus an existing vendor and exhibitor program. $10 general admission, kids under 12 free.
+- fit score: 5
+- why: A confirmed Kidz Zone that ALREADY BOOKS A BOUNCE HOUSE at a recurring nonprofit fundraiser with a vendor program — same budget line, same decision-maker, April timing. Direct match.
+- source: https://www.naplespride.org/event-details/7th-annual-naples-pridefest
+
+### Fifth Avenue South Business Improvement District
+- type: festival and community event organizers
+- city: Naples
+- website: https://www.fifthavenuesouth.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Business Improvement District formed 2010 covering 5th Ave South from 9th St to 3rd St in downtown Naples; publishes its own events calendar
+- event signal: Monthly "Evening on Fifth" (second Thursday); annual "5th Avenue South Halloween Spooktacular" at Cambier Park with games, candy and costume contests for families; annual Christmas tree lighting with a temporary ice rink and living nativity.
+- fit score: 4
+- why: An organized district with a dedicated events budget running explicitly family-oriented street events, including one at Cambier Park. A temporary ice rink proves they will fund a substantial physical attraction.
+- source: https://www.fifthavenuesouth.com/events-calendar/category/entertainment/
+
+### Collier Fair & Exposition, Inc. (Collier County Fair)
+- type: festival and community event organizers
+- city: Naples
+- website: https://collierfair.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Annual county fair at the Collier Fairgrounds, scheduled March 19-29, 2026; approximately 30 major rides plus kiddie rides
+- event signal: Multi-week fair with livestock shows, a dedicated "Kiddy Craze" discounted kids-ride day, and family entertainment.
+- fit score: 3
+- why: Big confirmed family attendance with a named kids' day, but a fair midway already runs its own contracted carnival — foam would compete with their existing attraction contract rather than filling a gap. Same structural caveat as the Lee County Fair.
+- source: https://collierfair.com/
+
+### Florida Stone Crabbers Association (Everglades Seafood Festival)
+- type: festival and community event organizers
+- city: Everglades City (Collier County — ~35-40 miles from Naples, in service area)
+- website: https://evergladesseafoodfestival.org/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: 56th annual festival, Feb 13-15, 2026, at Everglades City Hall; estimated 50,000-70,000 attendees over three days
+- event signal: Seafood and artisan vendor booths, carnival rides, and community nonprofit booths; run by a 501(c)(3) benefiting local children and community causes.
+- fit score: 3
+- why: Very high attendance and an established outside-vendor program, and it is within Collier County. Scored 3 for geography — a 35-40 mile haul from Naples means travel time and cost that a single booking may not cover.
+- source: https://evergladesseafoodfestival.org/
+
+### Greater Naples Chamber of Commerce
+- type: festival and community event organizers
+- city: Naples
+- website: https://www.napleschamber.org/
+- phone: (239) 262-6376
+- email: unknown
+- contact: unknown
+- size signal: Located at 2150 Goodlette-Frank Rd N, Naples 34102; maintains a staff directory and represents the greater Naples business community
+- event signal: Runs a "Signature Events" program, recurring Business After 5 networking events and ribbon cuttings, an annual Youth Business Fair for K-12 entrepreneurs, and a "Jingle & Mingle" holiday party. No public kids-zone family festival.
+- fit score: 2
+- why: Active chamber but its events are B2B networking and holiday functions rather than public family festivals. The Youth Business Fair is the one kid-facing item worth asking about. Value is indirect — a referral hub to member businesses and HOAs.
+- source: https://www.napleschamber.org/events/signature-events/
+
+### Naples Art Institute (Naples New Year's Art Fair)
+- type: festival and community event organizers
+- city: Naples
+- website: https://www.naplesart.org/new-years-art-fair
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Fair features ~250 professional artists from 30+ states; ranked #8 among Top Ten Fine Art Shows in the US
+- event signal: Two-day juried fine-art fair in Cambier Park and 5th Ave South, plus the related Naples National Art Fair and Downtown Art Fair. No kids zone found; audience skews adult art buyers.
+- fit score: 2
+- why: Large and prestigious but no family programming — the ArtFest Fort Myers equivalent has a Publix Art Yard kids zone and this does not. Ask whether they would add one; the attendance would justify it.
+- source: https://www.naplesart.org/new-years-art-fair
+
+### Naples Children & Education Foundation (Naples Winter Wine Festival)
+- type: festival and community event organizers
+- city: Naples
+- website: https://www.napleswinefestival.com/
+- phone: (239) 514-2239
+- email: unknown
+- contact: unknown
+- size signal: Headquartered at 2590 Goodlette-Frank Rd N, Naples 34103; one of the largest charity wine auctions in the US
+- event signal: Annual ticketed donor auction and gala weekend in late January. No public kids zone or open family-day component — attendance is invited donors.
+- fit score: 2
+- why: Enormous nonprofit budget but the format is a private gala, not an open family festival. Recorded because the name suggests opportunity and the reality does not — the foundation funds children's causes but does not run children's events.
+- source: https://www.napleswinefestival.com/about-us/
+
+### 12. Breweries and food truck parks that host family events
+
+### Ankrolab Brewing Company
+- type: breweries and food truck parks that host family events
+- city: Naples
+- website: https://www.ankrolab.com/
+- phone: (239) 330-7899
+- email: info@ankrolab.com
+- contact: unknown
+- size signal: Craft brewery and beer garden with ample indoor and outdoor seating at 3555 Bayshore Drive, Naples
+- event signal: Published events page; hosts themed festivals (Woodstock-style events, dog costume contests), donut-and-beer pairing nights, seasonal festivities, plus recurring trivia and live music; daily rotating food trucks on site.
+- fit score: 5
+- why: Best brewery fit in Naples — dog-friendly outdoor beer garden, lawn games, daily food trucks, and a dedicated public events calendar with recurring themed events. Published business email, which is rare in this category.
+- source: https://www.ankrolab.com/events/
+
+### Celebration Park Naples
+- type: breweries and food truck parks that host family events
+- city: Naples
+- website: https://celebrationparknaples.com/
+- phone: (239) 316-7253
+- email: unknown
+- contact: unknown
+- size signal: Waterfront open-air venue at 2880 Becca Ave, Naples 34112, hosting roughly eight food trucks plus a full bar; open Wed-Sat
+- event signal: Dedicated "Upcoming Events" and "Happenings/Live Music" pages; recurring themed nights, nightly live music and sunset sets, and an explicit offer of "semi-private and private events year-round."
+- fit score: 4
+- why: Large outdoor waterfront space with an active calendar and — most usefully — an explicit private-event booking offer, which is the direct path to a booking. Family-friendliness is implied by the open-air format but not stated; confirm on the call.
+- source: https://celebrationparknaples.com/upcoming-events/
+
+### Bone Hook Brewing Company
+- type: breweries and food truck parks that host family events
+- city: Naples
+- website: https://bonehookbrewing.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: One of the larger brewpubs in Southwest Florida, producing 20+ beers, with a spacious layout and waterfront/patio seating
+- event signal: Weekly trivia night (Wednesdays 7-9pm) and regular live music; explicitly kid-friendly and dog-friendly outdoor patio with water bowls and a pup menu.
+- fit score: 4
+- why: An explicitly kid-friendly outdoor patio plus a recurring weekly events cadence and strong outdoor space. No published contact details found, so start with a walk-in or social message.
+- source: https://bonehookbrewing.com/
+
+### Riptide Brewing Company
+- type: breweries and food truck parks that host family events
+- city: Naples — STATUS UNCERTAIN, LIKELY RELOCATED
+- website: https://www.riptidebrewingcompany.com/
+- phone: (239) 228-6533
+- email: info@Riptidebrewingcompany.com
+- contact: unknown
+- size signal: Previously at 987 3rd Avenue North, Naples 34102, with a beer garden, food trucks and games
+- event signal: Historically strong — Tuesday trivia with rotating food trucks, Wednesday Irish music, Thursday open mic, Friday/Saturday live music, pinball tournaments and fundraisers.
+- fit score: 2
+- why: LIKELY MOVED OR CLOSED IN NAPLES. Their own website now bills the business as a "Craft Brewery in Bonita Springs, FL," an Eventbrite listing places events in Bonita Springs, and a directory tags the Naples location as closed — while older Naples listings persist. Verify by phone before outreach; if they have moved, pick them up in the Bonita Springs round.
+- source: https://www.riptidebrewingcompany.com/
+
+### Naples Beach Brewery
+- type: breweries and food truck parks that host family events
+- city: Naples
+- website: unknown
+- phone: (239) 304-8795 (from a now-closed listing)
+- email: unknown
+- contact: unknown
+- size signal: Formerly Naples' first craft brewery, tasting room at 4120 Enterprise Ave Suite 116, Naples 34104, with 24 house beers and daily food vendors
+- event signal: None — business is closed.
+- fit score: 1
+- why: CONFIRMED CLOSED as of a July 2026 listing update. Recorded so it is not re-researched. Do not contact.
+- source: https://www.yelp.com/biz/naples-beach-brewery-naples-3
+
+Category note: Big Storm Brewery was checked and has NO Naples location — and every Florida
+Big Storm listing (Cape Coral, Clearwater, Odessa, Tampa) is now marked closed. Momentum
+Brewhouse could not be verified before the search budget ran out; it is commonly associated
+with Bonita Springs rather than Naples and should be picked up in that round.
+
+---
+
+### Competitive summary — updated after Naples
+
+Two new foam competitors were identified in Naples, bringing the confirmed count to six
+across Lee and Collier:
+
+| Company | Base / reach | Foam offering | Price found | Status |
+|---|---|---|---|---|
+| SWFL Amusements | Cape Coral | Foam Machine Rental | $199 / 4 hrs | Confirmed |
+| Family First Events | Fort Myers, serves Naples | Foam party | $225 / 2 hrs | Confirmed |
+| Gator Bounce Rentals | Fort Myers, markets to Naples | Two foam landing pages | not published | Confirmed |
+| Bounce Bros Entertainment | Fort Myers, serves Cape | Foam Machine Rental page | not published | Confirmed |
+| M & K Inflatables | Naples | Foam Parties page | not published | Confirmed (new) |
+| Celebration Events and Rentals | Lee AND Collier | "foam parties" on homepage | not published | Confirmed (new) |
+| The Bounce House People | SWFL | "foam fun" in service copy | not published | Likely |
+| AB Event Rentals | Naples, Cape, Fort Myers | "Foam Party" category listed | not published | UNRESOLVED after 3 rounds |
+
+Read on this: each round of research finds more foam competitors, not fewer. Six confirmed
+operators across two counties means foam is an established, contested product here, not an
+untapped niche. Every one of them, however, sells EQUIPMENT RENTAL — a machine dropped off,
+or bundled onto a bounce house booking. None of the pricing found ($199-$225) implies staffed,
+insured, timed service.
+
+That gap is the whole strategy, and it points at the prospects that scored highest in this
+city: Collier County Parks, City of Naples Parks, the private schools, and the country clubs
+all require a vendor with insurance, staff and a certificate of insurance on file. A $199
+machine drop-off cannot serve them. Sell to buyers who cannot use the cheap option.
