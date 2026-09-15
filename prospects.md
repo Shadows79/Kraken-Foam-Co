@@ -3,7 +3,9 @@
 Mobile foam party service, Lee and Collier counties.
 Packages: Classic $349/60min · Deluxe $449/90min · Commercial and Camps $649/2hr.
 
-Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**, **Bonita Springs**, **Estero**, **Lehigh Acres**, **Fort Myers Beach**.
+Grid: 7 cities x 12 categories, complete. **Fort Myers**, **Cape Coral**, **Naples**, **Bonita Springs**, **Estero**, **Lehigh Acres**, **Fort Myers Beach**.
+
+Scope note: Marco Island was the originally planned eighth city and was **deliberately dropped**, not missed. Collier County coverage therefore comes from Naples and Bonita Springs only. If Marco Island is ever wanted, it is a clean addition — nothing in this file depends on it.
 
 Research note: this environment's network policy blocks direct page fetches (403 on CONNECT),
 so all records were gathered via web search of the cited source pages rather than by opening
