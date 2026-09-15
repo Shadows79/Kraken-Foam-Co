@@ -3,7 +3,7 @@
 Mobile foam party service, Lee and Collier counties.
 Packages: Classic $349/60min · Deluxe $449/90min · Commercial and Camps $649/2hr.
 
-Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**, **Bonita Springs**.
+Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**, **Bonita Springs**, **Estero**.
 
 Research note: this environment's network policy blocks direct page fetches (403 on CONNECT),
 so all records were gathered via web search of the cited source pages rather than by opening
@@ -1209,11 +1209,11 @@ could not be confirmed are marked "unknown" rather than guessed.
 - phone: (941) 539-8070
 - email: unknown
 - contact: unknown
-- size signal: Storefront at 14680 S Tamiami Trail #5, Fort Myers 33912, with a published delivery-area page covering Cape Coral and Fort Myers. Catalog organized into Bounce Castles & More, Water Slides & More, Games, Popcorn & More, Table/Chair/Tent, and Concessions.
-- event signal: APPEARS TO ALREADY OFFER FOAM — "Foam Party" shows up as one of their top-level rental categories alongside bounce castles, water slides and games. The foam category page itself could not be opened to confirm whether it is an owned machine or a resold line item, so this is a category listing only, not confirmed equipment ownership.
-- fit score: 2
-- why: Scored low because foam already appears in their catalog. Worth one qualifying call only to test whether they own the machine or broker the job out — if they are subcontracting foam today, they flip to a 4. Until confirmed, assume they are covered.
-- source: https://www.abeventrentals.com/
+- size signal: Storefront at 14680 S Tamiami Trail #5, Fort Myers 33912, run by "Robert and team." Delivers across twelve Lee County zip codes (33901, 33903, 33905, 33907, 33912, 33913, 33916, 33917, 33919, 33966, 33971, 33990) plus Estero, Cape Coral and Naples. Institutional client base — churches, school districts, businesses, nonprofits, daycares.
+- event signal: RESOLVED IN ROUND 5, LEANING PARTNER. A dedicated pass found NO FOAM PRODUCT PAGE and no foam-machine listing despite targeted searching, and no SWFL directory describes them as offering foam. This CONTRADICTS an earlier round that saw a "Foam Party" category listing. Best current reading: they may list the category without owning equipment. Not fully closed — one call settles it.
+- fit score: 4
+- why: UPGRADED FROM 2 AFTER FIVE ROUNDS OF AMBIGUITY. If they do not own foam, this is a strong partner: a real storefront, twelve-zip delivery footprint, and exactly the institutional client base (churches, school districts, daycares) that generates Commercial-tier foam requests. Their client list overlaps heavily with our best-scoring prospects. CALL THIS ONE EARLY — it is the highest-value unresolved contact in the file.
+- source: https://www.abeventrentals.com/inflatables-fort-myers-fl/
 
 ### Gator Bounce Rentals LLC
 - type: party and event rental companies
@@ -2461,9 +2461,9 @@ See the competitive summary at the end of this city section.
 - email: unknown
 - contact: unknown
 - size signal: Serves Cape Coral and Fort Myers with a broad catalog — tents, tables, chairs, inflatables, water slides
-- event signal: UNRESOLVED. They list a "Foam Party" category on their site, but a second research pass still could not confirm whether they own and operate foam equipment or list it as a resold/brokered category. No dedicated foam product page surfaced.
-- fit score: 3
-- why: Still the open question in this market. If they own foam gear they are a competitor (1-2); if they merely list the category without equipment, their broad catalog and two-city reach make them a strong subcontract prospect (4-5). One phone call resolves it — worth making early.
+- event signal: RESOLVED IN ROUND 5, LEANING PARTNER — see the Fort Myers record for detail. A dedicated pass found no foam product page and no directory describing them as offering foam, contradicting the earlier category-listing sighting.
+- fit score: 4
+- why: Upgraded from 3. Same company as the Fort Myers record (14680 S Tamiami Trail #5, Fort Myers), serving Cape Coral through a delivery-area page. Treat as ONE partner conversation covering Fort Myers, Cape Coral, Naples and Estero.
 - source: https://www.abeventrentals.com/water-slide-cape-coral-fl/
 
 ### Day and Night Bounce House Rentals of Cape Coral FL LLC
@@ -3890,9 +3890,9 @@ their own sites. See the updated competitive summary at the end of this city sec
 - email: unknown
 - contact: unknown
 - size signal: Locally-owned full-service event rental company handling setup, with an "expansive collection of water slides along with party rentals and bounce houses," serving Naples, Cape Coral and Fort Myers
-- event signal: STILL UNRESOLVED AFTER THREE ROUNDS. They list a "Foam Party" category, but no pass has been able to confirm whether they own foam equipment or list it as a bookable pass-through. Direct page fetches are blocked by this environment's network policy.
-- fit score: 2
-- why: The longest-standing open question in this research. If they own foam they are a competitor; if they broker it, their three-city reach and full-service catalog make them a 4-5 partner. ONE PHONE CALL RESOLVES THIS — worth making before any further research spend.
+- event signal: RESOLVED IN ROUND 5, LEANING PARTNER — see the Fort Myers record. Targeted searching found no foam product page; the company is Fort Myers-based and serves Naples by delivery.
+- fit score: 4
+- why: Upgraded from 2 after five rounds. Same company as the Fort Myers record — one conversation covers four cities.
 - source: https://www.abeventrentals.com/water-slide-naples-fl/
 
 ### M & K Inflatables — COMPETITOR (newly identified)
@@ -3903,9 +3903,9 @@ their own sites. See the updated competitive summary at the end of this city sec
 - email: unknown
 - contact: unknown
 - size signal: Naples-based inflatable rental company with a large catalog — bounce houses, waterslides, combos, obstacle courses, dunk tanks and inflatable games
-- event signal: CONFIRMED COMPETITOR. Their site includes a dedicated "Foam Parties" page, confirming they already market foam party service in Naples.
+- event signal: CONFIRMED COMPETITOR, AND MORE COMMITTED THAN FIRST RECORDED. Beyond the "Foam Parties" page on their main site, Round 5 found they operate a FOAM-SPECIFIC DBA, "Beyond Foam Parties," delivering foam machines to Estero and surrounding areas.
 - fit score: 1
-- why: Competitor, not a partner. Newly identified in this round and not previously on the known-competitor list — evidence that the foam market in SWFL is more crowded than earlier rounds suggested.
+- why: Competitor, not a partner — and a dedicated foam brand rather than a line item on an inflatables site, which signals real commitment to the category. The most focused foam competitor identified so far.
 - source: https://mandkinflatables.com/bounce-house-and-waterslide-rentals-in-naples-2/foam-parties/
 
 ### Celebration Events and Rentals — COMPETITOR (newly identified)
@@ -5313,3 +5313,838 @@ Coral's Red White & BOOM! or Naples PrideFest do. Nothing was inflated to fill t
 Category note: Bonita Brew Fest was considered and excluded as a record — it is an annual
 one-day festival run by a nonprofit at Riverside Park rather than a standing venue. It belongs
 under festivals as a sponsorship target if that route is pursued.
+
+---
+
+## Estero
+
+Village of Estero, Lee County — incorporated 2014, ~35,000 residents, between Bonita Springs
+and Fort Myers. Two structural quirks shape this city's records:
+
+JURISDICTION: many facilities physically in Estero are operated by LEE COUNTY, not the Village.
+The Village government runs permitting and some programming, but does not operate the main park.
+Each record says which.
+
+POSTAL ADDRESSES: Estero incorporated late, so many addresses inside the Village still carry a
+"Fort Myers 33967" postal city. Several schools and businesses that serve Estero are technically
+Fort Myers-addressed. Where an agent flagged the mismatch, the record says so.
+
+Boundary note: Shadow Wood Country Club and The Commons Club at The Brooks carry Estero mailing
+addresses but are recorded under BONITA SPRINGS and were deliberately excluded here.
+
+PATTERN BREAK: for the first time in five cities, there is NO working farm, ranch, stable or
+petting zoo physically in Estero. The best outdoor venues here are public park pavilions.
+
+### 1. Summer and day camps
+
+### YMCA Camp Estero
+- type: summer and day camps
+- city: Estero
+- website: https://www.ymcaswfl.org/camps/ymca-camp-estero
+- phone: (239) 221-7560
+- email: unknown
+- contact: unknown (general camp office)
+- size signal: A DEDICATED 5-ACRE CAMP PROPERTY at 8791 Corkscrew Rd, Estero 33928, run by the YMCA of Southwest Florida — not a camp hosted inside another facility. Multi-week seasonal day camp with registered weekly sessions.
+- event signal: Weekly-themed outdoor day camp — hiking, archery, kayaking, "creeking," wilderness and environmental education projects, arts and crafts, swimming, campfire and camp songs. Partners with the adjacent nonprofit Happehatchee Center for special activity days including painting, baking and guest educators from FGCU and Kowichobee Animal Preserve.
+- fit score: 5
+- why: A purpose-built 5-acre camp property with weekly cohorts and an established habit of bringing in outside guest activities — the "special activity day" slot is exactly what foam fills, and they already buy them. Same YMCA of SWFL organization as the Bonita Springs branch (fit 4) and the Fort Myers branch, so this is a multi-site conversation.
+- source: https://www.ymcaswfl.org/camps/ymca-camp-estero
+
+### Estero Recreation Center Summer Camp (LEE COUNTY)
+- type: summer and day camps
+- city: Estero
+- website: https://www.leegov.com/parks/centers/estero
+- phone: (239) 533-1470
+- email: unknown
+- contact: Lee County Parks & Recreation
+- size signal: County-run traditional and middle-school summer camp at 9200 Corkscrew Palms Blvd, Estero 33928; six-week program roughly mid-June through late July at $75/week per child; membership-based registration that historically fills before school lets out
+- event signal: Structured weekly day camp with published monthly activity calendars and a dedicated summer schedule that overrides normal rec-center hours. The Village of Estero promotes camp registration on its own site.
+- fit score: 4
+- why: A budget-priced municipal camp that fills early — high volume of local kids in one place, six weeks running. This is LEE COUNTY, the same department already recorded under Fort Myers and Bonita Springs, so vendor registration done once serves all three.
+- source: https://www.leegov.com/parks/centers/estero
+
+### Happehatchee Center
+- type: summer and day camps
+- city: Estero
+- website: https://happehatchee.org
+- phone: (239) 992-5455
+- email: unknown
+- contact: unknown
+- size signal: 4.5-acre nonprofit nature sanctuary at 8791 Corkscrew Rd, Estero 33928 — THE SAME PROPERTY as YMCA Camp Estero. Organic garden, fire circle, kayak launch, Peace Pavilion. Event capacity ~60.
+- event signal: Documented partnership with the Village of Estero and the Bonita Springs YMCA to run outdoor day-camp activities on site — kayaking, fishing, baking, painting, yoga, environmental education, plus guest educators. Also hosts private birthday parties and gatherings, and runs an annual free Earth Day Festival in April.
+- fit score: 3
+- why: Functions as a camp venue and activity partner rather than running its own branded camp, but it already hosts private parties AND sits on the same land as YMCA Camp Estero — one site visit covers both. Small capacity caps the booking size.
+- source: https://happehatchee.org
+
+### 2. Preschools and daycare centers
+
+### Creative World School at Estero
+- type: preschools and daycare centers
+- city: Estero (BOUNDARY CAVEAT — see below)
+- website: http://creativeworldschool.com/schools/estero-fl-preschool-childcare-daycare-2/
+- phone: unknown
+- email: unknown
+- contact: Owners Amy and Chris O'Malley (also own the Gateway and Naples locations)
+- size signal: Multi-site operator — Estero, Gateway (Fort Myers), and two Naples campuses. Serves infants through school-age. Located on Cypress View Dr off Estero Parkway, near Three Oaks Elementary. BOUNDARY CAVEAT: two agents disagreed — one placed the street address in Fort Myers 33967 and excluded it, the other included it as Estero. It is inside the service territory either way; verify the municipal line only if it matters for your routing.
+- event signal: "CampTastic" school-age summer camp with explicit water programming — "Splish Splash" (water games), "Island Adventure" (splash zones), and named special event days "Slip & Slimed," "Wiped Out" and "Colorific Splash-a-Thon."
+- fit score: 5
+- why: The strongest published water-and-mess language found in any preschool chain — "Slip & Slimed" and "Colorific Splash-a-Thon" are foam parties in all but name. Fourth Creative World campus on this list (Gateway, two Naples, this one), so treat as one multi-site conversation with named owners.
+- source: https://creativeworldschool.com/camptastic-summer-camp-for-school-age-children/
+
+### Celebree School of Estero
+- type: preschools and daycare centers
+- city: Estero
+- website: https://www.celebree.com/estero-fl/
+- phone: (239) 310-0002
+- email: unknown
+- contact: unknown
+- size signal: Purpose-built center at 10351 Corkscrew Commons Dr; part of the national Celebree chain; opened as a new location in 2025
+- event signal: School-Age Camp for ages 6-12 plus a 2-5 camp, with weekly themed weeks including "Wild West Adventures" and "Under the Sea Explorations," on-site field trips, and hands-on STEM and art projects, on a dedicated summer camp landing page.
+- fit score: 5
+- why: A brand-new purpose-built center still establishing its programming, with a published school-age camp and named themed weeks. New centers are more receptive to a novel attraction than established ones. "Under the Sea" is the obvious slot.
+- source: https://www.celebree.com/estero-fl/summer-camps/
+
+### Oak Haven Montessori School
+- type: preschools and daycare centers
+- city: Estero
+- website: https://www.oakhavenmontessorischool.com/
+- phone: (239) 676-8327
+- email: Info@OakHavenMontessoriSchool.com
+- contact: unknown
+- size signal: Founded 2012 at 9410 Corkscrew Palms Circle, Ste 101-102, Estero 33928; ages 6 weeks through 5, with camp extending to age 16; a 1.5-ACRE NATURAL PLAYGROUND
+- event signal: Summer camp includes "sprinkler and splash time," plus visits from Kona Ice and Dickherber Farms and a camp leader program for ages 6-16.
+- fit score: 4
+- why: They already run sprinkler and splash time AND already pay outside vendors to visit (Kona Ice, a farm). A 1.5-acre natural playground is unusual space for a preschool — room for a foam setup. Published business email. NOTE: a similarly-named Oakhaven Montessori in California appears in search; the Estero entity is oakhavenmontessorischool.com.
+- source: https://www.oakhavenmontessorischool.com/
+
+### Primrose School of Estero
+- type: preschools and daycare centers
+- city: Estero
+- website: https://www.primroseschools.com/schools/estero
+- phone: (239) 330-8030
+- email: unknown
+- contact: unknown
+- size signal: Accredited (Cognia, 2021), CAPACITY 223 CHILDREN, opened 2019, at 10350 Corkscrew Commons Dr — directly across from Celebree
+- event signal: "Summer Adventure Club" for K-5th grade with rotating weekly themes and hands-on activities. The national program confirms themed weeks; specific 2026 themes for this location were not confirmed.
+- fit score: 4
+- why: 223-child capacity is among the largest single-site licences in this research, and a K-5 summer club is the right age band. Note Celebree sits directly across the road — one trip, two pitches. Franchise may need corporate vendor sign-off.
+- source: https://www.primroseschools.com/schools/estero/classrooms/summer-adventure-club
+
+### The Goddard School of Estero
+- type: preschools and daycare centers
+- city: Estero
+- website: https://www.goddardschool.com/schools/fl/estero/estero
+- phone: (239) 667-4555
+- email: unknown
+- contact: unknown
+- size signal: National Goddard franchise at 10100 Arcos Ave, Estero 33928
+- event signal: Publishes a 12-week "Summer with Goddard" program, but the location-specific summer camp page currently shows no themes or events listed ("check back soon"). Other Goddard locations nationally run water days and themed weeks; that was NOT confirmed for Estero.
+- fit score: 3
+- why: Strong national brand with a real summer program structure, but the event evidence is brand-level rather than location-confirmed. The Fort Myers Goddard record has the same limitation — a corporate conversation may be more productive than two local ones.
+- source: https://www.goddardschool.com/schools/fl/estero/estero/our-school/special-programs/summer-camp
+
+### Ivybrook Academy Estero
+- type: preschools and daycare centers
+- city: Estero
+- website: https://www.ivybrookacademy.com/estero/
+- phone: (239) 893-6538 (a second listing shows 239-319-1113 — verify)
+- email: unknown
+- contact: unknown
+- size signal: Single suite at 21300 South Branch Blvd, Suite 6111, Estero 33928; explicitly branded a HALF-DAY PRESCHOOL, Reggio Emilia and Montessori inspired, hours M-F 8:30am-4:30pm
+- event signal: No summer camp, themed-week or water-day evidence found — a half-day model with no school-age camp programming.
+- fit score: 2
+- why: Structurally wrong, like Wonder Years in Bonita Springs — a half-day preschool with no school-age camp has no occasion to host. Recorded to close the loop.
+- source: https://www.ivybrookacademy.com/estero/
+
+### 3. Church youth programs
+
+### First Baptist Church Estero
+- type: church youth programs
+- city: Estero
+- website: https://www.firstbaptistestero.com
+- phone: (239) 992-0881
+- email: office@firstbaptistestero.com
+- contact: Youth Ministry (firstbaptistestero.com/youth)
+- size signal: Established congregation at 20300 Trailside Dr, Estero 33928, with a dedicated Fellowship House for youth gatherings and a full events calendar
+- event signal: TWO confirmed events at this specific congregation — a "Trunk or Treat" (Oct 31, 6-8pm, with games, candy, prizes and free food) and a dated VBS-style day camp, June 17-21, 8:00am-12:00pm, for ages 4 through completed 6th grade, $20 including a t-shirt, with a daily recreation block. Prior VBS theme: "Illumination Station." Youth group meets Wednesdays 6pm.
+- fit score: 5
+- why: The only Estero church with two independently confirmed dated events, a published office email, and a daily recreation block during a week-long June camp — that block is the booking. Best church prospect in the city by a clear margin.
+- source: https://www.firstbaptistestero.com/vbs
+
+### Estero Church (formerly Estero United Methodist Church)
+- type: church youth programs
+- city: Estero
+- website: https://www.estero.church
+- phone: (239) 992-5516
+- email: unknown
+- contact: Youth Ministry staff (estero.church/staff)
+- size signal: Congregation 100+ years old at 8088 Lords Way, Estero, with a recent 14,000 SQ FT renovation and expansion — sizable campus and grounds, including a dedicated "Youth Building B"
+- event signal: Themed VBS (a rainforest-journey adventure, evenings 6-8:30pm) with a closing Unity Service; weekly youth Sunday school for grades 6-12 and a Wednesday night youth group.
+- fit score: 4
+- why: Large grounds, a dedicated youth building, and an evening VBS — evening timing in Florida summer is ideal for foam. ONE CAUTION: a UMC denominational database lists the old Estero United Methodist entry as "Closed" while 2025 sources confirm the campus operating under the "Estero Church" name. It appears to be a rebrand, not a closure, but confirm on the call.
+- source: https://www.estero.church/youth/
+
+### Ocean Church — Estero Campus
+- type: church youth programs
+- city: Estero
+- website: https://www.oceanchurch.com
+- phone: (239) 992-3040
+- email: info@oceanchurch.com
+- contact: Estero Campus staff (oceanchurch.com/people)
+- size signal: Multi-service Sunday schedule (8:30, 10:00, 11:30am) at a dedicated Estero campus, 22100 S Tamiami Trail, Estero 33928, with a separate children's check-in area
+- event signal: A "Best Week Ever" summer kids program appears in the church's own social content, and the campus previously hosted a "South Florida Regional Mega Camp," but no current-year dated schedule was independently confirmed.
+- fit score: 3
+- why: A real multi-service campus with a children's ministry and a history of hosting regional camps — the scale is there. Event evidence is soft (social posts, undated), so the first call is discovery.
+- source: https://www.oceanchurch.com/plan-your-visit
+
+### Christ Community Ministries
+- type: church youth programs
+- city: Estero
+- website: https://www.ccmswfl.org
+- phone: (239) 498-4352
+- email: unknown
+- contact: unknown
+- size signal: Full Sunday schedule with a dedicated "CCM Kids & Nursery" program at 9:45am, plus a cafe and fellowship time, at 8681 Corkscrew Rd, Estero
+- event signal: No dated seasonal event (VBS, Trunk-or-Treat, Fall Festival) could be verified — only a standing children's ministry.
+- fit score: 2
+- why: Confirmed Estero church with an active kids' ministry and a published phone, but no event evidence. Cold call.
+- source: https://www.ccmswfl.org/
+
+### Estero Community Church (PCUSA)
+- type: church youth programs
+- city: Estero
+- website: https://www.esterocommunitychurch.com
+- phone: (239) 267-3331
+- email: unknown
+- contact: unknown
+- size signal: Established PCUSA congregation, Peace River Presbytery member, at 21115 Design Parc Ln, Estero
+- event signal: No dated VBS, Trunk-or-Treat or Fall Festival could be verified.
+- fit score: 2
+- why: Confirmed real Estero church with a published phone, but no event evidence found.
+- source: https://pcusa.org/congregation/estero-community-church-estero-fl
+
+### Thrive Community Church
+- type: church youth programs
+- city: Estero
+- website: https://thrive-fl.org
+- phone: (239) 948-4749
+- email: info@thrive-fl.org
+- contact: unknown
+- size signal: LCMS-affiliated congregation founded 2016 in Estero Ridge Plaza, 20041 S Tamiami Trail Ste 1, Estero
+- event signal: Generic references to a youth/teen ministry and "Thrive Kids" on the church's own pages, but no specific dated event verified.
+- fit score: 2
+- why: A young congregation in a plaza unit — limited grounds and likely limited budget, with no confirmed events. Published email makes it a cheap call, low expectation.
+- source: https://thrive-fl.org/events
+
+Category note: four candidates seeded into this research do NOT exist in Estero and were
+correctly discarded by the researching agent — Grace Church has no Estero campus, Faith
+Presbyterian and Church of the Resurrection do not exist here, and Hope Lutheran is in Bonita
+Springs. Two further exclusions were judgment calls worth recording: Estero Presbyterian Church
+was dropped because the only youth-group text found for it was word-for-word identical to Estero
+Church's, indicating duplicated source content rather than a real fact; and a Summit Church
+Estero campus listed by directories was dropped because Summit's own site names only three
+campuses, none in Estero.
+
+### 4. Schools and PTOs
+
+Category note: thin, and complicated by postal geography. Three schools that serve Estero
+families — Three Oaks Elementary, Rayma C. Page Elementary and San Carlos Park Elementary —
+carry Fort Myers mailing addresses and were excluded. Four records, not padded.
+
+### Pinewoods Elementary School PTO
+- type: schools and PTOs
+- city: Estero
+- website: https://pin.leeschools.net/ (PTO: facebook.com/PinewoodsPTO)
+- phone: (239) 947-7500
+- email: pinewoodsvips@gmail.com
+- contact: unknown (public PTO email only)
+- size signal: Public K-5 elementary at 11900 Stoneybrook Golf Drive, Estero 33928
+- event signal: Annual PTO Carnival described as "full of games, prizes, face painting and BOUNCY HOUSES," held in spring alongside the Spring Book Fair; also a "Pinewoods Fun Run."
+- fit score: 4
+- why: They already rent bouncy houses for an annual spring carnival — same budget line, same decision, and the PTO has its own published email. Two named recurring events. Best school prospect in Estero.
+- source: https://www.facebook.com/PinewoodsPTO/
+
+### Three Oaks Middle School PTO
+- type: schools and PTOs
+- city: Estero (POSTAL MISMATCH — see below)
+- website: https://okm.leeschools.net/our_families/p_t_o (PTO: facebook.com/TOMSPTOFL)
+- phone: (239) 267-5757
+- email: unknown (a PTO president's personal email appeared in a fundraiser post and was deliberately omitted)
+- contact: unknown
+- size signal: Public middle school, enrollment ~1,066-1,100 students. POSTAL MISMATCH: the school's mailing address is 18500 Three Oaks Parkway, Fort Myers 33967, but the Village of Estero's own government site lists Three Oaks Middle as the designated grades 6-8 public school serving Estero residents. Estero incorporated late and many addresses still carry a Fort Myers postal city.
+- event signal: Recurring restaurant-night fundraisers (dine-to-donate) and an active PTO Facebook page, but no large signature event such as a fall festival or carnival was found.
+- fit score: 3
+- why: 1,100 students is the largest school population serving Estero, and the PTO is independently branded and active. Held at 3 because restaurant nights are a much smaller format than a carnival — and because middle-school age skews older than ideal.
+- source: https://estero-fl.gov/for-residents/schools/
+
+### 3 Oaks Academy (Estero campus)
+- type: schools and PTOs
+- city: Estero
+- website: https://www.3oaksacademy.com/estero/
+- phone: (239) 776-2100
+- email: unknown
+- contact: unknown
+- size signal: Private K-12 school, Estero campus at 21101 Design Parc Ln, Estero
+- event signal: Two named signature parent-volunteer events — the "Under the Oaks Gala" and the "Rooted & Rising Luncheon" — both described as parent-run and central to school fundraising.
+- fit score: 3
+- why: Named recurring parent-run events at a private school with in-house decision-making, but both are adult gala/luncheon formats rather than kids' carnivals. The opening is proposing the family day they do not currently run.
+- source: https://www.3oaksacademy.com/estero/for-our-families
+
+### Estero High School
+- type: schools and PTOs
+- city: Estero
+- website: https://est.leeschools.net/
+- phone: (239) 947-9400
+- email: unknown
+- contact: unknown
+- size signal: Public high school at 21900 River Ranch Road, Estero 33928; ~1,581 students
+- event signal: None found. Searches surfaced only a School Advisory Council reference — no dedicated PTSA site, booster club page, or named recurring family event.
+- fit score: 2
+- why: Largest school physically in Estero, but high schools skew toward sports and band booster clubs rather than family-event PTOs, and nothing was verified. Recorded for completeness.
+- source: https://est.leeschools.net/
+
+### 5. Municipal parks and recreation
+
+### Estero Community Park & Recreation Center (LEE COUNTY)
+- type: municipal parks and recreation
+- city: Estero
+- website: https://www.leegov.com/parks/parks/estero
+- phone: (239) 498-0415 (Lee County Parks general: 239-533-7275)
+- email: reyesir@leegov.com (verify current staffing before use); leeparks@leegov.com
+- contact: Lee County Parks & Recreation — Estero Community Park staff
+- size signal: 55-acre multipurpose county park at 9200 Corkscrew Palms Blvd, billed as THE LARGEST RECREATION CENTER IN LEE COUNTY — a ~40,000 sq ft recreation building with three basketball courts, gymnasium, fitness center, amphitheater, dog park, sports fields, playgrounds, trails and disc golf
+- event signal: TWO RENTABLE OUTDOOR PAVILIONS — green-roof pavilions reservable for parties and special events at roughly $50/day, with first-come red-roof pavilions free. Existing WebTrac online reservation system. Hosts the county summer camp, Estero Fest (the city's largest festival), the Estero Health Expo and Village movie nights. NO SPLASH PAD OR POOL confirmed on site.
+- fit score: 4
+- why: The single busiest venue in Estero — the county camp, the Chamber's festival, the health expo and Village movie nights all happen here. Rentable pavilions with an online booking system make it both a venue and a demand channel. Held at 4 rather than 5 because the pavilion-next-to-water pattern does NOT hold here; there is no splash pad anywhere in Estero.
+- source: https://www.leegov.com/parks/parks/estero
+
+### Village of Estero — Community Development (Special Event Permits) (VILLAGE)
+- type: municipal parks and recreation
+- city: Estero
+- website: https://estero-fl.gov/
+- phone: (239) 221-5036
+- email: unknown
+- contact: Village of Estero Community Development Dept, 9401 Corkscrew Palms Cir, Estero 34135
+- size signal: Small incorporated Village government (2014); this department issues special-event permits rather than operating parks
+- event signal: The Village publishes a formal Special Event Permit application for events held within Village limits.
+- fit score: 3
+- why: The permitting gate for any event on Village property or requiring Village approval — necessary rather than lucrative. Not a venue operator and not a buyer, but the paperwork path you will need. Distinct budget and contact from Lee County.
+- source: https://estero-fl.gov/
+
+### Village of Estero — Community Programming (VILLAGE, on County property)
+- type: municipal parks and recreation
+- city: Estero
+- website: https://estero-fl.gov/villagecenterhub/
+- phone: (239) 533-1470 (LISTED as the Estero Recreation Center line; could NOT be confirmed whether it reaches Village staff or Lee County staff in the shared building — verify)
+- email: unknown
+- contact: unknown
+- size signal: Village-led programming plus a "Village Center Hub" master plan including a planned 3-acre village green and a Sports Park — a capital project, not a completed facility
+- event signal: Village-branded seasonal events including a "Spooktacular" trunk-or-treat with food trucks and an outdoor movie, free Friday "Movie Under the Stars" nights, seasonal concerts and Pickleball 101 — but these are staged AT the Lee County-operated recreation center.
+- fit score: 3
+- why: Real recurring family events including a trunk-or-treat with food trucks, which is a proven foam format. The complication is that Village programming runs on County property, so the operating and procurement relationship is genuinely unclear — establish who signs before pitching.
+- source: https://estero-fl.gov/villagecenterhub/
+
+### Koreshan State Park (STATE — not municipal)
+- type: municipal parks and recreation
+- city: Estero
+- website: https://www.floridastateparks.org/parks-and-trails/koreshan-state-park
+- phone: (239) 992-0311 (reservations: 800-326-3521)
+- email: unknown
+- contact: Florida Park Service, Koreshan State Park
+- size signal: State historic site at 3800 Corkscrew Rd on the Estero River — 60 campsites, historic settlement grounds, boat ramp, playground, picnic area, and a 22'x44' RENTABLE PAVILION near the playground and restrooms, bookable up to 11 months ahead
+- event signal: Recurring public events — Moonlight Tours, the Calusa Palooza paddling race (with a youth 1-mile category), an annual Antique Engine & Quilt Show, seasonal campfire programs and a music salon series. A year-round Junior Ranger program meets at 10am in the picnic area. The Friends of Koreshan group markets the site for weddings and special events.
+- fit score: 3
+- why: A genuinely rentable riverside pavilion beside a playground, bookable far in advance — good physical fit. But this is a FLORIDA STATE PARK, a completely different procurement path from city or county, and its programming is heritage and paddle-sport focused rather than children's play.
+- source: https://www.floridastateparks.org/parks-and-trails/koreshan-state-park/experiences-amenities
+
+### Estero Community Center (LEE COUNTY, indoor sports)
+- type: municipal parks and recreation
+- city: Estero
+- website: https://www.leegov.com/sports/facilities/indoorsports/esterocommunitycenter
+- phone: (239) 533-7275 (Lee County Parks & Rec)
+- email: leeparks@leegov.com
+- contact: Lee County Parks & Recreation, Sports Division
+- size signal: Indoor sports and gymnasium facility, co-located with Estero Community Park; runs youth flag football on NFL Flag rules for grades 1-8
+- event signal: No specific special-events, camps or party-rental signal independent of the main park; the page focuses on league facility use.
+- fit score: 2
+- why: Almost certainly the same physical complex as Estero Community Park rather than a separate prospect. Recorded because it has its own county page and its own youth flag football program — fold into the main park conversation.
+- source: https://www.leegov.com/sports/facilities/indoorsports/esterocommunitycenter
+
+### Estero Bay Preserve State Park (STATE — not municipal)
+- type: municipal parks and recreation
+- city: Estero
+- website: https://www.floridastateparks.org/parks-and-trails/estero-bay-preserve-state-park
+- phone: unknown
+- email: unknown
+- contact: Florida Park Service / Florida DEP
+- size signal: 10,000-acre aquatic preserve with 12+ miles of trails; the trailhead has a single small picnic shelter and restroom, with a day-use vehicle fee at the Estero River Scrub access
+- event signal: No party, festival or camp signal found — the trailhead pavilion is unstaffed day-use infrastructure, not bookable.
+- fit score: 1
+- why: State-managed, unstaffed, and not bookable. Recorded to close the loop on an Estero park name that appears in searches.
+- source: https://www.floridastateparks.org/parks-and-trails/estero-bay-preserve-state-park
+
+### 6. Country clubs
+
+Selection note: chosen on family and kids programming, not prestige. Shadow Wood and The Commons
+Club were excluded (recorded under Bonita Springs). Verandah Golf Club was checked and is in Fort
+Myers; Miromar Lakes sits in its own named community and is recorded under Fort Myers. None of
+the eight below is age-restricted, though several skew adult in practice.
+
+### Club at Rapallo (Rapallo at Coconut Point)
+- type: country clubs
+- city: Estero
+- website: https://rapallo.com/club/
+- phone: (239) 949-3347 (HOA/community: 239-898-5329)
+- email: unknown
+- contact: Full-time activity director; also a fitness director and a full-time tennis professional
+- size signal: Resort-lifestyle gated community with TWO lagoon-style resort pools with rock-grotto waterfalls, a screened Junior Olympic lap pool, two satellite pools, five Har-Tru tennis courts, and a clubhouse with a catering kitchen. Not age-restricted.
+- event signal: EXPLICIT GRANDKIDS LANGUAGE — the property is described as "good for kids and grandkids can enjoy a quick dip in the pool," and The Enclave at Rapallo has a pool "just outside residents' front doors for the grandkids to enjoy." A full-time activity director organises a variety of events.
+- fit score: 4
+- why: The closest match in Estero to the grandkids angle that identified the best clubs in Naples and Bonita Springs — multiple pools explicitly framed around visiting grandchildren, plus dedicated activity staffing. Five pools total is unusual capacity.
+- source: https://rapallo.com/club/
+
+### West Bay Club
+- type: country clubs
+- city: Estero
+- website: https://www.westbayclubs.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Private golf and beach club; the Bay House is a multi-activity hub with a pool, the Aqua Café for poolside dining, a private beach club and a dog park
+- event signal: An explicit "BEACH CLUB FOR THE KIDS" and a stated "family-friendly pool"; family memberships include children up to age 23. Year-round social calendar (trivia nights, Super Bowl party, food experiences) skews adult.
+- fit score: 4
+- why: A dedicated kids' beach club and family memberships covering children to 23 is a genuine structural commitment to families, not marketing language. The pool and Bay House give the space. No published phone found — start through the website.
+- source: https://www.westbayclubs.com/amenities
+
+### Stoneybrook Golf Club (Estero)
+- type: country clubs
+- city: Estero
+- website: https://stoneybrookestero.org/
+- phone: (239) 948-3933 (pro shop)
+- email: unknown
+- contact: unknown
+- size signal: 1,119-HOME gated golf community with a clubhouse, pool and spa, fitness room, basketball, tennis, pickleball, A PLAYGROUND, and soccer and baseball fields
+- event signal: A dedicated Junior Golf program for AGES 4-12 covering rules and etiquette, plus an on-site playground.
+- fit score: 4
+- why: A junior golf program starting at age FOUR plus a playground and sports fields is real family infrastructure — this community has young children living in it, not just visiting. 1,119 homes gives volume. Note Pinewoods Elementary sits on Stoneybrook Golf Drive.
+- source: https://stoneybrookestero.org/amenities/
+
+### The Club at Grandézza
+- type: country clubs
+- city: Estero
+- website: https://www.grandezzacc.com/
+- phone: (239) 948-3569
+- email: unknown
+- contact: unknown
+- size signal: Golf and social community where ALL HOMEOWNERS ARE SOCIAL MEMBERS; full clubhouse dining, fitness center, six Har-Tru tennis courts, bocce and basketball
+- event signal: A Junior Olympic pool and spa complex behind the clubhouse and an "active social calendar," but no kids' club, egg hunt or grandkids-specific programming surfaced publicly.
+- fit score: 3
+- why: Universal social membership means every household in the community is reachable through one club — unusual leverage. A Junior Olympic pool gives the venue. Held at 3 only because no published family-event language was found; worth a direct call.
+- source: https://www.grandezzacc.com/lifestyle/swimming
+
+### Estero Country Club at The Vines
+- type: country clubs
+- city: Estero
+- website: https://esterocc.com/
+- phone: (239) 267-7003
+- email: unknown
+- contact: unknown
+- size signal: EXPLICITLY NOT age-restricted — "welcomes people of all ages," which is notable in an area dense with 55+ communities. Pool, tennis, pickleball, bocce leagues and a fitness center.
+- event signal: An "active tennis program for children and adults of all ages" and a monthly newsletter of community activities; no explicit kids' club or family holiday event found.
+- fit score: 3
+- why: A club that goes out of its way to state it welcomes all ages, with a junior tennis program, in a market where most peers are retiree-dominated. The all-ages positioning is itself the opening.
+- source: https://www.esterocc.com/activities/
+
+### Pelican Sound Golf & River Club
+- type: country clubs
+- city: Estero
+- website: https://pelicansoundgrc.com/
+- phone: (239) 948-4333
+- email: unknown
+- contact: unknown
+- size signal: Golf, eight Har-Tru tennis courts, pickleball, bocce, fitness center, a KAYAK PARK, and a private boat shuttle to Lovers Key State Park
+- event signal: "Bocce is a wonderful way for families to bond"; boating and kayaks framed as family recreation. No kids' club, egg hunt or grandkids pool language found.
+- fit score: 3
+- why: Genuinely family-oriented recreation (boat shuttle, kayak park) rather than golf-only, but the family framing is generic and no children's programming was documented. Discovery call.
+- source: https://pelicansoundgrc.com/
+
+### Wildcat Run Golf & Country Club
+- type: country clubs
+- city: Estero
+- website: https://www.wildcatruncc.com/
+- phone: (239) 947-6066 (pro shop 239-495-3031)
+- email: unknown
+- contact: unknown
+- size signal: 100% private, member-owned since 2002; formal and informal dining, five Har-Tru tennis courts, pickleball, bocce, fitness and wellness center
+- event signal: No family or kids programming found, and the club EXPLICITLY STATES it "does not host outside events" — member-exclusive with an adult golf, dining and tennis focus.
+- fit score: 2
+- why: Recorded as a clear negative. A club that publicly rules out outside events is not a prospect regardless of amenities. Do not spend a call here.
+- source: https://www.wildcatruncc.com/public/about-us/faq
+
+### Breckenridge Golf & Tennis Club
+- type: country clubs
+- city: Estero
+- website: https://www.breckenridgehomeowners.com/
+- phone: (239) 992-5959
+- email: unknown
+- contact: unknown
+- size signal: 842 condo, townhome and villa residences around an 18-hole executive par-3 course; FIVE POOLS, eight lighted Har-Tru tennis courts, three pickleball, six shuffleboard and three bocce courts
+- event signal: CAUTION — a search surfaced "Five-Hole Family Nights" and "Junior Clinics" for this club, but the source traced to breckenridgegolfclub.com, a SAME-NAMED CLUB IN BRECKENRIDGE, COLORADO. That evidence was discarded. What IS confirmed for the Estero club is an activity calendar of bingo, card groups and themed dinner-dances — adult-social.
+- fit score: 2
+- why: Recorded specifically to document the trap. Five pools and 842 residences look promising, but the family programming that would justify a higher score belongs to a Colorado club. On confirmed evidence only, this is an adult community. Call before believing otherwise.
+- source: https://www.breckenridgehomeowners.com/amenities/
+
+### 7. Apartment and condo communities with event staff
+
+Age-restriction note: every entry checked. The Preserve at Corkscrew and Bella Terra are both
+MIS-LABELLED 55+ by retirement directories and are confirmed all-ages — the same correction that
+rescued VillageWalk and Bonita National last round. The Reserve at Estero is genuinely 55+.
+
+### Verdana Village
+- type: apartment and condo communities with event staff
+- city: Estero
+- website: https://www.verdanavillage.com/
+- phone: (239) 920-7101 (HOA office, 20052 Verdana Village Blvd)
+- email: kathie.pedit@troon.com (LIFESTYLE/ENTERTAINMENT VENDOR INQUIRIES — Troon-managed)
+- contact: Lifestyle Director (named role), plus a separate Sports Director
+- size signal: Master-planned gated community across 2,100+ ACRES, explicitly marketed as "resort-style lifestyle for residents of all ages" — not age-restricted
+- event signal: A full-time Lifestyle Director plans theme nights at community restaurants, yoga, and SUMMER SPORTS CAMPS FOR KIDS; a separate Sports Director runs leagues and classes. Resort pool and spa, indoor basketball court, pickleball and tennis.
+- fit score: 5
+- why: THE BEST CONTACT IN THIS CITY. A published email that is explicitly for lifestyle and ENTERTAINMENT VENDOR INQUIRIES — that is the exact inbox this pitch is meant for, and almost nothing else in 414 records offers that. Add 2,100 acres, all-ages, kids' summer sports camps and two dedicated programming staff.
+- source: https://www.verdanavillage.com/
+
+### Corkscrew Shores
+- type: apartment and condo communities with event staff
+- city: Estero
+- website: https://www.corkscrewshoreshoa.com/lifestyle
+- phone: unknown (managed by FirstService Residential)
+- email: unknown
+- contact: Full-time Lifestyle Director (name not published)
+- size signal: 700+ acre master-planned community, all ages, with a PLAYGROUND, kayak launch, Captain's Club on-site dining, tennis, pickleball and bocce
+- event signal: A full-time lifestyle director coordinates a calendar of clubs and social events.
+- fit score: 4
+- why: A named lifestyle-director role plus a playground signals genuine family presence rather than an adult-only social calendar. 700 acres and on-site dining give the space and the budget. No direct contact published — route through FirstService Residential.
+- source: https://www.corkscrewshoreshoa.com/lifestyle
+
+### Bella Terra of SWFL
+- type: apartment and condo communities with event staff
+- city: Estero
+- website: https://bellaterraswfl.com/
+- phone: (239) 495-7172
+- email: unknown
+- contact: Full-time Activities Director (clubhouse-based, name not published)
+- size signal: Large master-planned HOA with Villas 1, Villas 2 and Townhome sub-associations. CORRECTED — retirement directories list it as 55+, but the official HOA site confirms an "inter-generational," ALL-AGES community.
+- event signal: The clubhouse lists a full-time activities director as a stated amenity.
+- fit score: 4
+- why: Another directory mislabel corrected — explicitly inter-generational, with a dedicated activities director and a published phone. Specific event types were not verified beyond the role itself, so ask what the calendar actually holds.
+- source: https://bellaterraswfl.com/
+
+### Villagio at Estero
+- type: apartment and condo communities with event staff
+- city: Estero
+- website: https://www.villagioatestero.com/
+- phone: (239) 949-9650
+- email: unknown
+- contact: Theresa Jordan, Community Association Manager
+- size signal: 514-UNIT gated condo and townhome community with its own Town Center; no age restriction — confirmed all-ages
+- event signal: An on-site Town Center with a café and bar and a 48-SEAT MOVIE THEATER running nightly free movies, including FRIDAY "KIDS NIGHT" G-rated screenings for children.
+- fit score: 4
+- why: A recurring, named, weekly kids' event is rarer and more useful than a generic activities calendar — it proves children live there and that someone programs for them. A named manager and a published phone. 514 units.
+- source: https://www.villagioatestero.com/
+
+### The Preserve at Corkscrew
+- type: apartment and condo communities with event staff
+- city: Estero
+- website: https://preserveatcorkscrew.com/
+- phone: unknown
+- email: unknown
+- contact: Full-time activities director (name not published)
+- size signal: CORRECTED — Seniorly and Topretirements mislabel this as 55+, but the official community site and real-estate sources describe an "all-ages, gated community" with a PLAYGROUND and family-friendly amenities. Treat as all-ages.
+- event signal: A full-time activities director plans events; clubhouse, pool, tennis, picnic area and playground.
+- fit score: 3
+- why: Third community rescued from a 55+ mislabel in two rounds. Genuinely all-ages with a playground and a dedicated activities role, but the events program is less documented than Verdana or Corkscrew Shores, and no contact details were found.
+- source: https://preserveatcorkscrew.com/
+
+### Genova
+- type: apartment and condo communities with event staff
+- city: Estero
+- website: https://genova-florida.com/
+- phone: (239) 948-2929
+- email: debbiwallace@genova-florida.com
+- contact: Debbi Wallace, office contact; General Manager and Lifestyle Director roles (FirstService Residential managed)
+- size signal: Gated luxury condo and single-family community at Village Center/Coconut Point; explicitly "open to all ages," though the demographic skews toward active adults and retirees
+- event signal: A named Lifestyle Director role; calendar includes themed parties, concerts "for audiences of all ages," speaker luncheons, happy hours and international cuisine nights.
+- fit score: 3
+- why: Confirmed all-ages with a lifestyle director and a DIRECT PUBLISHED EMAIL — a rare contact. Held at 3 because the programming (luncheons, happy hours) skews adult; a foam pitch needs a multigenerational or grandkids framing.
+- source: https://genova-florida.com/lifestyle/
+
+### Marsh Landing
+- type: apartment and condo communities with event staff
+- city: Estero
+- website: https://www.marshlandingestero.com/
+- phone: (239) 513-9433 (an alternate 239-273-3033 also found)
+- email: unknown
+- contact: HOA/community management office
+- size signal: 376 residences across Cypress Walk, Sabal Palms and The Preserve sub-neighborhoods; explicitly "family oriented" with activities "for all ages" — not age-restricted
+- event signal: Active programs cited (water aerobics, Mah Jong, book club) plus a stated "extensive activities program for young and old alike"; clubhouse with pool, tennis, pickleball and game room.
+- fit score: 3
+- why: Genuinely all-ages and self-described family oriented with a documented activities program, but no named events staff title was confirmed — softer than Verdana or Corkscrew Shores.
+- source: https://www.marshlandingestero.com/
+
+### The Reserve at Coconut Point
+- type: apartment and condo communities with event staff
+- city: Estero
+- website: https://www.thereserveatcoconutpoint.com/
+- phone: (239) 788-9275
+- email: unknown
+- contact: Leasing office
+- size signal: Market-rate apartment community (studio-3BR), not age-restricted
+- event signal: No resident-events program, lifestyle director or activities calendar found — only standard amenities (resort pool, fitness center, social lounge, firepit).
+- fit score: 2
+- why: All-ages apartments with a pool, but no verified events programming and no named staff. Qualify by phone before investing.
+- source: https://www.thereserveatcoconutpoint.com/
+
+### The Reserve at Estero
+- type: apartment and condo communities with event staff
+- city: Estero
+- website: https://www.thereserveatestero.com/
+- phone: unknown
+- email: unknown
+- contact: HOA activities office (via resident portal)
+- size signal: AGE-RESTRICTED 55+ — CONFIRMED, not a mislabeling case. A genuine active-adult community.
+- event signal: Very active documented calendar — water aerobics, poker, line dancing, Friday social hour, book club, jewelry class, an annual art show — in an 8,000 sq ft clubhouse. Audience is 55+.
+- fit score: 1
+- why: Excellent events infrastructure aimed at the wrong audience. Recorded to document that the age check was done and this one is genuinely restricted, unlike the three rescued above.
+- source: https://www.55places.com/florida/communities/the-reserve-at-estero
+
+### 8. Birthday party venues
+
+Category note: THE FARM PATTERN BREAKS HERE. In Fort Myers, Cape Coral, Naples and Bonita
+Springs the best venue was an outdoor farm, ranch or stable already selling birthday packages.
+A targeted search found NONE physically in Estero — the operators that surface are mobile
+companies based in Miami-Dade, Broward and Palm Beach. Estero's outdoor options are public park
+pavilions, recorded under parks above. Only three private venues qualify, all indoor.
+
+### 810 Entertainment (810 Billiards & Bowling, Miromar Outlets)
+- type: birthday party venues
+- city: Estero
+- website: https://miromaroutlets.com/store/810-entertainment/
+- phone: (239) 948-3766
+- email: unknown
+- contact: unknown
+- size signal: 28,000 SQ FT entertainment venue at Miromar Outlets, 10801 Corkscrew Road, Estero 33928 — 16 bowling lanes, 5 billiards tables, 3 dart lanes, 2 sports simulators, 4 axe-throwing lanes, 65+ arcade games
+- event signal: Flexible event and party packages (reserved lanes, shoe rentals, food and beverage bundles, arcade credits, dessert options) offered via the Miromar Outlets party-packages page.
+- fit score: 2
+- why: Large, confirmed-open family entertainment venue with real event packages, but mall-based and entirely indoor with no foam-friendly outdoor space. Value is as a referral partner — and as a reason to talk to Miromar Outlets itself, which does run outdoor family events (see festivals).
+- source: https://miromaroutlets.com/store/810-entertainment/
+
+### Hertz Arena (Skate Everblades Recreational Rinks)
+- type: birthday party venues
+- city: Estero
+- website: https://skateeverblades.com/birthday-parties/
+- phone: (239) 948-7825
+- email: unknown
+- contact: unknown
+- size signal: Home arena of the ECHL's Florida Everblades at 11000 Everblades Pkwy, Estero 33928; large multi-rink facility with recreational ice rinks separate from the main arena bowl
+- event signal: Published birthday party package — kids skate during public sessions, staff handle setup, food service and cleanup; requires a signed party contract and card on file, $50 non-refundable cancellation fee, customer supplies the cake, no other outside food.
+- fit score: 2
+- why: A real, contracted party operation with high kid-birthday volume, but it is an indoor ice rink — no outdoor space and no water hookup. Their strict no-outside-food policy also signals a venue that controls its own vendors tightly. Referral partner at best; the youth hockey programs (kids gyms) are the better door.
+- source: https://skateeverblades.com/birthday-parties/
+
+### Little Sweet P Play Café
+- type: birthday party venues
+- city: Estero
+- website: https://www.littlesweetpsoftplay.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Boutique indoor soft-play café, billed as "Southwest Florida's #1 soft play rental company" for ages 0-10, with a membership program
+- event signal: Dedicated "Party Rental" and "Soft Play Packages" pages with structured party offerings.
+- fit score: 2
+- why: Purely indoor soft-play for under-10s, so no foam fit on site — BUT note they describe themselves as a soft play RENTAL company, meaning they already travel to events. That makes them a plausible complementary partner (soft play for toddlers, foam for older siblings) rather than just a referral.
+- source: https://www.littlesweetpsoftplay.com/packages
+
+### 9. Party and event rental companies (PARTNERS)
+
+Category note: Estero is served almost entirely by Naples and Fort Myers operators already
+recorded under those cities — Taylor Rental (fit 5, all cities), Party Time Rentals, All Event
+Party Rental (which maintains a dedicated Estero service-area page), and With Love From Naples.
+Only one genuinely new company was found. See also the AB Event Rentals resolution recorded
+under Fort Myers, which now leans partner after five rounds.
+
+### Big A Bounce House Rentals
+- type: party and event rental companies
+- city: Estero (serves Naples, Marco Island, Bonita Springs and Estero)
+- website: https://www.bigabouncehouserentals.com
+- phone: (239) 601-5103
+- email: unknown
+- contact: unknown
+- size signal: Family owned and operated; equipment described as cleaned and sanitized before and after each use — a small-to-mid scale local operator
+- event signal: NO FOAM OFFERING FOUND. Available sources (company site, social) show only bounce houses and water slides. Lower confidence than other records — only social and aggregator sources were reachable before the researching agent's search budget ran out.
+- fit score: 4
+- why: A small family operator covering four of our eight target cities with water slides and no foam — their wet-play customer is our exact buyer. Small operators refer work they cannot do more readily than large ones. Verify the catalog on the call given the lower-confidence sourcing.
+- source: https://www.bigabouncehouserentals.com/
+
+### 10. Kids gyms and youth sports leagues
+
+### Skate Everblades / Hertz Arena — Youth Hockey & Learn to Skate
+- type: kids gyms and youth sports leagues
+- city: Estero
+- website: https://skateeverblades.com/hockey/youth-hockey/
+- phone: (239) 948-7825
+- email: unknown
+- contact: unknown
+- size signal: Described as "one of the largest youth hockey leagues in the southern states," with OVER 500 PLAYERS across divisions from Mini Mite to High School. Learn to Skate draws CLOSE TO 400 STUDENTS EVERY 8-WEEK SESSION. At 11000 Everblades Parkway, Estero.
+- event signal: Structured multi-division season (Mini Mite through 18U) plus recurring 8-week Learn to Skate session cycles, with a published schedules page carrying dated sessions.
+- fit score: 5
+- why: 500 league players plus 400 Learn to Skate students per session is the largest single concentration of organised kids found anywhere in Estero. The 8-week session cycle creates a recurring end-of-session celebration slot several times a year, not once. An ice rink can't host foam — but the families can, off-site.
+- source: https://skateeverblades.com/hockey/youth-hockey/
+
+### Under the Lights Flag Football — Estero
+- type: kids gyms and youth sports leagues
+- city: Estero
+- website: https://www.uaflag.com/page/show/9300247-estero-2025-2026-winter-season-
+- phone: unknown
+- email: unknown
+- contact: unknown (volunteer coach contacts deliberately excluded)
+- size signal: Boys and girls flag football, grades Pre-K through 8th, 6v6 format; multiple concurrent seasons — the Winter 2025-2026 season is ON A WAITLIST, indicating demand exceeding capacity
+- event signal: DATED SEASON WINDOW CONFIRMED — Winter 2025-2026 runs December through February with games Saturday nights 5-9pm. A separate Fall season also runs with its own registration page.
+- fit score: 5
+- why: Fills the flag football gap that early rounds kept missing, with a dated season AND Saturday-evening game blocks — an after-game slot is an unusual and attractive booking window. A waitlisted league means a large, engaged parent base with money already committed.
+- source: https://www.uaflag.com/page/show/9300247-estero-2025-2026-winter-season-
+
+### Junior Everblades Hockey Association (Florida Jr Blades)
+- type: kids gyms and youth sports leagues
+- city: Estero
+- website: https://www.jreverblades.org/
+- phone: (239) 948-7825 (from a search snippet, not verified on the site — treat with caution)
+- email: unknown
+- contact: unknown
+- size signal: Travel program with A and AA teams across age groups 10U through 16U, competing in the Statewide Florida Hockey League, based at Hertz Arena
+- event signal: Published game schedule page indicating an active dated competitive season; a camps section is referenced but 2026 dates were not confirmed.
+- fit score: 4
+- why: A competitive travel program with team-party culture and parents who already fund travel hockey — high willingness to pay, smaller roster than the rec program. Same building as Skate Everblades; pitch both together.
+- source: https://www.jreverblades.org/
+
+### Estero Recreation Center — Youth Flag Football (LEE COUNTY)
+- type: kids gyms and youth sports leagues
+- city: Estero
+- website: https://www.leegov.com/parks/centers/estero
+- phone: (239) 533-1470
+- email: leeparks@leegov.com
+- contact: Lee County Parks & Recreation
+- size signal: 80+ acre facility at 9200 Corkscrew Palms Blvd with a ~40,000 sq ft recreation building (three basketball courts, gym); runs youth flag football on NFL Flag rules for grades 1-8
+- event signal: Confirmed active youth flag football program at the facility, but no dated season window surfaced — distinct from the Under the Lights program above, which uses different scheduling.
+- fit score: 3
+- why: A second flag football program in the same city, run by the county at the venue that hosts everything else in Estero. Fold into the Lee County Parks conversation rather than calling separately.
+- source: https://www.leegov.com/parks/centers/estero
+
+Category gaps, reported honestly: NO gymnastics gym, all-star cheer gym, martial arts school or
+youth dance studio with a confirmed Estero physical address was found. The nearest options
+(Gymnastic World and Gym World Elite Cheer in Naples, Xtreme Air and Top Gun in Fort Myers, Star
+Taekwondo in Fort Myers) are recorded under those cities and market to Estero families. No Little
+League chapter with an Estero charter was confirmed, and SW Florida Adrenaline soccer (formerly
+based at Estero High) is defunct. A swim instructor operating as "ISR Estero" appears to be
+home-based with no verifiable business address.
+
+### 11. Festival and community event organizers
+
+### Estero Fest (Greater Estero Chamber of Commerce)
+- type: festival and community event organizers
+- city: Estero
+- website: https://www.esterochamber.org/esterofest/ (microsite: esterofest.org)
+- phone: (239) 390-1137
+- email: info@esterochamber.org
+- contact: unknown (general chamber line)
+- size signal: Chamber-run annual festival drawing 3,000+ attendees at Estero Community Park; the Chamber also runs monthly Alive After 5 and Lunch-N-Learn events
+- event signal: ESTERO FEST 2026 CONFIRMED — Saturday March 21, 2026, 1:00-8:00pm at Estero Community Park, 9200 Corkscrew Palms Blvd. Free community event with live entertainment, food trucks, a KIDS ZONE WITH BOUNCE HOUSE, a Beer & Wine Garden and a Business Expo. PUBLISHED SPONSORSHIP TIERS at $1,000 / $2,500 / $5,000 including vendor space, plus separate Business Expo exhibitor slots.
+- fit score: 5
+- why: THE MOST ACTIONABLE FESTIVAL RECORD IN THE FILE. A confirmed date, a named Kids Zone that ALREADY BOOKS A BOUNCE HOUSE, published sponsorship pricing, and a direct chamber email. Everything needed to make the call is here, and they are already buying the adjacent product.
+- source: https://www.esterochamber.org/esterofest-sponsorship-opportunities/
+
+### Coconut Point (Simon Property Group)
+- type: festival and community event organizers
+- city: Estero
+- website: https://www.simon.com/mall/coconut-point
+- phone: unknown
+- email: unknown (contact form via simon.com)
+- contact: unknown
+- size signal: Large Simon-owned outdoor lifestyle center hosting large-scale annual holiday programming with a parade, live entertainment and multiple vendor zones
+- event signal: "Tropical Holiday Celebration & Parade," Saturday Dec 6, 11am-8pm, including an explicitly named KIDS ZONE (3:00-5:00pm) with exotic animal encounters, a bird garden, pony and horse rescue, face painting and games. Also a Charity Car/Truck/Vendor Show (11am-2pm) and an Arts & Crafts Show (11am-3pm) — both indicating an existing vendor process. A separate Holiday Craft Festival runs Dec 5-6.
+- fit score: 5
+- why: A named Kids Zone that already books live-animal attractions, inside an outdoor lifestyle center with a documented vendor track and a corporate marketing budget. Simon centers program nationally, so a good result here can travel. December timing is mild rather than peak, which is the one drawback.
+- source: https://www.simon.com/mall/coconut-point/stream/all-day-holiday-celebration-tropical-parade-dec-6-6264782
+
+### Miromar Outlets
+- type: festival and community event organizers
+- city: Estero
+- website: https://miromaroutlets.com/
+- phone: (239) 948-3766 (leasing 239-390-5141)
+- email: miromaroutlets@miromar.com
+- contact: unknown
+- size signal: Large outlet shopping center at 10801 Corkscrew Rd, Estero, with year-round in-house family programming — WINK Playland, a STEMLab and 810 Entertainment
+- event signal: A RECURRING MONTHLY "KIDS DAY" (last Saturday of every month, 10am-12pm at WINK Playland) with free face painting, pizza and ice cream, plus a weekly free "Kids Craft" every Tuesday 10-11am. Also hosts a "Shop, Dine & Dash 5K" (Oct 10, 2026).
+- fit score: 4
+- why: Recurring MONTHLY kids programming with a published business email — twelve occasions a year rather than one, and they already fund free food and activities at every one. No public vendor-application process found, so this is a direct marketing-department conversation.
+- source: https://miromaroutlets.com/events/kids-day/
+
+### Village of Estero — Community Events
+- type: festival and community event organizers
+- city: Estero
+- website: https://estero-fl.gov/events/
+- phone: (239) 221-5036 (Community Development)
+- email: unknown
+- contact: unknown
+- size signal: Village government co-promoting and hosting events at Estero Community Park (the Lee County-operated site)
+- event signal: Co-hosts Estero Fest with the Chamber; runs free Friday "Movie Under the Stars" nights, a "Spooktacular" trunk-or-treat with food trucks, and Koreshan Music Salon concerts. No standalone kids-zone or vendor-application process identified for Village-run events.
+- fit score: 3
+- why: Real recurring family programming including a trunk-or-treat with food trucks — a proven foam format. But the flagship festival is Chamber-led, not Village-led, and no vendor process exists for the Village's smaller events. Pitch the Chamber first.
+- source: https://estero-fl.gov/events/estero-fest/
+
+### Estero Health Expo & 5K Family Fun Run (LEE COUNTY)
+- type: festival and community event organizers
+- city: Estero
+- website: https://estero-fl.gov/
+- phone: (239) 533-1470
+- email: leeparks@leegov.com
+- contact: Lee County Parks & Recreation
+- size signal: County-run annual expo at Estero Community Park, 9200 Corkscrew Palms Blvd
+- event signal: Includes a "5K FAMILY FUN RUN" held annually around March 2, at $20 per participant. No explicit kids zone or vendor-application detail verified beyond the expo format.
+- fit score: 3
+- why: A dated annual family fun run at the city's main venue, run by the county department already on this list. A foam finish line is the obvious pitch. Note it lands roughly three weeks before Estero Fest at the same park — one site, two March opportunities.
+- source: https://estero-fl.gov/sign-up-now-for-the-5k-family-fun-run-at-the-estero-health-expo-on-march-2/
+
+### Hertz Arena
+- type: festival and community event organizers
+- city: Estero
+- website: https://hertzarena.com
+- phone: (239) 948-7825
+- email: unknown
+- contact: unknown
+- size signal: 7,000+ seat multipurpose arena that books trade shows, meetings, concerts and family shows, plus public recreational ice rinks
+- event signal: No named kids zone or outdoor community festival identified; family programming referenced only generically. No vendor-application information found.
+- fit score: 2
+- why: A large venue with community-facing capacity but ticketed indoor programming rather than the outdoor family-festival format foam fits. Its youth hockey programs (fit 5, kids gyms) are the real opportunity in this building.
+- source: https://hertzarena.com/
+
+### 12. Breweries and food truck parks that host family events
+
+NO RESULTS — and this is a finding, not a gap in effort.
+
+A dedicated agent could not verify a single currently-operating brewery, cidery, taproom or food
+truck park physically located in Estero. Specifically:
+
+- "Estero River Brewing" did not surface in any search result and could not be confirmed to exist
+  as named.
+- Big Blue Brewing is in CAPE CORAL, not Estero, and its listing shows as closed — it was
+  absorbed into the Big Storm brand, itself confirmed closed at every Florida location.
+- Coconut Point, Estero's main outdoor lifestyle center, has no brewery or taproom tenant. Its
+  closest matches are The Brass Tap (a beer bar chain) and Miller's Ale House — neither is a
+  brewery or food truck park.
+- Slipaway Food Truck Park and Backyard Social both surfaced tagged to Estero in search results
+  but are actually in CAPE CORAL and FORT MYERS respectively, and are already recorded there.
+
+The nearest real venues in this category are Rooftop at Riverside and Hopsized Brewing in Bonita
+Springs (both recorded, fit 5 and 4) and Riptide Brewing's Bonita Springs taproom (fit 5) — all
+within a short drive of Estero and all already on this list. No further Estero-specific research
+in this category is warranted.
