@@ -3,7 +3,7 @@
 Mobile foam party service, Lee and Collier counties.
 Packages: Classic $349/60min · Deluxe $449/90min · Commercial and Camps $649/2hr.
 
-Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**, **Bonita Springs**, **Estero**.
+Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**, **Bonita Springs**, **Estero**, **Lehigh Acres**.
 
 Research note: this environment's network policy blocks direct page fetches (403 on CONNECT),
 so all records were gathered via web search of the cited source pages rather than by opening
@@ -6148,3 +6148,992 @@ The nearest real venues in this category are Rooftop at Riverside and Hopsized B
 Springs (both recorded, fit 5 and 4) and Riptide Brewing's Bonita Springs taproom (fit 5) — all
 within a short drive of Estero and all already on this list. No further Estero-specific research
 in this category is warranted.
+
+---
+
+## Lehigh Acres
+
+Lee County, UNINCORPORATED — no city government exists, so Lee County Parks & Recreation is the
+dominant public buyer here in a way no city department was elsewhere. Large (~130,000) but almost
+entirely residential and working-class, with far fewer commercial venues than the coastal cities
+and a substantial Hispanic population.
+
+SCORING CALIBRATION FOR THIS CITY: records here weight organizations with actual funding —
+Title I schools, grant-funded nonprofits, county programs, and multi-site operators with
+corporate budgets — over organizations whose families are subsidy-dependent. Several records are
+scored down explicitly for budget rather than for lack of interest. The county camp charges
+$85/week per child, which suggests the CLASSIC package rather than Commercial tier is the right
+opening offer in much of this city.
+
+TWO CATEGORY OUTCOMES WORTH READING BEFORE CALLING: churches returned NO record above fit 3
+(none published a dated event, unlike every prior city), and breweries returned NO RESULTS for
+the second consecutive city.
+
+### 1. Summer and day camps
+
+### Grace Community School — Lehigh Acres
+- type: summer and day camps
+- city: Lehigh Acres
+- website: https://www.gracecommunityschools.com/locations/lehigh-acres
+- phone: (239) 368-3820
+- email: lehighacres@gracecommunityschools.com
+- contact: unknown
+- size signal: 3732 Lee Blvd, Lehigh Acres; operating since 1986; ages 1-11 with full-day Pre-K, before/after care and summer camp. Multi-site SWFL operator.
+- event signal: Published summer camp with weekly themes, dress-up days, BOUNCE HOUSES and "WATER WEDNESDAYS," plus karate, dance and art add-ons. Grace also runs a company-wide "Preschool Theme Weeks" enrichment product, confirming this is a corporate programme rather than one campus improvising.
+- fit score: 5
+- why: FIFTH CONSECUTIVE CITY AT FIT 5, and this campus has what none of the others did — A DIRECT CAMPUS EMAIL. Grace is now confirmed at 4-5 in Fort Myers, Cape Coral, Naples, Bonita Springs and Lehigh Acres, with the same published Water Wednesdays and bounce houses. Corporate budget insulates it from local income levels. This remains the single strongest multi-site account in the entire file.
+- source: https://pages.gracecommunityschools.com/summer-camp/
+
+### Boys & Girls Club of Lee County — Lehigh Acres
+- type: summer and day camps
+- city: Lehigh Acres
+- website: https://bgclee.org/locations/lehigh-acres/
+- phone: (239) 672-0925 (Wings Way club); (239) 413-6381 (Gunnery Rd school-based club); registration (239) 334-1886
+- email: unknown
+- contact: unknown
+- size signal: TWO Lehigh Acres sites — a community club at 1262 Wings Way Unit 201 and a school-based club at 801 Gunnery Rd N. Part of a multi-site nonprofit funded by grants, corporate giving and United Way.
+- event signal: 2026 summer programming includes field trips, STEM projects, team-building, TALENT SHOWS and guest speakers; summer hours 7:30am-6pm.
+- fit score: 4
+- why: THE FUNDING MODEL IS THE POINT. Grant and United Way funded, so its budget does not depend on local family income — the central weakness of most Lehigh Acres prospects. Two sites in this city, and the same organization already recorded in Fort Myers and Cape Coral. One relationship, many sites.
+- source: https://bgclee.org/locations/lehigh-acres/
+
+### Veterans Park Summer Camp (LEE COUNTY)
+- type: summer and day camps
+- city: Lehigh Acres
+- website: https://www.leegov.com/parks/programs/summer
+- phone: (239) 533-7530 (park); (239) 533-7275 (county parks)
+- email: leeparks@leegov.com
+- contact: Lee County Parks & Recreation
+- size signal: Eight-week Traditional (K-5) and Middle School (6-8) camps, June 8 - Aug 2 2026, at 55 Homestead Road S; $85 per week per child; requires a lifetime facility membership to register, the same structure as Estero and Wa-Ke Hatchee
+- event signal: Long camp season with indoor/outdoor activities, arts and crafts, athletics and "special speakers" — the guest-speaker slot is where an outside provider fits.
+- fit score: 3
+- why: A funded county programme with eight bookable weeks, but $85/week per camper signals a tight per-activity budget. PITCH THE CLASSIC PACKAGE HERE, not Commercial. Same county department already registered from the Fort Myers round.
+- source: https://www.leegov.com/parks/centers/veterans
+
+### 2. Preschools and daycare centers
+
+Category note: most centers here serve subsidy-dependent families (VPK, School Readiness, Head
+Start), which caps realistic spend regardless of interest. Scores reflect that.
+
+### Open Doors Preschool of Lehigh Acres
+- type: preschools and daycare centers
+- city: Lehigh Acres
+- website: https://opendoorspreschool.com/open-doors-preschool-lehigh-acres-fl/
+- phone: (239) 303-1944 (corporate 239-778-1504)
+- email: info@opendoorspreschool.com
+- contact: unknown
+- size signal: Markets itself as "the largest nationally accredited early childhood education company in Lehigh Acres"; multi-site operator across Lehigh Acres, Fort Myers, Estero and Cape Coral since 2005; DCF licensed, Gold Seal and nationally accredited; 5280 Lee Blvd; summer camp for ages up to 11
+- event signal: Summer camp confirmed with outdoor play, arts and crafts and music, but NO themed weeks, water days or parties found.
+- fit score: 3
+- why: Multi-site accreditation and a published email give real commercial standing, and the same operator is already recorded in Naples. But they run Early Head Start, School Readiness and VPK subsidy programmes, so a large share of families are subsidy-dependent — and no event culture was found. Discovery call.
+- source: https://opendoorspreschool.com/open-doors-preschool-lehigh-acres-fl/
+
+### Lehigh Child Care Center
+- type: preschools and daycare centers
+- city: Lehigh Acres
+- website: https://lehighchildcarecenter.com/
+- phone: (239) 369-5437
+- email: unknown
+- contact: Janina Renner (President), Uwe Renner (Vice President)
+- size signal: CAPACITY 227 CHILDREN — the largest single-site capacity found in this city. Independent, owner-operated since 2000, 4.2/5 across 52 reviews. 1491 E Pointe Dr. Offers VPK, before/after school care and summer camp.
+- event signal: Summer camp confirmed; no specific parties, theme weeks or water days found.
+- fit score: 3
+- why: 227 children and 25 years of independent operation means a stable, privately-owned business without the subsidy dependence of the nonprofits here — the best budget profile among Lehigh's independent centers, with NAMED OWNERS to ask for. No event evidence, so the first call is discovery.
+- source: https://lehighchildcarecenter.com/
+
+### The Community Children's Center (Child Care of Southwest Florida)
+- type: preschools and daycare centers
+- city: Lehigh Acres
+- website: https://ccswfl.org/learning-centers/community-childrens-center-lehigh-acres/
+- phone: (239) 369-2220 (enrollment 239-278-1002)
+- email: unknown
+- contact: unknown
+- size signal: 1260 Wings Way, Lehigh Acres; ages 6 weeks-8 years, M-F 6am-6pm. Part of Child Care of SWFL, a nonprofit running around ten centers across Fort Myers, Lehigh Acres and LaBelle.
+- event signal: No themed weeks, parties or family events found; programming focuses on Creative Curriculum, VPK and Head Start.
+- fit score: 2
+- why: Scored down explicitly on BUDGET, not interest. Head Start and School Readiness funded — one reported grant was $90,804 from Lee County — which is institutional rather than discretionary money. The parent organization is already recorded in Fort Myers at fit 4; that is the better door.
+- source: https://ccswfl.org/learning-centers/community-childrens-center-lehigh-acres/
+
+### G. Weaver Hipps Early Learning Center (Child Care of Southwest Florida)
+- type: preschools and daycare centers
+- city: Lehigh Acres
+- website: https://ccswfl.org/learning-centers/g-weaver-hipps-early-learning-center/
+- phone: (239) 600-6314 ext. 179 (enrollment 239-278-1002)
+- email: unknown
+- contact: unknown
+- size signal: Opened 2024, co-located with G. Weaver Hipps Elementary (a Title I school) at 1270 Taylor Lane Extension; ages 6 weeks-5 years; part of Lee County Schools' VPK expansion
+- event signal: No camp parties or special events found; primarily early-learning and VPK rather than a school-age summer camp.
+- fit score: 2
+- why: District-affiliated and newly opened, but serves under-5s rather than the school-age camp audience foam needs, and carries the same subsidy-funded profile as its sister center.
+- source: https://ccswfl.org/learning-centers/g-weaver-hipps-early-learning-center/
+
+### The Learning Village Preschool (Faith Lutheran)
+- type: preschools and daycare centers
+- city: Lehigh Acres
+- website: https://faithlutheranla.org
+- phone: (239) 369-1361 (also 239-369-3411)
+- email: unknown
+- contact: unknown
+- size signal: Capacity 70 children; church-affiliated, single site at 705 Leeland Heights Blvd E
+- event signal: No party, theme-week or water-day evidence found.
+- fit score: 2
+- why: Small capacity tied to a congregation's budget rather than a corporate operator. Note the parent church, Faith Evangelical Lutheran, is separately recorded in the church category and is bilingual — the church may be the better conversation.
+- source: https://members.elcaschools.org/list/member/the-learning-village-preschool-3159
+
+### Straight A's Preschool
+- type: preschools and daycare centers
+- city: Lehigh Acres
+- website: http://straightapreschool.com/
+- phone: (239) 368-2773
+- email: unknown
+- contact: unknown
+- size signal: Single location at 5580 8th St W, Suites 6 & 7; ages 12 months-12 years; bilingual; markets itself explicitly on "affordable tuition"
+- event signal: No parties, theme weeks or family events found.
+- fit score: 2
+- why: The affordability positioning is itself the signal — it tells you the parent base is price-sensitive, which caps discretionary spend. Age range to 12 is right; budget likely is not.
+- source: https://www.yelp.com/biz/straight-as-preschool-lehigh-acres
+
+### Busy Bees Learning Center
+- type: preschools and daycare centers
+- city: Lehigh Acres
+- website: unknown (Facebook presence only)
+- phone: (239) 368-0157
+- email: unknown
+- contact: unknown
+- size signal: A local mini-chain — 2-3 branded Lehigh Acres locations (4803 Lee Blvd, 5002 Lee Blvd, and a third referenced), but not corporate-backed
+- event signal: No party, theme-week or family-event evidence found.
+- fit score: 2
+- why: Multiple local sites shows some scale, but no website, no discoverable events and no sign of a marketing budget. Low-priority call.
+- source: https://www.yelp.com/biz/busy-bees-learning-center-lehigh-acres
+
+### King's World Academy
+- type: preschools and daycare centers
+- city: Lehigh Acres
+- website: unknown
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Licensed daycare at 3114 Lee Blvd, open 6am-6pm
+- event signal: No evidence of a distinct summer camp programme or any events — appears to be standard daycare.
+- fit score: 1
+- why: Surfaced only as a same-street peer to Grace Community School. No verifiable contact route and no camp. Recorded to close the loop.
+- source: https://winnie.com/place/kings-world-academy-lehigh-acres
+
+### 3. Church youth programs
+
+CATEGORY OUTCOME WORTH READING: no Lehigh Acres church scored above 3. In every prior city,
+churches were among the best prospects because they published dated VBS themes, Fall Festivals
+and Trunk-or-Treats. NOT ONE Lehigh Acres congregation published a dated event that search could
+verify. The ministries are real and active; the web presence is not. TREAT THIS CATEGORY AS
+CALL-FIRST, NOT RESEARCH-FIRST — the three largest campuses below are the place to start.
+
+Two near-misses were caught and excluded: a Fellowship Church Trunk-or-Treat with bounce houses
+belongs to a congregation in LAKELAND, and "Gateway Church" meets at Gateway High School in FORT
+MYERS. Christ United Methodist Church of Lehigh Acres was excluded because the official UMC data
+system lists it as CLOSED despite directories still showing it active.
+
+### Richmond Avenue Baptist Church
+- type: church youth programs
+- city: Lehigh Acres
+- website: http://www.rabclife.org
+- phone: (239) 369-5555
+- email: unknown
+- contact: unknown
+- size signal: Established SBC congregation at 304 Richmond Ave N with its own facility; dedicated Sunday School and Youth Group at 9:45am; separate Children, Youth and Adult ministries
+- event signal: A Vacation Bible School programme exists as a recurring ministry, and the youth run work days and fundraiser yard sales — but NO dated 2025/2026 theme or schedule could be confirmed.
+- fit score: 3
+- why: One of three best call targets in this city. A confirmed recurring VBS plus youth fundraising activity means both an occasion and a budget culture; only the dates are missing. Call to ask when VBS runs.
+- source: http://www.rabclife.org/services.html
+
+### New Life Church (New Life Assembly of God of Lehigh Acres)
+- type: church youth programs
+- city: Lehigh Acres
+- website: https://newlifelehigh.com
+- phone: (239) 369-6147
+- email: unknown
+- contact: unknown
+- size signal: Large multi-cultural, multi-generational AoG congregation with two Sunday services plus Wednesday; RUNS AN ON-SITE ACADEMY M-F 8am-3pm, indicating a sizable campus with grounds. NOTE: two addresses appear in directories (507 Sunshine Blvd and 5146 Leonard Blvd S) — verify before outreach.
+- event signal: Active Kids ministry and "New Life Youth" for middle and high school confirmed, but no dated Fall Festival, Trunk-or-Treat or VBS post found.
+- fit score: 3
+- why: The largest, best-resourced church campus found in Lehigh Acres, with an attached academy giving a second audience and real outdoor grounds for a foam setup. Best single call in this category.
+- source: https://newlifelehigh.com/kids
+
+### Truth Baptist Church
+- type: church youth programs
+- city: Lehigh Acres
+- website: https://www.tbclehigh.com
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Congregation since 2017 with a dedicated facility at 901 Leeland Heights Blvd W
+- event signal: Runs children's church, teen discipleship, SUMMER CAMP, YOUTH CONFERENCES and LOCK-INS — the most active standalone teen programme found in this city. No dated event confirmed, but the existing camp and lock-in programme proves they already run large group youth events.
+- fit score: 3
+- why: Behaviourally the strongest signal in the category even without dates — a church already running camps, conferences and lock-ins has both the budget and the habit of buying youth experiences. Third of the three best call targets.
+- source: https://www.tbclehigh.com/our-ministries
+
+### First Baptist Church of Lehigh Acres
+- type: church youth programs
+- city: Lehigh Acres
+- website: https://fbclehigh.org
+- phone: (239) 369-6141
+- email: unknown
+- contact: unknown
+- size signal: BILINGUAL congregation ("Primera Iglesia Bautista") at 200 Lee Blvd, with children's ministry, nursery and youth group
+- event signal: unknown — no dated VBS, Fall Festival or Trunk-or-Treat found.
+- fit score: 2
+- why: Fits the bilingual profile that matters in this city, with an active children's and youth ministry, but no event evidence. A Spanish-language pitch may differentiate here.
+- source: https://churches.sbc.net/church/lehigh-acres-first-baptist-church/
+
+### Faith Evangelical Lutheran Church (Comunidad de FE)
+- type: church youth programs
+- city: Lehigh Acres
+- website: https://faithlutheranla.org
+- phone: (239) 369-6177
+- email: admin.office@faithlutheranla.org
+- contact: Church office
+- size signal: Bilingual ELCA congregation running a Spanish-language ministry ("Comunidad de FE") alongside English, with an active Youth Group. Also operates The Learning Village Preschool (recorded above).
+- event signal: unknown — no dated event confirmed. NOTE: Fall Festivals found under "Faith Lutheran Church" in search belong to unrelated congregations in Albuquerque, Marietta, Lake Forest IL and Tyler TX — none attributed here.
+- fit score: 2
+- why: A PUBLISHED OFFICE EMAIL is rare in this city's church category, and the bilingual ministry plus attached preschool gives two audiences. No event evidence yet.
+- source: https://www.faithstreet.com/church/faith-lutheran-church-lehigh-acres-fl
+
+### Lehigh Acres Church of the Nazarene
+- type: church youth programs
+- city: Lehigh Acres
+- website: https://www.lehighnaz.org/
+- phone: (239) 369-4001
+- email: lehighnaz@gmail.com
+- contact: unknown
+- size signal: Full-service congregation at 210 Lee Blvd with Sunday School, Kids Church, Wednesday programming, teen and college/career groups, and a food bank partnership indicating an active volunteer base
+- event signal: unknown — no dated Trunk-or-Treat, Fall Festival or VBS confirmed.
+- fit score: 2
+- why: Multi-tier kids and teen ministry with a published email, but no event evidence. The food bank partnership suggests community-facing events may exist unpublished.
+- source: https://www.lehighnaz.org/
+
+### Lehigh Acres SDA Church
+- type: church youth programs
+- city: Lehigh Acres
+- website: https://lehighacressda.org
+- phone: 941-876-8005
+- email: unknown
+- contact: unknown
+- size signal: Runs an Adventurers Club (ages 6-9) and Pathfinders Club (ages 10-15) plus a Youth Forum
+- event signal: unknown for this congregation specifically, though Pathfinder and Adventurer clubs nationally run family camping and outdoor activities.
+- fit score: 2
+- why: The club structure is a genuinely good behavioural fit — these are outdoor-activity groups with their own gear and camping culture. No confirmed bookable event, and the phone number carries a 941 rather than 239 area code, so verify.
+- source: https://lehighacressda.org/ministries/adventurers--pathfinders/
+
+### Victory Church
+- type: church youth programs
+- city: Lehigh Acres
+- website: https://victoryoflehigh.com
+- phone: (239) 303-9585
+- email: unknown
+- contact: unknown
+- size signal: Two Sunday services plus a dedicated Friday teen night ("Inverted Youth," ages 13-18, 7pm) at 1201 Taylor Lane Ext
+- event signal: unknown — no dated Fall Festival or Trunk-or-Treat found.
+- fit score: 2
+- why: A scheduled weekly teen night shows organised youth ministry, but teens 13-18 skew older than foam's core audience and no event evidence was found.
+- source: https://victoryoflehigh.com/plan-a-visit/
+
+### Gospel Assembly of Lehigh
+- type: church youth programs
+- city: Lehigh Acres
+- website: https://www.gospelassemblyoflehigh.com
+- phone: (239) 244-6987
+- email: info@gospelassemblyoflehigh.com
+- contact: unknown
+- size signal: Registered nonprofit church founded 2009
+- event signal: unknown — no youth or kids ministry details surfaced beyond a general mission statement.
+- fit score: 1
+- why: Confirmed real with a published email, but no evidence of a youth programme at all. Lowest priority.
+- source: https://www.gospelassemblyoflehigh.com/about
+
+### 4. Schools and PTOs
+
+CATEGORY OUTCOME: Lehigh Acres has the LARGEST SCHOOLS in this research — Veterans Park Academy
+~1,996 students, Lehigh Acres Middle ~1,540, Sunshine Elementary ~1,456 — yet almost no PTO
+publishes events online. Nine of ten scored 1-2 on event evidence alone. That gap between school
+size and web presence looks like a characteristic of a working-class community, not an absence of
+parent groups. LIKE CHURCHES, TREAT THIS AS CALL-FIRST.
+
+THE FUNDING LEVER: seven of these are confirmed TITLE I schools, which carries federal money that
+can cover family-engagement events — a budget route that does not depend on parent fundraising.
+Ask about Title I family engagement funds by name.
+
+### Mirror Lakes Elementary School
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://mle.leeschools.net/
+- phone: (239) 369-2200
+- email: unknown
+- contact: school front office
+- size signal: ~1,237 students, Pre-K-5. CONFIRMED TITLE I.
+- event signal: The only Lehigh Acres school with a named recurring event tradition surfacing in search — a "Turkey Trot," referenced by a former student returning to run "one last Turkey Trot." Active PTA/PTO confirmed via the activities page. Current-year details unconfirmed.
+- fit score: 3
+- why: Best school prospect in the city on evidence, and the only one with a named event. A Turkey Trot is a fun-run format that a foam finish suits. Title I funding route available.
+- source: https://mle.leeschools.net/our_students/activities___clubs
+
+### Veterans Park Academy for the Arts
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://vpa.leeschools.net/
+- phone: (239) 303-3003
+- email: unknown
+- contact: school front office
+- size signal: ~1,996 STUDENTS — the largest school in this research. Pre-K-8 magnet (Gifted & Talented, Cambridge International). CONFIRMED TITLE I.
+- event signal: Title I and a PTO are confirmed, but no school-run event was verified. IMPORTANT: the "Veterans Park Fall Festival" found in search is a LEE COUNTY PARKS event at the nearby public park, NOT this school's event — do not conflate the two.
+- fit score: 2
+- why: Nearly 2,000 students in one Pre-K-8 school is the single largest concentration of children in this research, and an arts magnet runs showcases. The evidence gap is the web presence, not the opportunity. Highest-value call in the category.
+- source: https://vpa.leeschools.net/our_school/title_i
+
+### Sunshine Elementary School
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://sun.leeschools.net/
+- phone: (239) 369-5836
+- email: unknown
+- contact: school front office
+- size signal: ~1,456 students, Pre-K-5. CONFIRMED TITLE I.
+- event signal: PTO referenced on district pages; no specific named event confirmed. Local bounce-house vendors explicitly market to "Lehigh Acres schools," implying rental events do happen locally.
+- fit score: 2
+- why: Large Title I elementary in the right age band. That local inflatable vendors advertise to Lehigh schools is indirect evidence the category buys — just not published.
+- source: https://sun.leeschools.net/
+
+### Lehigh Elementary School
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://lhl.leeschools.net/
+- phone: (239) 369-2477
+- email: unknown
+- contact: school front office
+- size signal: ~1,207 students, Pre-K-5. CONFIRMED TITLE I with a "Our Families" parent-engagement section.
+- event signal: Title I parent-engagement programming referenced, but no specific named PTO event confirmed.
+- fit score: 2
+- why: A named parent-engagement section is exactly where Title I family-event money sits. Ask for the Title I coordinator rather than the PTO.
+- source: https://lhl.leeschools.net/
+
+### Harns Marsh Elementary School
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://hme.leeschools.net/
+- phone: (239) 690-1249
+- email: unknown
+- contact: school front office
+- size signal: ~989 students, Pre-K-5. CONFIRMED TITLE I.
+- event signal: Active Facebook presence but no specific named event confirmed.
+- fit score: 2
+- why: Title I elementary in the right age band with an active social presence — the events likely live on Facebook rather than the school site.
+- source: https://hme.leeschools.net/
+
+### Tortuga Preserve Elementary School
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://tpe.leeschools.net/
+- phone: (239) 693-5023
+- email: unknown
+- contact: school front office
+- size signal: ~1,135 students, Pre-K-5. CONFIRMED TITLE I.
+- event signal: No specific named recurring event confirmed.
+- fit score: 2
+- why: Another large Title I elementary. Same profile, same approach — call the office and ask about field day and family nights.
+- source: https://tpe.leeschools.net/our_school/title_i
+
+### Harns Marsh Middle School
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://hmm.leeschools.net/
+- phone: (239) 690-2025
+- email: unknown
+- contact: school front office
+- size signal: ~1,316 students, grades 6-8 (Gifted & Talented, Cambridge International)
+- event signal: Reported to have an active PTA/PTO; no specific event confirmed.
+- fit score: 2
+- why: Large middle school with a confirmed parent group. Middle-school age skews older than ideal, but field day and end-of-year formats still work.
+- source: https://hmm.leeschools.net/
+
+### East Lee County High School
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://elc.leeschools.net/
+- phone: (239) 369-2932
+- email: unknown
+- contact: school front office / athletics department
+- size signal: Public high school, mascot Jaguars. CONFIRMED TITLE I.
+- event signal: Active athletic and ticketing infrastructure confirmed (GoFan, Hudl, NFHS Network), but no PTSA or family-carnival event found.
+- fit score: 2
+- why: High schools fit foam poorly through PTOs, but the athletics infrastructure is the alternative route — a team or club fundraiser rather than a family night. Approach boosters, not the PTO.
+- source: https://elc.leeschools.net/our_school/title_i
+
+### Lehigh Acres Middle School
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://lhm.leeschools.net/
+- phone: (239) 369-6108
+- email: unknown
+- contact: school front office
+- size signal: ~1,540 students, grades 6-8; the first AVID-certified middle school in Lee County
+- event signal: No PTSA or named family event confirmed.
+- fit score: 1
+- why: Very large but no parent group or event evidence surfaced at all. Lower priority than the elementaries.
+- source: https://lhm.leeschools.net/
+
+### Lehigh Senior High School
+- type: schools and PTOs
+- city: Lehigh Acres
+- website: https://lsh.leeschools.net/
+- phone: unknown
+- email: unknown
+- contact: school front office
+- size signal: Public high school, mascot "Lightning"
+- event signal: No PTSA, booster club or family-event evidence confirmed. NOTE: a "Yellow Jackets" booster club surfaced in search but that mascot matches neither Lehigh high school — excluded as a likely same-name mismatch.
+- fit score: 1
+- why: No parent group, no events, no published phone. Recorded to close the loop.
+- source: https://lsh.leeschools.net/
+
+### 5. Municipal parks and recreation
+
+Jurisdiction note: Lehigh Acres is UNINCORPORATED, so every public facility here is LEE COUNTY.
+There is no city hall, no municipal special-events office and no separate city procurement. The
+county department is already registered from the Fort Myers round — that work carries over.
+
+### Veterans Park and Recreation Center (LEE COUNTY)
+- type: municipal parks and recreation
+- city: Lehigh Acres
+- website: https://www.leegov.com/parks/centers/veterans
+- phone: (239) 533-7530 (a secondary listing shows 239-369-1521 — verify)
+- email: leeparks@leegov.com
+- contact: unknown (Lee County Parks communications is Betsy Clayton, but that role is countywide)
+- size signal: 95-ACRE PARK at 55 Homestead Road S — the main Lehigh Acres recreation center. A SPLASH PAD, boulder playground, traditional playground, skate park, tennis and basketball courts, softball fields, fishing lake, dog park, and RENTABLE PICNIC SHELTERS AND PAVILIONS.
+- event signal: Runs the county's eight-week summer camps; hosted a BACK-TO-SCHOOL BASH that distributed 600+ backpacks; hosts an annual Community Health & Wellness Fair (mid-February), a FREE FAMILY MOVIE IN THE PARK (late February), and county holiday events with craft stations and Santa at $5/child ages 0-13.
+- fit score: 5
+- why: THE PAVILION-NEXT-TO-WATER PATTERN AT ITS BEST. Splash pad, playgrounds, rentable shelters, an eight-week camp AND at least four named recurring family events, all on one 95-acre county site. In a city with almost no commercial venues, this single park carries the community's entire event load. It is both a venue and a demand channel, and the county vendor registration is already done.
+- source: https://www.leegov.com/parks/centers/veterans
+
+### Lehigh Acres Park / Lehigh Community Park & Community Pool (LEE COUNTY)
+- type: municipal parks and recreation
+- city: Lehigh Acres
+- website: https://www.leegov.com/parks/parks/lehighpark (pool: leegov.com/parks/pools/lehighpool)
+- phone: (239) 369-8277 (pool); (239) 533-7275 (county parks)
+- email: leeparks@leegov.com
+- contact: unknown
+- size signal: 62.92-acre park at 1400 W. 5th St, recently TRIPLED IN SIZE via a $16.6M expansion. On site: a public 169,800-gallon, 8-LANE HEATED SALTWATER POOL ($3 adult / $2 child), THREE PAVILIONS (first-come), three football fields, softball and baseball fields, tennis, four pickleball courts, disc golf, fishing pier and exercise stations.
+- event signal: Functions as Lehigh Acres' primary sports-and-aquatics complex with youth leagues and public pool traffic; pool posts public hours Tue-Sat. No site-specific festival or camp calendar found, distinct from Veterans Park.
+- fit score: 4
+- why: The cleanest expression of the pattern — three rentable pavilions on the same site as a public pool, so water access is built in for any family booking a shelter. A $16.6M expansion signals county investment and rising usage. Held at 4 only because the named events sit at Veterans Park rather than here.
+- source: https://www.leegov.com/parks/parks/lehighpark
+
+### Lee County Parks & Recreation (department)
+- type: municipal parks and recreation
+- city: Lehigh Acres
+- website: https://www.leegov.com/parks
+- phone: (239) 533-7275
+- email: leeparks@leegov.com
+- contact: unknown
+- size signal: Manages 30,000+ acres countywide including every Lehigh Acres public facility. Procurement via leegov.com/procurement and leegov.ionwave.net.
+- event signal: Issues countywide releases for holiday events, Fall Festivals and the Back-to-School Bash with Lehigh Acres and Veterans Park named as sites; coordinates the summer camp programme.
+- fit score: 4
+- why: In an unincorporated community this department IS the local government for events. Any contract, sponsorship or vendor approval for Lehigh Acres routes here rather than to a city hall. Already recorded under Fort Myers, Bonita Springs and Estero — one registration, four cities.
+- source: https://www.leegov.com/parks
+
+### Lehigh Acres Senior Citizen Center (LEE COUNTY)
+- type: municipal parks and recreation
+- city: Lehigh Acres
+- website: https://www.leegov.com/parks/centers/lehighsenior
+- phone: (239) 369-5355
+- email: leeparks@leegov.com
+- contact: unknown
+- size signal: 219 Plaza Dr; open daily 8am-4pm; membership for ages 50+ at $30/year; 10+ classes daily plus a travel desk and thrift shop
+- event signal: Holds a publicized annual Open House and "many special events every month" per county materials — but the audience is strictly 50+.
+- fit score: 2
+- why: A genuinely active county events calendar aimed at entirely the wrong audience. Recorded to document the check.
+- source: https://www.leegov.com/parks/centers/lehighsenior
+
+### Harns Marsh Preserve
+- type: municipal parks and recreation
+- city: Lehigh Acres
+- website: https://www.la-msid.com/harns-marsh
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: 578-acre stormwater and wildlife preserve off Sunshine Blvd with a 3.9-mile loop trail, popular with birders; open dawn to dusk
+- event signal: None — its own managing district describes it as "not a park" with "no facilities on site."
+- fit score: 1
+- why: Governed by the Lehigh Acres Municipal Services Improvement District (a special district), NOT Lee County Parks, and has zero event infrastructure or bookable space. Recorded to close the loop on a name that appears in Lehigh Acres park searches.
+- source: https://www.la-msid.com/harns-marsh
+
+### 6. Country clubs
+
+CATEGORY OUTCOME: this category has largely COLLAPSED in Lehigh Acres. Two courses closed within
+fourteen months of each other, and a third was redeveloped. Two facilities operate, only one of
+which programmes for families. Closures are recorded so they are not re-researched.
+
+### Lehigh Resort Club (formerly the North course at Admiral Lehigh)
+- type: country clubs
+- city: Lehigh Acres
+- website: https://www.lehighresorts.com
+- phone: (239) 368-2022 (pro shop 239-368-1981; reservations 855-859-6983)
+- email: LRC@LehighResorts.com
+- contact: unknown
+- size signal: 65-ACRE family golf resort and timeshare property with a 9-hole course at 231 Joel Blvd
+- event signal: Markets itself as a FAMILY RESORT with a CHILDREN'S POOL, playground, mini golf and frisbee golf, plus recurring family social events — MOVIE NIGHTS, bocce, bingo, shuffleboard, COOKOUTS and BUILD-YOUR-OWN ICE CREAM SUNDAE SOCIALS BY THE POOL.
+- fit score: 4
+- why: The only operating facility in this category with genuine family programming, and it is unusually good — a kiddie pool, a playground, and poolside social events they already run and pay for. A resort rather than a private club, which means a marketing budget and a reason to differentiate. Published email.
+- source: https://avidtravelco.com/lehigh-resort-club-lehigh-acres-florida-family-friendly-resort-with-golf-pool-spa/
+
+### The Club at Westminster (Westminster Golf Club)
+- type: country clubs
+- city: Lehigh Acres
+- website: https://westminster-golf.com
+- phone: (239) 368-1110
+- email: unknown
+- contact: unknown
+- size signal: Semi-private 18-hole championship course (Arthur Rutenberg design) inside the gated Westminster community (~620 residential doors), with a full-service restaurant and bar
+- event signal: The club's own Upcoming Events page lists golf leagues, tournaments and restaurant socials — adult-oriented. A third-party venue listing shows the clubhouse rents for weddings, BIRTHDAY PARTIES and graduation parties, but no kids' club or family event programming was confirmed at club level.
+- fit score: 2
+- why: Operating and party-adjacent through clubhouse rentals, but no family programming at the club itself. NOTE: the surrounding Westminster Community Association scores 4 as a residential prospect with food trucks and all-age events — the community, not the golf club, is the door.
+- source: https://westminster-golf.com/upcoming-events/
+
+### Mirror Lakes Golf Club — CLOSED
+- type: country clubs
+- city: Lehigh Acres
+- website: unknown (defunct)
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Former 18-hole course, originally part of the old Admiral Lehigh Resort (opened 1958, refounded 1970)
+- event signal: None — permanently closed.
+- fit score: 1
+- why: CLOSED JUNE 2018. Recorded so it is not re-researched.
+- source: https://foretee.com/courses/florida/lehigh-acres/usa/mirror-lakes-golf-club,-closed-2018/2088
+
+### Copperhead Golf Club — CLOSED
+- type: country clubs
+- city: Lehigh Acres
+- website: unknown (defunct)
+- phone: unknown (the former 239-369-8200 is no longer valid)
+- email: unknown
+- contact: unknown
+- size signal: Was a public 18-hole championship course (Gordon Lewis design), opened 2001, at 20910 Copperhead Dr
+- event signal: None — permanently closed.
+- fit score: 1
+- why: CLOSED JULY 2019 — reported locally as the second Lehigh Acres course to close within fourteen months. Recorded so it is not re-researched.
+- source: https://www.lehighacrescitizen.com/2019/07/24/copperhead-golf-club-has-closed/
+
+### Admiral Lehigh Golf Resort — CLOSED / SPLIT
+- type: country clubs
+- city: Lehigh Acres
+- website: unknown (no longer operates under this name)
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Historic resort dating to 1960/1970; the name now maps to two separate outcomes
+- event signal: None under this name.
+- fit score: 1
+- why: The property at 225 Joel Blvd is listed closed, and a separate former Admiral Lehigh site was BOUGHT BY LEE COUNTY PARKS IN 2008 and converted into an eco-park. The North course was renamed and survives as Lehigh Resort Club (fit 4, above). Recorded to resolve a name that still appears in golf directories.
+- source: https://clubandresortbusiness.com/former-admiral-lehigh-golf-resort-reborn-as-eco-park/
+
+### 7. Apartment and condo communities with event staff
+
+Age-restriction note: unlike prior cities, most flagged communities here are GENUINELY 55+ or
+senior housing — not directory mislabels. Only Westminster and Ibis Landing are confirmed
+all-ages with event activity.
+
+### Westminster Community Association
+- type: apartment and condo communities with event staff
+- city: Lehigh Acres
+- website: https://www.westminstercommunity.com/
+- phone: (239) 369-2846 (from a third-party snippet — verify)
+- email: unknown
+- contact: unknown (community association office)
+- size signal: Guard-gated, deed-restricted community of 620 RESIDENTIAL DOORS across four sub-associations, ~2,512 residents. Community center, billiards, fitness center, POOL AND SPA, and a PICNIC PAVILION. Shares grounds with the semi-private Club at Westminster.
+- event signal: Runs "various social functions including FOOD TRUCKS, holiday parties, potlucks and SOCIAL GATHERINGS FOR EVERY AGE," plus regular clubs out of the community center.
+- fit score: 4
+- why: Best residential prospect in the city. "For every age" is an explicit all-ages statement that corrects the default assumption about a gated SWFL community, and they ALREADY BOOK FOOD TRUCKS — a proven adjacent purchase. On-site pool and pavilion give the venue. Note the golf club on the same grounds scores only 2; the community association is the buyer.
+- source: https://www.westminstercommunity.com/
+
+### Ibis Landing Golf & Country Club
+- type: apartment and condo communities with event staff
+- city: Lehigh Acres
+- website: https://www.ibislandinggc.com
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Gated Lennar-built golf community — condos, villas and executive homes — with a resort-style pool, fitness center, tennis, pickleball, basketball and a driving range. Not age-restricted; appears to be an all-ages family community.
+- event signal: Described as having "various social events and activities" including holiday celebrations and group fitness classes, but no named activities director or specific recurring calendar was found.
+- fit score: 3
+- why: A newer all-ages Lennar community with real amenities and a resort pool. The residential HOA events contact could not be separated from the private golf club — ask for the HOA, not the pro shop.
+- source: https://www.lennar.com/new-homes/florida/naples-ft-myers/lehigh-acres/ibis-landing-golf-country-club
+
+### Town Lakes
+- type: apartment and condo communities with event staff
+- city: Lehigh Acres
+- website: unknown
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Master-planned neighbourhood with a clubhouse, pool, tennis and pickleball courts, community park, PLAYGROUND, walking trails and a waterfront pier. Appears all-ages — no age-restriction language found.
+- event signal: Weak — no resident-event calendar, named activities director or specific programming found.
+- fit score: 2
+- why: Has exactly the physical setup a foam party needs (clubhouse, pool, playground) and appears to be a family community, but no verified event staff. Cold-call prospect with good bones.
+- source: https://www.apartments.com/town-lakes-lehigh-acres-fl/
+
+### Presbyterian Homes of Lehigh Acres
+- type: apartment and condo communities with event staff
+- city: Lehigh Acres
+- website: https://www.phhf.com/presbyterian_homes_of_lehigh_acres
+- phone: (239) 369-1414
+- email: unknown
+- contact: unknown
+- size signal: 1- and 2-bedroom apartments on several acres, part of the Presbyterian Homes & Family Services network
+- event signal: Residents access activities and events in the multipurpose room at adjacent Woodward Manor.
+- fit score: 2
+- why: AGE-RESTRICTION FLAG — operated under a senior/affordable senior housing network. Not confirmed as strictly 55+/62+ in available sources, but the profile is senior housing, which makes it a poor fit regardless. Verify before any outreach.
+- source: https://www.phhf.com/presbyterian_homes_of_lehigh_acres
+
+### Presbyterian Villas of Lehigh
+- type: apartment and condo communities with event staff
+- city: Lehigh Acres
+- website: https://www.phhf.com/presbyterian_villas_of_lehigh
+- phone: (239) 369-1414
+- email: unknown
+- contact: unknown
+- size signal: 1- and 2-bedroom units on secluded acreage; sister property to Presbyterian Homes, same operator
+- event signal: Same shared Woodward Manor multipurpose-room activities.
+- fit score: 2
+- why: Same senior-housing flag as its sister property. Recorded to document the check.
+- source: https://www.phhf.com/presbyterian_villas_of_lehigh
+
+### Heron Pond 55+ Apartments
+- type: apartment and condo communities with event staff
+- city: Lehigh Acres
+- website: https://www.liveatheronpond.com/
+- phone: unknown
+- email: unknown
+- contact: unknown (managed by Dominium Management Services)
+- size signal: 1232 Village Lakes Blvd; 1-2BR units, 600-868 sq ft; part of Dominium's affordable-housing portfolio
+- event signal: References "social, recreational, and cultural activities" tied to the pool and fitness center.
+- fit score: 1
+- why: CONFIRMED 55+ — the age restriction is in the property's own name and URL, so this is genuine, not a directory mislabel. Wrong audience.
+- source: https://www.liveatheronpond.com/
+
+### Fountain Crest
+- type: apartment and condo communities with event staff
+- city: Lehigh Acres
+- website: unknown
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: 1230 Taylor Lane Extension, marketed as "Lehigh Acres Retirement Living"
+- event signal: A genuinely active social calendar — book clubs, live jazz, game nights, themed soirées, POOL PARTIES, holiday workshops and daily exercise classes.
+- fit score: 1
+- why: CONFIRMED age-restricted senior living. They run pool parties, which is exactly the right behaviour attached to exactly the wrong demographic. Recorded to document the check.
+- source: https://www.seniorlivingguide.com/communities/fountain-crest-1230-taylor-lane-extension-lehigh-acres-fl-33936/
+
+### Park Place Apartments
+- type: apartment and condo communities with event staff
+- city: Lehigh Acres
+- website: http://www.parkplace-lehigh.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: 1- and 2-bedroom single-story apartment complex
+- event signal: None found — no resident events, activities director or pool programming.
+- fit score: 1
+- why: A real complex with a working site, but zero event signal and no contact route. Cold call only.
+- source: http://www.parkplace-lehigh.com/
+
+### 8. Birthday party venues
+
+Category note: the FARM AND RANCH PATTERN RETURNS after breaking in Estero — and Lehigh Acres'
+semi-rural large-lot geography is why. Several leads that surface for this city are actually in
+Fort Myers, Sarasota, Naples, North Fort Myers or Englewood and were excluded.
+
+### 5 Star Stables & Tack Stop
+- type: birthday party venues
+- city: Lehigh Acres
+- website: http://www.stableandtack.com
+- phone: (239) 337-7827
+- email: unknown
+- contact: unknown
+- size signal: 40-ACRE working horse boarding and lesson stable with access to 1,000+ ACRES of trail riding; English, Western, Hunter/Jumper, Barrel Racing and Pole Bending disciplines
+- event signal: Published birthday party offering — a FIVE-HOUR PARTY PACKAGE INCLUDING A COOKOUT (hot dogs, hamburgers, pizza). Also runs horse camps and regular lessons.
+- fit score: 5
+- why: THE PATTERN HOLDS, AND THIS IS THE BEST VERSION OF IT YET. 40 acres of open ground, 1,000+ acres of trail access, an established five-hour birthday package that already includes catering, and a business accustomed to hosting groups of children. Water access is standard at a boarding stable. Best venue prospect in the city by a wide margin.
+- source: https://www.lehighacrescitizen.com/2018/12/12/5-star-stables-tack-stop-offers-equine-adventures-and-lessons/
+
+### Believe Dream Luxury Ballroom
+- type: birthday party venues
+- city: Lehigh Acres
+- website: https://www.believedreamballroom.com
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: "Newest luxury white-canvas venue in Lehigh Acres," capacity up to 200, at 3507 Lee Blvd Suite 103; open 9am-11:30pm
+- event signal: Explicitly lists birthdays alongside weddings, baby showers and quinceañera-type celebrations; all-inclusive decorating, planning and catering; wedding pricing published from $5,000.
+- fit score: 3
+- why: Confirms the quinceañera and banquet-hall category is real in this city — a genuinely different venue type from the coastal cities, serving the local Hispanic community. Indoor-only with no confirmed outdoor space, which caps it, but a referral relationship for outdoor overflow is plausible.
+- source: https://www.eventective.com/lehigh-acres-fl/believe-dream-luxury-ballroom-715792.html
+
+### Lehigh Lanes
+- type: birthday party venues
+- city: Lehigh Acres
+- website: https://lehighlanes.com
+- phone: (239) 369-5817
+- email: suzanne@lehighlanes.com
+- contact: Suzanne
+- size signal: Family-owned 12-lane bowling alley and entertainment center with a full bar, restaurant and the largest arcade in Lehigh Acres
+- event signal: Dedicated "Birthday Parties" page on their own site confirming an active party programme; specific package pricing not surfaced.
+- fit score: 3
+- why: A NAMED CONTACT WITH A DIRECT EMAIL, which is rare in this city, at the main indoor family entertainment venue in town. No outdoor space, so the value is a referral partnership — they take the indoor bookings, you take the ones wanting outdoor.
+- source: https://lehighlanes.com/Birthday-parties
+
+### Horse Adventures of SWFL
+- type: birthday party venues
+- city: Lehigh Acres
+- website: unknown
+- phone: (239) 297-2175
+- email: unknown
+- contact: unknown
+- size signal: Horse riding operation at 1810 Desoto Ave offering private lessons, trail rides and kids' group riding lessons
+- event signal: No published birthday package or pricing found — only lessons and trail rides confirmed.
+- fit score: 2
+- why: A second Lehigh Acres horse property, which reinforces that this city's geography suits the farm pattern. No party evidence yet, so capped — but a stable already running kids' group lessons is one conversation away from hosting parties.
+- source: https://www.yelp.com/biz/horse-adventures-of-swfl-lehigh-acres
+
+### 9. Party and event rental companies (PARTNERS)
+
+Category note: as predicted, this city's rental market is made up of SMALL, LOCAL, OFTEN
+HOME-BASED family operators rather than the large regional firms that dominate the coastal
+cities — and none of the four found offers foam. Searching Spanish-language terms was part of the
+brief; the operators found market in English, but the small family-run profile matches the
+prediction.
+
+### Heaven on Earth's Party Rentals
+- type: party and event rental companies
+- city: Lehigh Acres
+- website: https://heavenonearthpartyrentals.com/
+- phone: (407) 668-2517
+- email: robertsjoseph777@yahoo.com / joeyrob239@gmail.com (both on their contact page; primary unconfirmed)
+- contact: unknown
+- size signal: Small local operator physically based in Lehigh Acres 33936, running a public inventory site with bounce houses and water slides as its core catalog
+- event signal: NO FOAM PRODUCT anywhere in their listed inventory.
+- fit score: 4
+- why: A Lehigh Acres-based inflatable business with an established catalog, no foam, and TWO PUBLISHED EMAIL ADDRESSES — an unusually reachable small operator. They already serve the local backyard-party customer who would buy foam. Note the 407 area code (Orlando) on the phone despite the Lehigh base — verify.
+- source: https://heavenonearthpartyrentals.com/rentals/bounce-houses/
+
+### Bumble Bounce Inc
+- type: party and event rental companies
+- city: Lehigh Acres
+- website: https://www.thebumblebounce.com/
+- phone: (239) 266-0118
+- email: unknown
+- contact: unknown
+- size signal: 8+ YEARS OPERATING, licensed and insured; delivery zones explicitly include Lehigh Acres, Fort Myers, North Fort Myers, Cape Coral, Estero and Bonita Springs — SIX of our eight target cities
+- event signal: Bounce houses and slides only; NO FOAM PRODUCT found on their site or listings.
+- fit score: 4
+- why: Eight years, licensed and insured, and covering six of the eight cities in this grid — the broadest reach of any small operator found. Insurance matters: an insured partner can subcontract into the municipal and school work that uninsured operators cannot touch.
+- source: https://www.thebumblebounce.com/deliveryareas/
+
+### ABCS Bounce Houses
+- type: party and event rental companies
+- city: Lehigh Acres
+- website: unknown
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Family-owned, started out of the owners' home, based in Lehigh Acres — the small home-based profile typical of this city
+- event signal: Bounce houses, water slides and dry slides per their listing; NO FOAM mentioned.
+- fit score: 3
+- why: Genuine local family operator with no foam, which is the right partner shape — but only a Yelp profile was found, so there is no confirmed outreach channel. Find the phone before pursuing.
+- source: https://www.yelp.com/biz/abcs-bounce-houses-lehigh-acres
+
+### Enchanted Party Rentals
+- type: party and event rental companies
+- city: Lehigh Acres
+- website: unknown
+- phone: (239) 850-5670
+- email: unknown
+- contact: unknown
+- size signal: Physical Lehigh Acres address (3409 17th St W) listed in a neighbourhood business directory; no inventory list, reviews or scale indicator found
+- event signal: No service catalog surfaced — no evidence either way on whether they offer foam.
+- fit score: 2
+- why: A confirmed local name, address and phone, but nothing else. Cannot be scored as a partner without knowing what they carry. One call establishes whether they are active and foam-free.
+- source: https://nextdoor.com/pages/enchanted-party-rentals-lehigh-acres-fl/
+
+### 10. Kids gyms and youth sports leagues
+
+Category note: as predicted, youth sports is one of the stronger categories in this city — large
+family population, volunteer-run leagues on county fields. Soccer is prominent, matching the
+demographics.
+
+### Lehigh Acres Little League (Lehigh Sports Association)
+- type: kids gyms and youth sports leagues
+- city: Lehigh Acres
+- website: https://www.lehighsportsassociation.org/
+- phone: (239) 265-2071
+- email: Lehighlittleleague9@gmail.com
+- contact: unknown (volunteer board)
+- size signal: Chartered Little League baseball and softball with its own field complex and registration portal
+- event signal: Actively running "Spring Softball and Baseball Sign-Ups for their 2026 Spring Season" — season confirmed underway, though no exact Opening Day date surfaced.
+- fit score: 4
+- why: A published league email plus phone and an active 2026 season. Opening Day and end-of-season trophy day are both natural bookings; call to get the dates the site does not publish.
+- source: https://www.lehighsportsassociation.org/
+
+### Lehigh Youth Soccer Association (LYSA)
+- type: kids gyms and youth sports leagues
+- city: Lehigh Acres
+- website: https://www.lehighyouthsoccer.com
+- phone: (239) 309-6010
+- email: LehighYSA@gmail.com
+- contact: unknown (volunteer nonprofit board)
+- size signal: Nonprofit recreational soccer for AGES 4-15 plus Arsenal YFC competitive soccer ages 7-19; OWN FIELDS at 104 Arthur Ave; entirely volunteer-run, indicating a large multi-team community league
+- event signal: Documented dated registration push — local radio coverage reports LYSA "Opens Winter Registration for Young Athletes," $140/player including jersey with a $5 sibling discount.
+- fit score: 4
+- why: Soccer fits this city's demographics better than any other sport, they own their own fields (no third-party venue approval), and both a phone and email are published. The $140 registration fee tells you what families here will pay for a season — useful calibration for pricing a team event.
+- source: https://suga957.com/lehigh-youth-soccer-association-lysa-opens-winter-registration-for-young-athletes/
+
+### Footnotes Dance & Music Studios
+- type: kids gyms and youth sports leagues
+- city: Lehigh Acres
+- website: http://www.footnotesdanceandmusic.com/
+- phone: (239) 369-4320
+- email: unknown
+- contact: unknown
+- size signal: 6,000 SQ FT facility with three dance rooms, two private music rooms, a dance-company lounge and a concession stand; Acro, Ballet, Contemporary, Hip Hop, Jazz, Musical Theatre and Tap for ages 2 to adult; 5-star Google rating across 23 reviews. Also hosts Meishinkan Martial Arts on site Tue/Thu evenings.
+- event signal: Publishes its own Calendar of Events page indicating recurring recitals and showcases, though a specific 2026 date was not confirmed. NOTE: a same-named "Footnotes" studio in Ceres, CALIFORNIA has a June 2026 recital — that is NOT this location.
+- fit score: 4
+- why: The largest and best-equipped private kids' facility found in Lehigh Acres, with its own events calendar and recital season. End-of-recital-season is the booking. The California same-name catch is the fourth such trap avoided in this research.
+- source: http://footnotesdanceandmusic.com/calendar.php
+
+### Lehigh Acres Raiders (Pop Warner Football & Cheerleading)
+- type: kids gyms and youth sports leagues
+- city: Lehigh Acres
+- website: https://www.lehighraider.com/football
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Pop Warner-affiliated with football ages 5-15 and CHEER AGES 3-15, competing in the Peace River Pop Warner Conference; self-described Regional and National Champions, indicating a well-established multi-squad programme
+- event signal: Season structure confirmed via the conference schedule, but no specific 2026 opening or season-end date surfaced.
+- fit score: 3
+- why: Combined football and cheer rosters from age 3 upward gives a large mixed-age family base, and a championship programme has engaged parents. No published contact route, which is the main obstacle — go through the website form.
+- source: https://www.lehighraider.com/football
+
+### Finish Strong Martial Arts (Meishinkan Dojo)
+- type: kids gyms and youth sports leagues
+- city: Lehigh Acres
+- website: unknown
+- phone: (239) 558-3071
+- email: unknown
+- contact: unknown
+- size signal: Fixed dojo at 1111 Homestead Rd N, Ste 25, teaching Aikijutsu, Jujutsu, Iaijutsu, Karate Jutsu, kickboxing and MMA — a physical school, not a mobile instructor
+- event signal: No dated belt test, tournament or end-of-session event found.
+- fit score: 3
+- why: Belt-promotion ceremonies are a standard foam-party trigger for dojos, and this is a confirmed physical school with a published phone. No dated event, so the call is discovery.
+- source: https://www.yelp.com/biz/finish-strong-martial-arts-lehigh-acres
+
+### i9 Sports — North Fort Myers / North Cape Coral / Lehigh Acres
+- type: kids gyms and youth sports leagues
+- city: Lehigh Acres
+- website: https://www.i9sports.com/franchises/n-ft-myers-n-cape-coral-lehigh-acres-fl/560
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: National youth multi-sport franchise — flag football, soccer, t-ball, basketball, volleyball — running year-round leagues across a territory covering Lehigh Acres, North Fort Myers and North Cape Coral
+- event signal: "Year-round leagues" implies a recurring rotation of season-end celebrations, but no specific 2026 dates found.
+- fit score: 3
+- why: Year-round rotating seasons means repeat opportunities rather than one annual date, and a franchise owner can decide locally. The territory spans three cities, so one relationship covers more than Lehigh Acres.
+- source: https://www.i9sports.com/franchises/n-ft-myers-n-cape-coral-lehigh-acres-fl/560
+
+### NFL Flag Football League (Fort Myers / Lehigh Acres / Gateway)
+- type: kids gyms and youth sports leagues
+- city: Lehigh Acres
+- website: https://tshq.bluesombrero.com/Default.aspx?tabid=2491667
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Youth flag football for ages 4-17 explicitly welcoming players from Fort Myers, Lehigh Acres and surrounding areas, across fall, winter and spring seasons
+- event signal: Multi-season structure confirmed on the registration platform, but no dated opening or season-end found.
+- fit score: 2
+- why: A real regional league reaching Lehigh Acres players, but it is not Lehigh-based and no dated event was confirmed. Lower priority than the two local leagues above.
+- source: https://tshq.bluesombrero.com/Default.aspx?tabid=2491667
+
+### 11. Festival and community event organizers
+
+Category note: with no city government, community events here are run by the chamber, civic clubs
+and Lee County. Coverage gap acknowledged: the researching agent exhausted its search budget
+before it could check for Hispanic heritage festivals, Latino community events or Spanish-language
+organisations. GIVEN THIS CITY'S DEMOGRAPHICS THAT IS A LIKELY GAP, NOT A CONFIRMED ABSENCE —
+worth a dedicated follow-up pass.
+
+### East Lee County Chamber of Commerce (formerly Greater Lehigh Acres Chamber)
+- type: festival and community event organizers
+- city: Lehigh Acres
+- website: https://eastleechamber.com
+- phone: (239) 369-0299
+- email: unknown
+- contact: unknown
+- size signal: PO Box 757, Lehigh Acres 33970; listed on Lee County's official chambers page; active Facebook presence
+- event signal: Runs several recurring community events — "Throw Away Responsib-LEE" (an all-ages community cleanup event AT VETERANS PARK), an Annual Gala, "Conversations That Count" school-leader Q&A in April, and a "Groovy 70s" fundraiser dinner benefiting Lehigh Community Services. No named kids zone or attendance figures found.
+- fit score: 4
+- why: The only chamber actively organising multiple recurring public events in this unincorporated community, and it already stages them at Veterans Park — the same venue that anchors the parks category. That existing venue relationship is the useful part.
+- source: https://eastleechamber.com/upcoming-events/
+
+### Lehigh Acres Spring Festival (Spring Festival Association, Inc.)
+- type: festival and community event organizers
+- city: Lehigh Acres
+- website: unknown (no live official site; Facebook page "Lehigh Acres Spring Festival Parade")
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Registered Florida nonprofit (EIN 23-7417232), listed on GreatNonprofits, GuideStar and Festivalnet
+- event signal: A long-running ANNUAL NINE-DAY FESTIVAL every March at Veterans Park — parade, CARNIVAL, car show, craft show, food and merchant vendors, pageants, contests and an idol competition. Tradition dates to 1975. CAUTION: a 2020 local headline reads "New festival replaces Lehigh Spring Festival," so the event may have been rebranded or discontinued — VERIFY CURRENT STATUS BEFORE OUTREACH.
+- fit score: 4
+- why: A nine-day festival with a carnival and an established vendor ecosystem is the largest family event this city has, and it runs at Veterans Park. Held at 4 purely because of the unresolved 2020 replacement question — confirm it still runs under this name before investing.
+- source: https://www.fairsandfestivals.net/events/details/lehigh-acres-spring-festival2/
+
+### Veterans Park Community Events (LEE COUNTY)
+- type: festival and community event organizers
+- city: Lehigh Acres
+- website: https://www.leegov.com/parks/centers/veterans
+- phone: (239) 533-7530
+- email: leeparks@leegov.com
+- contact: Lee County Parks & Recreation
+- size signal: County facility at 55 Homestead Rd S serving as the recurring community-event venue for the whole city
+- event signal: Named, dated, recurring public events — an annual BACK-TO-SCHOOL BASH (drive-thru, early August), an annual COMMUNITY HEALTH & WELLNESS FAIR (mid-February), and a FREE FAMILY MOVIE IN THE PARK (late February).
+- fit score: 4
+- why: This is Lee County's community-events presence for Lehigh Acres in place of a city special-events office. Three named recurring family events at one venue, and the vendor path is county procurement you have already navigated.
+- source: https://www.leegov.com/parks/centers/veterans
+
+### Rotary Club of Lehigh Acres
+- type: festival and community event organizers
+- city: Lehigh Acres
+- website: unknown (active on Facebook)
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Active civic service club meeting 2nd and 4th Thursdays at El Tarasco Mexican Restaurant, 1320 Business Way
+- event signal: Runs an annual free Thanksgiving Community Meal (700+ meals served in a recent year) and free Christmas meals for neighbours in need.
+- fit score: 2
+- why: Real recurring events with genuine turnout, but they are charity meal services — indoor, food-distribution format with no vendor booths or entertainment. Wrong event shape, right community standing. A sponsorship conversation rather than a booking.
+- source: https://www.lehighacrescitizen.com/2023/11/13/rotary-club-of-lehigh-acres-to-once-again-offer-its-free-thanksgiving-community-meal/
+
+### 12. Breweries and food truck parks that host family events
+
+NO RESULTS — second consecutive city, and correct.
+
+No operating brewery, cidery, taproom or food truck park could be verified as physically located
+in Lehigh Acres:
+
+- Southwest FL Brew Crafters (405 Fitch Ave) appears in one directory listing but reads as a
+  HOMEBREW SUPPLY SHOP, not a public taproom — no website, no events, no outdoor space.
+- Florida Ciderworks describes its FOUNDERS as "based in Lehigh Acres," which is a personal
+  residence, not a business address. No taproom here.
+- The food trucks found on Lee Blvd (La Rikera, The Food Twisters, The Family Food Truck, The Fat
+  Cowboys) are INDIVIDUAL MOBILE VENDORS parked at strip-mall plazas — they are vendors, not host
+  venues with outdoor gathering space and an events calendar.
+- Every "brewery near Lehigh Acres" that search surfaced is in Fort Myers or LaBelle.
+
+Coverage caveat: the agent's search budget ran out before Spanish-language mercado and
+flea-market queries could run. Given this city's demographics, an outdoor Hispanic community
+market venue is the most plausible thing that could still exist in this category.
