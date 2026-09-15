@@ -3,7 +3,7 @@
 Mobile foam party service, Lee and Collier counties.
 Packages: Classic $349/60min · Deluxe $449/90min · Commercial and Camps $649/2hr.
 
-Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**, **Bonita Springs**, **Estero**, **Lehigh Acres**.
+Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**, **Bonita Springs**, **Estero**, **Lehigh Acres**, **Fort Myers Beach**.
 
 Research note: this environment's network policy blocks direct page fetches (403 on CONNECT),
 so all records were gathered via web search of the cited source pages rather than by opening
@@ -7137,3 +7137,599 @@ in Lehigh Acres:
 Coverage caveat: the agent's search budget ran out before Spanish-language mercado and
 flea-market queries could run. Given this city's demographics, an outdoor Hispanic community
 market venue is the most plausible thing that could still exist in this category.
+
+---
+
+## Fort Myers Beach
+
+**City context.** Fort Myers Beach (Estero Island) is the smallest city in the grid — roughly 5,600 permanent residents pre-Ian, and fewer now. Hurricane Ian (Sept 2022) destroyed much of the island, and Hurricanes Helene and Milton (Oct 2024) set the recovery back again. **Every organization below was checked for post-storm operating status first**, because a large share of online listings for this city are stale pre-2022 data. Four categories came back thin or empty, and that is the real answer, not a research gap.
+
+**Category redefinition.** The island has no golf or country clubs. The genuine local analog for "country clubs" is **beach resorts with kids' clubs and activity directors**, and that is what was researched under that heading.
+
+**Dedupe note.** Four organizations dominate this island and surfaced in three or four categories each. Each is recorded ONCE, under its strongest-evidence category:
+- **Bay Oaks Recreational Campus** → recorded under *summer and day camps*. Also surfaced under parks and recreation, kids gyms, and birthday venues; the camp program is the actual purchase, so all four agents' findings are merged into that one record.
+- **Pink Shell Beach Resort**, **Margaritaville Beach Resort**, **DiamondHead Beach Resort** → recorded under *country clubs (beach resorts)*. All three also surfaced under condo communities, birthday venues, and (Pink Shell) camps.
+- Consequently **apartment and condo communities returns zero unique records.** This is a finding, not an omission: no traditional residential condo association with a resident social committee or children's programming was found on the island. The only condo entities with real event staff are condo-hotels already recorded as resorts, whose "residents" are vacationing guests.
+
+**Geographic boundary note.** Several businesses carry a "Fort Myers Beach, FL 33931" mailing address but sit on **San Carlos Island** or the mainland approach, in unincorporated Lee County outside the incorporated Town limits. Smugglers Cove Adventure Golf, Doc Ford's Rum Bar, Current Riders Rentals and Sun-N-Fun are flagged individually where this applies. They are still legitimate same-market prospects — Lee County is in the service area — but they are not on Estero Island proper.
+
+**Excluded after verification:**
+- **Lovers Key State Park / Friends of Lovers Key** — runs real kids' camps and shares an 8700 Estero Blvd FMB mailing address, but is a separate barrier island south of Big Carlos Pass, outside Town limits. Worth a look if the scope ever widens.
+- **Chapel by the Sea Presbyterian** — destroyed by Ian; congregation formally DISSOLVED by Peace River Presbytery (confirmed PCUSA News, May 2025). No longer exists.
+- **Outrigger Beach Resort** — destroyed by Ian, sold for $38.2M, demolished 2023; redevelopment plan voted down by the Town planning agency May 2026. Recorded at fit 1 below so it is not re-researched.
+- **Fort Myers Film Festival** — listed on the FMB Chamber's events page but actually held at downtown Fort Myers mainland venues (Sidney & Berne Davis, Alliance for the Arts, iMAG). A chamber misfiling, not an island event.
+- **"La Petite Academy, Fort Myers Beach"** — a CareLuLu listing for a location that does not exist; the chain has no island presence. **"Everglades Day-Safari"** — listed as a daycare in a directory; it is an eco-tour attraction. Both discarded as bad directory data.
+- **Fort Myers Brewing Co. and Point Ybel Brewing** — real, active, family-friendly breweries with food trucks, but mainland Fort Myers, not the island.
+
+### 1. Summer and day camps
+
+### Bay Oaks Recreational Campus (Town of Fort Myers Beach Parks & Recreation)
+- type: summer and day camps
+- city: Fort Myers Beach
+- website: https://www.fortmyersbeachfl.gov/997/Youth-Programs
+- phone: 239-765-4222 (department); 239-765-0202 (Bay Oaks front desk)
+- email: JimmyDemilia@fmbgov.com
+- contact: Jimmy DeMilia, Youth & Teen Coordinator; Neill Mathes, Parks and Recreation Manager; Jeff Hauge, Community Services Director
+- size signal: Town-run campus at 2731 Oak St — gym, 2 ball fields, 4 tennis courts, 3 pickleball courts, basketball court, playground, weight room, disc golf. 2025 summer camp ran 9 weeks (June–August), capped at 20 children per week with 2 lead teachers plus a camp director per session. Camp fee $125/wk resident, $175/wk non-resident. Also runs "Club Rec" before/after-school ($200/semester or $350/year resident).
+- event signal: Strongest on the island. Confirmed 2025 season operated (facility reopened week of June 2, 2025 after Ian repairs — new gym flooring, rebuilt front desk); weight room reopened Aug 5, 2025; memberships reinstated Aug 15, 2025; 2026 summer camp published with 9 weekly sessions 6/8–8/7. Little League field rebuilt with a $50,000 Scotts/MLB grant and reopened by public ceremony Aug 28, 2023. A public reviewer describes hosting a birthday party on site. Advisory board (BORCAB) minutes run through Nov 2025.
+- fit score: 5
+- why: The single best prospect in Fort Myers Beach, and the only one with a named staff contact holding a direct email. Municipal camp, 9 weeks, 20 kids a week, on real grass fields and paved courts rather than beach sand — the physical fit the rest of this island lacks. Commercial and Camps package at $649/2hr is the natural pitch, and municipal buyers are exactly the segment that requires the insured, staffed service no local foam competitor sells. Note the campus is still mid-rebuild and expansion, so confirm current outdoor availability on the call.
+- source: https://www.fortmyersbeachfl.gov/997/Youth-Programs ; https://www.fortmyersbeachfl.gov/DocumentCenter/View/24177/Draft-BORCAB-Minutes-052125 ; https://www.fortmyersbeachtalk.com/news/community-news/2026/02/bay-oaks-recreational-campus-programs-and-schedule/ ; https://www.fortmyersbeachtalk.com/sports/2025/08/weight-room-opens-at-bay-oaks/
+
+### 2. Preschools and daycare centers
+
+**NO RESULTS — and this is a verified finding, not an unsearched cell.** No licensed preschool, daycare, or early learning center was found operating on Estero Island. The two listings that surfaced were both bad data and are documented in the exclusions above (a nonexistent La Petite Academy location, and an eco-tour attraction miscategorized as a daycare). Given the island's ~5,600 mostly retiree and seasonal population and the post-Ian loss of year-round families, zero is the credible answer. Families on the island send children off-island to San Carlos Park and the Fort Myers mainland.
+
+### 3. Church youth programs
+
+### St. Peter Lutheran Church
+- type: church youth programs
+- city: Fort Myers Beach
+- website: https://www.stpeterfmb.com/
+- phone: (239) 463-4251
+- email: stpeterfmb@gmail.com
+- contact: unknown
+- size signal: Small congregation, ~50 years on the island, at 3751 Estero Blvd. Weekly Sunday service 9:00 AM. Building fully renovated and rededicated by Bishop Pedro Suarez on Nov 23, 2025, after 2.5 years of worshipping in a tent in the parking lot.
+- event signal: None found specific to youth. The site references education programs "for all ages," implying Sunday school, but no dated youth event, VBS, or confirmation schedule could be verified. Hosted an adult mental health support group during recovery.
+- fit score: 2
+- why: Verified operating with a rebuilt building and good public contact info, but capped at 2 under the no-event-evidence rule. The Nov 2025 rededication suggests a congregation in a celebrating, rebuilding mood — worth one call to ask whether they run anything for children.
+- source: https://www.stpeterfmb.com/contact ; https://www.winknews.com/fort-myers-beach-church-reopens-3-years-after-hurricane-ian-devastation
+
+### St. Raphael's Church (Episcopal)
+- type: church youth programs
+- city: Fort Myers Beach
+- website: https://www.straphaelschurch.org/
+- phone: unknown
+- email: unknown
+- contact: Mother Gail Tomei
+- size signal: 60+ year presence on the island, 5601 Williams Dr. Sanctuary took roughly 7 feet of floodwater in Ian, was fully renovated with hurricane-ready features, and reopened to a packed congregation around Oct 2025. Sunday service 10:00 AM.
+- event signal: None found for youth or children. An adult Wednesday Zoom Bible study and informal neighborhood get-togethers are the only programming located.
+- fit score: 2
+- why: Real, rebuilt, operating congregation, but no youth evidence and no phone or email surfaced — weakest contact data of the three. Do not confuse with St. Raphael Catholic Church and its Life Teen program, which is a different parish elsewhere and was excluded.
+- source: https://www.straphaelschurch.org/about-us ; https://www.winknews.com/fort-myers-beach-church-reopens-3-years-after-hurricane-ian-devastation
+
+### Beach Baptist Church
+- type: church youth programs
+- city: Fort Myers Beach
+- website: https://beachbaptist.org/
+- phone: (239) 463-6452
+- email: unknown
+- contact: Pastor Shawn Critser; Pastor Mallie
+- size signal: Nearly 4-acre parcel at 130 Connecticut St, but the church building was demolished in 2023/24 after Ian damage. Town Council approved only the FIRST reading of a development order for a combined church and workforce-housing rebuild in Oct 2025, with a second hearing set for Nov 3, 2025. The congregation describes itself as "currently scattered, yet united," meeting online and at pop-up in-person locations announced via social media.
+- event signal: Pre-Ian and early-recovery mentions of youth events, a food pantry and a fair-trade coffee shop, but nothing current (2025–2026) could be verified.
+- fit score: 1
+- why: **No standing building on the island right now.** The congregation and the land are real and the rebuild is moving through approvals, but there is no physical campus to host anything on. Recorded so the lead is not lost — re-check once the rebuild completes.
+- source: https://www.fortmyersbeachtalk.com/news/community-news/2025/10/council-moves-forward-beach-baptist-rebuild-and-residential-home-development-plans/ ; https://beachbaptist.org/
+
+### 4. Schools and PTOs
+
+### Fort Myers Beach Elementary School PTO
+- type: schools and PTOs
+- city: Fort Myers Beach
+- website: unknown (PTO maintains its own page, a Square site, and a Facebook group)
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: The school was Lee County's smallest at roughly 63 students.
+- event signal: **The campus is not operating.** Status chain, fully sourced: damaged by Ian (Sept 2022) → rebuilt for $8M and reopened Dec 2023 → closed again in fall 2024 after Helene and Milton flood damage and a failed architectural review → students bused off-island to San Carlos Park, then Heights Elementary → in **May 2026 the Lee County School Board voted to transfer the campus to the Town of Fort Myers Beach** to reopen as a charter school within three years. Town Council has been publicly pressing the district to reopen it, and the district has offered no funds. The PTO itself still exists as an organization.
+- fit score: 2
+- why: The PTO is a real, still-organized entity, but **there is no operating school campus physically located in Fort Myers Beach.** Until the charter conversion happens there is no student body on the island to throw a field day for. This is the clearest single illustration of why this city's counts are low. Re-check after the charter opens.
+- source: https://www.fortmyersbeachtalk.com/news/community-news/2026/05/lee-county-school-board-votes-to-give-fort-myers-beach-elementary-school-for-charter-school/ ; https://www.fortmyersbeachtalk.com/news/community-news/2025/05/at-emergency-meeting-town-council-calls-on-manager-and-attorney-to-ensure-beach-elementary-school-will-reopen/ ; https://www.fortmyersbeachtalk.com/news/community-news/2026/04/fort-myers-beach-manager-says-school-district-offering-no-funds-for-school/
+
+### 5. Municipal parks and recreation
+
+**Jurisdiction note.** Fort Myers Beach is an incorporated town with its own Culture, Parks & Recreation Department — a separate budget and procurement path from Lee County Parks, which independently runs Lynn Hall, Crescent Beach, Bowditch Point and Matanzas Pass on the same island. Two different buyers, two different sales calls.
+
+### Crescent Beach Family Park (Lee County Parks & Recreation)
+- type: municipal parks and recreation
+- city: Fort Myers Beach
+- website: https://www.visitfortmyers.com/beaches/crescent-beach-family-park
+- phone: 239-229-1610 (also Lee County Parks main line 239-533-7275)
+- email: leeparks@leegov.com
+- contact: unknown
+- size signal: County-operated 2.25-acre beachfront park at 1100 Estero Blvd, at the foot of the Matanzas Bridge — restrooms, showers, pavilions, four beach access points.
+- event signal: **Confirmed REOPENED July 29, 2026** after a six-month Ian-related overhaul: new shade structures, native plantings, a grassy central area, and an ADA beach access route. A dated 2026 reopening with fresh pavilion infrastructure.
+- fit score: 4
+- why: Freshly reopened with rebuilt shade and pavilion infrastructure, a real grassy central area rather than pure sand, and verified county contact info. Jurisdiction is Lee County, so it goes through leeparks@leegov.com, not the Town. No pool or splash pad is the only gap against the pattern that worked in other cities.
+- source: https://deeparrival.com/news/fort-myers-beach-crescent-beach-reopens-july-29-2026/ ; https://www.wgcu.org/government-politics/2026-01-20/restoration-efforts-for-crescent-beach-family-park-beginning-on-fort-myers-beach
+
+### Fort Myers Beach Community Pool (Town of Fort Myers Beach)
+- type: municipal parks and recreation
+- city: Fort Myers Beach
+- website: https://www.fortmyersbeachfl.gov/110/Fort-Myers-Beach-Community-Pool
+- phone: 239-765-0202 ext. 1851
+- email: unknown
+- contact: Town Parks & Rec chain of command — Neill Mathes, Parks and Recreation Manager
+- size signal: Town-operated pool at 2600 Oak St, directly adjacent to the Bay Oaks campus — water slide, kiddie pool, a "water works" splash play area, swim lessons and fitness classes.
+- event signal: Confirmed reopened and operating post-Ian, with a town civic alert announcing extended hours. **No pavilion-rental program tied to the pool could be confirmed either way** — this is the gap to close by phone.
+- fit score: 3
+- why: Structurally the best match on the island to the pool-plus-splash-pad-plus-rentable-pavilion pattern that produced good prospects in Cape Coral and Lehigh Acres, and it is Town-operated so it pairs with the Bay Oaks relationship. Held at 3 only because the rentable-pavilion half of that pattern is unverified here.
+- source: https://www.fortmyersbeachfl.gov/110/Fort-Myers-Beach-Community-Pool ; https://www.fortmyersbeachfl.gov/CivicAlerts.aspx?AID=610&ARC=1621
+
+### Lynn Hall Memorial Park (Lee County Parks & Recreation)
+- type: municipal parks and recreation
+- city: Fort Myers Beach
+- website: https://www.leegov.com/parks/beaches/lynnhall
+- phone: 239-533-7275
+- email: leeparks@leegov.com
+- contact: unknown
+- size signal: County beachfront park at 950 Estero Blvd beside the Fort Myers Beach Pier and Times Square — picnic shelters, a large playground, restrooms and changing facilities. Highest-traffic location on the island.
+- event signal: Lee County commissioners approved a roughly $6M contract with Wright Construction Group in Dec 2025 to replace ADA boardwalks and rebuild three 625 sq ft picnic shelters. Ongoing county investment, but **the shelters were still under construction as of the most recent reporting.**
+- fit score: 3
+- why: Real pavilions and the busiest foot traffic on the island, but the shelters are not yet available and there is no pool or splash pad. Timing prospect — worth a call once the rebuild delivers.
+- source: https://www.leegov.com/parks/beaches/lynnhall ; https://www.fortmyersbeachtalk.com/news/community-news/2025/12/county-commissioners-approve-contracts-for-lynn-hall-memorial-park-restrooms-crescent-beach-family-park-work/
+
+### Newton Beach Park (Town of Fort Myers Beach)
+- type: municipal parks and recreation
+- city: Fort Myers Beach
+- website: https://www.fortmyersbeachfl.gov/1128/Newton-Beach-Park
+- phone: 239-765-0865
+- email: moundhouse@fmbgov.com
+- contact: unknown (managed via Mound House / Town Parks Dept.)
+- size signal: Town beachfront park at 4650 Estero Blvd with a historic 1953 cottage, two tiki huts, gazebos, picnic tables, outdoor showers, restrooms and parking.
+- event signal: Only recurring program found is a free Tuesday/Thursday 9 AM beach-walk nature series. Listings call the grounds "perfect for gatherings" but no booking process or fee schedule was found.
+- fit score: 2
+- why: Right jurisdiction and a scenic setting, but this is primarily a **sand** beach park — the landscaped gazebo and tiki-hut area is small and sits against public beach access. Sand is a poor foam surface and public access makes containment hard. No water feature, no verifiable rental program.
+- source: https://www.fortmyersbeachfl.gov/1128/Newton-Beach-Park ; https://www.fortmyersbeach.org/member/newton-park/
+
+### Mound House (Town of Fort Myers Beach)
+- type: municipal parks and recreation
+- city: Fort Myers Beach
+- website: https://www.moundhouse.org
+- phone: 239-765-0865
+- email: moundhouse@fmbgov.com
+- contact: unknown
+- size signal: Town-operated historic and cultural museum and environmental learning center at 451 Connecticut St, built over a 2,000-year-old Calusa shell mound. Open and running regular programs into 2026.
+- event signal: The Town site confirms the property is available for special event rental, but the offering is aimed at weddings and private garden events. No children's birthday or family-party package found.
+- fit score: 1
+- why: Operating and rentable, but a foam party on an **archaeological site** is a poor fit on both venue character and almost certainly site-preservation rules. Recorded to close the question, not to pursue.
+- source: https://www.fortmyersbeachfl.gov/609/Culture-Parks-Recreation ; https://www.moundhouse.org
+
+### 6. Country clubs — redefined for this city as beach resorts with kids' clubs and activity staff
+
+### Margaritaville Beach Resort Fort Myers Beach
+- type: country clubs (beach resort with kids' club)
+- city: Fort Myers Beach
+- website: https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach
+- phone: 239-899-4001 (front desk); **239-899-4068 (events and sales)**
+- email: sales@margaritavilleftmyersbeachresort.com
+- contact: unknown by name; "Fins Up! Beach Club" is the branded family activity zone
+- size signal: The largest post-Ian new build on the island, 251 Crescent St — opened Dec 2023, fully back online Oct 2024 after Milton. 254 guestrooms and suites plus the "One Particular Harbour" condominium tower. Multiple dining venues, a dedicated events sales line, and event capacity up to 150 guests in the Compass Rose Ballroom plus Sunset Terrace.
+- event signal: Very strong and current. Recurring weekly family programming — Lost Shaker of Salt scavenger hunt (Wed/Sat), Seashell Discovery Beach Walk (Thu 9 AM), Sunday cornhole tournament, weekly trivia/karaoke/bingo at Lah De Dah Beach Bar. Paid kids' cabanas for ages 3–12 at $12. Events are stated as open to the public, not just hotel guests. Dedicated Meetings & Events team with beachfront event spaces.
+- fit score: 5
+- why: Newest, largest and best-staffed property on the island, with a professional events team reachable on a direct line and confirmed 2025–2026 family programming. Critically, the **Sunset Terrace and Fins Up! pool deck are paved hardscape, not sand** — pitch those specifically. A $7,500 F&B minimum is cited for evening events, so the realistic play is a foam add-on to an already-booked private event or a resort-run family day, not a standalone booking.
+- source: https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/events ; https://www.margaritavilleresorts.com/margaritaville-beach-resort-fort-myers-beach/things-to-do/resort-activities ; https://prioritymarketing.com/margaritaville-beach-resort-fort-myers-beach-announces-full-reopening/
+
+### Pink Shell Beach Resort & Marina
+- type: country clubs (beach resort with kids' club)
+- city: Fort Myers Beach
+- website: https://www.pinkshell.com/group-events/
+- phone: (239) 463-6181; (888) 222-7465 reservations
+- email: info@pinkshell.com
+- contact: unknown (group sales team); managed by Boykin Management Company
+- size signal: 12-acre beachfront resort at 275 Estero Blvd — three condo buildings (White Sand Villas, Captiva Villas, Sanibel View), roughly 180–192 condominium units, three resort pools, an on-site marina. Reopened to guests March 2023, all amenities back by 2024, still investing (~$3M in 2026 spa and suite upgrades). Group events program cites 37,000 sq ft of venue space, a 3,500 sq ft function space and two ballrooms up to 150 guests.
+- event signal: Very strong. Named, staffed kids' club — **"Sparky's Kidds Kampp,"** a drop-off day camp for ages 4–12 with crafts, beach and pool games and fishing, requiring 24-hour advance registration because space is limited. An "Octopool" splash area for kids. A live "Book Resort Activities" page with a bookable calendar. The group-events page describes the pool deck as "ideal for casual outdoor receptions and theme parties."
+- fit score: 5
+- why: The only property on the island with a **branded, staffed kids' club plus a booking system** — that is the exact buyer profile for recurring seasonal bookings rather than one-offs. Their own marketing language already names theme parties on the pool deck, which is paved. Pitch the pool deck, not the beachfront tent option. Note this is a condo-hotel: the children present are vacationing guests on a rotating basis, so think repeat weekly slot rather than one big group.
+- source: https://www.pinkshell.com/group-events/ ; https://www.pinkshell.com/experience/family-activities/ ; https://www.pinkshell.com/Find-Book-Activities ; https://www.wgcu.org/section/hurricanerecovery/2023-02-26/pink-shell-reopens
+
+### Lani Kai Island Resort
+- type: country clubs (beach resort)
+- city: Fort Myers Beach
+- website: https://lanikaiislandresort.com/events/
+- phone: 239-463-1110 ext. 2026
+- email: Events@thelanikai.com
+- contact: Colleen (events)
+- size signal: 400-foot beachfront resort in the island's north-end entertainment district with Gulf and Back Bay access — 3 restaurants, 7 bars, heated pool. Badly damaged by Ian, reopened floor by floor from Dec 2024, rooftop Sundeck venue reopened Nov 2025, now described as fully reopened.
+- event signal: The events page **explicitly states they customize parties for birthdays, anniversaries and graduations**, with both Back Bay and Gulf-side space. A named events contact with a direct extension and email.
+- fit score: 4
+- why: **Reconciled between two agents** — the resorts pass scored this 3 on adult-nightlife positioning, the birthday-venues pass scored it 4 for explicitly naming birthday parties as a bookable type. Kept at 4: naming birthdays in their own marketing plus a named contact with a working email is harder evidence than a brand impression. The nightlife skew is real and noted, so aim at the Back Bay side, which is likelier to have usable non-sand space.
+- source: https://lanikaiislandresort.com/events/ ; https://www.weddingwire.com/biz/lani-kai-island-resort-fort-myers-beach/0564970a09e4d7f0.html ; https://www.wfla.com/news/florida/iconic-fort-myers-beach-resort-lani-kai-reopens-after-hurricane-ian/
+
+### DiamondHead Beach Resort
+- type: country clubs (beach resort)
+- city: Fort Myers Beach
+- website: https://www.diamondheadfl.com/events
+- phone: (239) 765-7654 front desk; (844) 652-3696 / (866) 891-2472 reservations
+- email: diamondhead@sunstream.com
+- contact: unknown
+- size signal: 121-suite all-suite beachfront high-rise at 2000 Estero Blvd, managed by Sunstream Hotels. One of the earliest island properties to reopen post-Ian, with sold-out weeks reported and only minor ground-floor renovations since; beach renourishment completed March 2024.
+- event signal: Moderate. Markets indoor and outdoor banquet facilities, sells discounted kids' day passes at $20 for ages 3–13, and offers babysitting — real evidence of a family audience. Hosts the American Sand Sculpting Championship each November and has been the site of the Fort Myers Beach Women's Club Easter Egg Hunt. But no named activities director, kids' club brand, or birthday package was found.
+- fit score: 3
+- why: Family day-pass pricing and a willingness to host large outside events are genuine signals, but the programming is banquet-and-meeting shaped rather than kids-club shaped. Solid secondary call. The Sand Sculpting relationship is the more interesting angle — see the festivals category.
+- source: https://www.diamondheadfl.com/events ; https://www.fortmyersbeachtalk.com/news/business/2024/03/diamondhead-beach-resort-rebuilds-its-sand/ ; https://fun4swflkids.com/Fun-Around-Town/Swimming-Pools/Fort-Myers-Beach-Resorts-Day-Passes/View-details
+
+### Fort Myers Yacht & Beach Club (at Pink Shell)
+- type: country clubs (private beach and social club)
+- city: Fort Myers Beach
+- website: https://www.pinkshell.com/fort-myers-yacht-beach-club/membership-features
+- phone: (866) 976-6681
+- email: unknown
+- contact: unknown
+- size signal: Private membership social club co-located with Pink Shell on its 12 acres — docking, pools, spa and fitness access.
+- event signal: Moderate, and entirely inherited. Shares Pink Shell's pool and beach infrastructure but has no kids' club or events director distinct from the resort.
+- fit score: 3
+- why: A genuinely separate membership entity with its own line, so worth recording, but it is the same physical plant as Pink Shell with a narrower, membership-only, adult-skewing audience. **Treat as secondary to the Pink Shell record above, not a parallel target** — one call to Pink Shell group sales likely covers both.
+- source: https://www.pinkshell.com/fort-myers-yacht-beach-club/yacht-club ; https://www.pinkshell.com/fort-myers-yacht-beach-club/membership-inquiry
+
+### Edison Beach House
+- type: country clubs (small all-suite beachfront property)
+- city: Fort Myers Beach
+- website: https://edisonbeachhouse.com/
+- phone: (239) 356-1483; 1-800-399-2511
+- email: unknown
+- contact: unknown
+- size signal: Small all-suites boutique property at 830 Estero Blvd, condo-style with kitchens and laundry in each unit. Confirmed operating in 2025 via current guest reviews and active booking sites.
+- event signal: Weak. One outdoor waterfront pool and general family-friendly marketing; no kids' club, activities calendar, or events team.
+- fit score: 2
+- why: Too small and under-programmed to support a booking — no activities staff and no events function. Low priority.
+- source: https://edisonbeachhouse.com/contact-us/ ; https://www.tripadvisor.com/Hotel_Review-g34231-d251949-Reviews-Edison_Beach_House-Fort_Myers_Beach_Florida.html
+
+### Fort Myers Beach Yacht Club
+- type: country clubs (member-run boating club)
+- city: Fort Myers Beach
+- website: unknown
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Member-run recreational boating club formed 1953, roughly 130 members and 70 boats, with a year-round activity schedule.
+- event signal: Weak. Community-oriented social activities, but no pool, no children's programming, and it appears entirely volunteer-run with no paid events staff.
+- fit score: 1
+- why: No verifiable public contact information of any kind and no infrastructure or kids signal. Recorded only to close out the "any yacht or beach club" question so it is not re-researched.
+- source: https://sail-clubs.com/en/i/1402/United-States/Florida/Fort-Myers-Beach/Sailing-Yacht-Club/Fort-Myers-Beach-Yacht-Club
+
+### Outrigger Beach Resort — PERMANENTLY GONE
+- type: country clubs (beach resort) — DOES NOT EXIST
+- city: Fort Myers Beach
+- website: unknown (legacy outriggerfmb.com no longer reflects an operating property)
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: The original 144-room Outrigger was destroyed by Ian in 2022, sold for $38.2M, and demolished in 2023.
+- event signal: None. No operating property, no staff, no bookable venue.
+- fit score: 1
+- why: **Confirmed not a viable prospect.** As of May 2026 the Fort Myers Beach planning agency voted against redeveloper London Bay's mixed-use hotel and condo plan, so the parcel remains undeveloped and contested. Recorded because Outrigger still appears in stale directory listings for this island — this entry exists to stop it being chased again.
+- source: https://www.wgcu.org/top-story/2026-05-12/fort-myers-beach-planning-agency-votes-against-outrigger-beach-resort-plan ; https://www.fortmyersbeachtalk.com/news/business/2023/10/outrigger-demolished/
+
+### 7. Apartment and condo communities with event staff
+
+**NO UNIQUE RECORDS — a structural finding, not a gap.** See the dedupe note at the top of this city. Fort Myers Beach has no traditional residential condo or apartment community with a resident social committee or children's events programming. The island's permanent population skews retiree and seasonal, and the buildings that do have activities staff (Pink Shell, Margaritaville's One Particular Harbour tower, DiamondHead) are condo-hotels recorded under beach resorts, where the children are vacationing guests rather than residents. Buildings checked and rejected for zero event signal: Carlos Pointe, Sandpiper Gulf Resort, and Estero Beach & Tennis Club — the last being effectively age-restricted for renters at 25+.
+
+### 8. Birthday party venues
+
+**Most of this category deduped into resorts and parks.** Margaritaville, Pink Shell, Lani Kai, DiamondHead, Bay Oaks, Newton Beach Park and Mound House all surfaced here and are recorded in their stronger categories above; the birthday-specific evidence found for each is folded into those records. One unique record remains.
+
+### Smugglers Cove Adventure Golf
+- type: birthday party venues
+- city: Fort Myers Beach (San Carlos Island — see boundary note)
+- website: https://www.smugglersgolf.com
+- phone: 239-466-5855
+- email: unknown
+- contact: unknown
+- size signal: Adventure mini-golf attraction at 17450 San Carlos Blvd, zip 33931. Reviews and listings active through 2026, indicating continuous operation straight through the storms.
+- event signal: The strongest explicit birthday signal found in this city — a dedicated **"Birthday Package"** page plus a "Group Outings/Parties" program with a reservable party area, deposit-based booking and per-person pricing.
+- fit score: 4
+- why: A business that already sells birthday parties, with a **paved and turf party area rather than beach sand** — the physical fit most of this island cannot offer. Boundary caveat: the 33931 mailing address is Fort Myers Beach, but 17450 San Carlos Blvd sits on San Carlos Island in unincorporated Lee County, outside the incorporated Town. Still squarely in the service area and worth calling; just don't count it as Estero Island proper.
+- source: https://www.smugglersgolf.com/birthday-package ; https://www.smugglersgolf.com/parties-groups ; https://www.fortmyersbeachfl.gov/DocumentCenter/View/17852/Charter--REVISED-w-links
+
+### 9. Party and event rental companies (PARTNERS)
+
+**Category note.** The beach-event economy here is different from the mainland cities. Instead of tent-and-table rental yards, Fort Myers Beach runs on **beach gear rental shops and beach wedding and picnic staging companies** — businesses that put visiting families on the sand every day and have zero entertainment inventory of their own. That is a cleaner partner profile than the mainland rental companies, because there is no chance of competing on product. None of the companies below sells foam, inflatables or bounce houses. Known competitors (Gator Bounce, Bounce Bros, SWFL Amusements, M&K/Beyond Foam) and already-recorded partners (Taylor Rental / Creative Events, Caloosa Tent, AB Event Rentals, Party Time) were not re-researched.
+
+### Luxe Coastal Beach Weddings
+- type: party and event rental companies
+- city: Fort Myers Beach
+- website: https://www.luxecoastalbeachweddings.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Small boutique collective, photographer-owned, assembling chairs, arch and decor, aisle staging, photography, officiant and setup/breakdown into all-inclusive beach weddings and elopements. Active Instagram and Facebook presence, page geo-tagged Fort Myers Beach FL.
+- event signal: Stages private outdoor events on this island continuously. **Zero entertainment inventory of any kind** — no inflatables, no games, no foam.
+- fit score: 5
+- why: Genuinely island-based, puts wedding parties and visiting families on the beach as its core business, and has an obvious hole in its offer where a post-ceremony or family-celebration foam moment would sit. Best partner-shaped lead in this city. Contact details are the weakness — no phone or email published, so the approach is through the website form or social DM.
+- source: https://www.luxecoastalbeachweddings.com/ ; https://zola.com/wedding-vendors/wedding-planners/luxe-coastal-beach-weddings--2 ; https://www.facebook.com/p/Luxe-Coastal-Beach-Weddings-61563466220827/
+
+### Holiday Water Sports (Fort Myers Beach)
+- type: party and event rental companies
+- city: Fort Myers Beach
+- website: https://holidaywatersportsfmb.com/
+- phone: (239) 765-4386 Pink Shell; (239) 765-2252 DiamondHead; (239) 463-6778 Best Western
+- email: info@holidaywatersportsfmb.com
+- contact: unknown
+- size signal: **Three operating locations on the island** — inside Pink Shell, DiamondHead and Best Western. Beach chairs, umbrellas, cabanas, kayaks, SUP, sailboats, parasailing, WaveRunners and guided dolphin tours. Active listings through mid-2026.
+- event signal: Books group activities for resort guests daily. No inflatable or foam offering.
+- fit score: 4
+- why: Largest footprint of any recreation operator on the island and — the useful part — it is **physically embedded inside two of the resorts already recorded as fit-5 prospects.** A partnership here is a second door into Pink Shell and DiamondHead, not just a referral channel.
+- source: https://holidaywatersportsfmb.com/beach-rentals/chairs-umbrellas-cabanas/ ; https://www.fortmyersbeach.org/member/holiday-water-sportsft-myers-beach/
+
+### SHADED (Shaded LLC)
+- type: party and event rental companies
+- city: Fort Myers Beach
+- website: https://shadedrentals.com/
+- phone: (239) 245-4351
+- email: FMB@shadedrentals.com
+- contact: unknown
+- size signal: Two-location operation covering Fort Myers Beach and Sanibel, with daily delivery 9 AM–5 PM. Umbrellas, chairs, chaise loungers, canopies, paddleboards and beach wheelchairs. Active listings as of Feb 2026 confirming post-Ian operation.
+- event signal: Delivery infrastructure already reaching families on the beach every day. No entertainment product.
+- fit score: 4
+- why: Has the one thing a foam operator needs from a partner — **a delivery route that already runs daily to family groups**, plus a dedicated FMB email address that goes straight to the island branch. Multi-location reach extends to Sanibel if the service area ever widens.
+- source: https://shadedrentals.com/ ; https://www.fortmyersbeach.org/member/shaded-llc/
+
+### Current Riders Rentals
+- type: party and event rental companies
+- city: Fort Myers Beach (19050 San Carlos Blvd — see boundary note)
+- website: https://www.currentridersfmb.com/
+- phone: (833) 743-2787
+- email: unknown
+- contact: unknown
+- size signal: Physical storefront at 19050 San Carlos Blvd, open 7 days 9 AM–3 PM; also operates the currentriders.com surf shop. Confirmed current via a Feb 2026 listing.
+- event signal: Beach chairs, kayaks, SUPs, e-bikes, wind-resistant tents, coolers. No inflatable, bounce house or foam offering.
+- fit score: 4
+- why: Established storefront serving vacationing families seven days a week, with no competing entertainment product — a natural referral point when groups ask what else there is to do. Same San Carlos Blvd boundary caveat as Smugglers Cove.
+- source: https://www.currentridersfmb.com/all-beach-equipment-rentals/ ; https://www.fortmyersbeach.org/member/current-riders/
+
+### Fort Myers Beach Sun-N-Fun Sport Rentals
+- type: party and event rental companies
+- city: Fort Myers Beach
+- website: https://fmbsunandfunsportrentals.com/
+- phone: (239) 233-1046
+- email: info@fmbsunandfunsportrentals.com
+- contact: unknown
+- size signal: Storefront at 1821 Estero Blvd, on the island proper. Markets itself as the only golf cart, bicycle and scooter rental company on the beach. Active Chamber member.
+- event signal: Golf carts, bikes, scooters, beach chairs, umbrellas, coolers, beach carts. No entertainment inventory.
+- fit score: 4
+- why: On-island storefront with a claimed monopoly niche and daily face-to-face contact with vacationing families, plus a published email. The golf-cart angle is also practically useful — this is the island's transport business, and foam gear has to get down Estero Blvd somehow.
+- source: https://fmbsunandfunsportrentals.com/contact/ ; https://www.fortmyersbeach.org/member/sun-n-fun-sport-rentals/
+
+### Platinum Florida Wedding Company
+- type: party and event rental companies
+- city: Fort Myers (mainland office; runs a dedicated Fort Myers Beach package)
+- website: https://www.platinumbeachweddings.com/bowditch-beach-wedding
+- phone: (239) 217-3197
+- email: unknown
+- contact: unknown
+- size signal: 17+ years in business, office at 1400 Colonial Blvd Suite 253, Fort Myers. BBB profile and review platforms active through Dec 2025. Service area spans Fort Myers Beach, Bowditch Point, Sanibel, Naples and Marco Island.
+- event signal: All-inclusive beach ceremony, decor and photography packages, including a **dedicated Bowditch Beach (Fort Myers Beach) wedding package**. No entertainment inventory.
+- fit score: 3
+- why: Runs real volume of actual Fort Myers Beach ceremonies with no competing product, but the mainland office and five-city footprint put it a step further from the island than the on-island shops above. Its multi-city reach is the upside — this one partner touches Naples and Marco Island too.
+- source: https://www.platinumbeachweddings.com/bowditch-beach-wedding ; https://www.bbb.org/us/fl/fort-myers/profile/wedding-consultant/platinum-florida-wedding-company-llc-0653-90092420
+
+### SWFL Picnic Co
+- type: party and event rental companies
+- city: Fort Myers (markets to Naples, Fort Myers Beach and Estero)
+- website: https://www.swflpicnicco.com/
+- phone: 703-472-3037
+- email: bookings@swflpicnicco.com
+- contact: unknown
+- size signal: Luxury beach and outdoor picnic setups, table styling, party cart rentals, bachelorette decor and event planning. Active business pages and a standalone pricing page. Featured in a Gulfshore Life piece on the luxe picnic trend across SWFL. **Also found operating as picnicsociety.co with an identical tagline — likely the same operator on two domains, unverified.**
+- event signal: Stages private outdoor events for visiting families and groups. No entertainment inventory.
+- fit score: 3
+- why: Same client base, no competing product, and a published booking email. Held at 3 because its home base and Fort Myers Beach specificity are less certain than the on-island shops, and the two-domain question is unresolved — clarify which entity you are talking to before agreeing anything.
+- source: https://www.swflpicnicco.com/ ; https://picnicsociety.co/contactus ; https://gulfshorelife.com/guest-list/the-luxe-picnic-party-trend-takes-over-swfl/
+
+### Picnic Goals
+- type: party and event rental companies
+- city: Fort Myers / Estero (Fort Myers Beach not explicitly named)
+- website: https://www.picnicgoals.com/
+- phone: unknown
+- email: unknown
+- contact: Danielle Bernstein and Marc Houston (owners)
+- size signal: Registered in Fort Myers 33966, with an e-commerce style booking site. Styled luxury picnic experiences with decor, games and snacks; selects beach locations for clients.
+- event signal: Stages outdoor events at beach locations. No entertainment inventory.
+- fit score: 3
+- why: Same no-inventory picnic-styling model as SWFL Picnic Co, but **its stated service area does not explicitly include Fort Myers Beach** — recorded here with lower confidence on the city criterion. Owners are named, which helps, but no direct phone or email surfaced.
+- source: https://www.picnicgoals.com/ ; https://www.picnicbooking.com/l/6790ac92-efd5-4c8d-a4c4-f3c7519133a2
+
+### 10. Kids gyms and youth sports leagues
+
+**No standalone kids gym, martial arts studio, dance studio or swim school was found based on the island.** Edison Sailing Center is mainland Fort Myers and was excluded. Bay Oaks is recorded under camps. Two records remain.
+
+### Fort Myers Beach Little League
+- type: kids gyms and youth sports leagues
+- city: Fort Myers Beach
+- website: unknown (Facebook @FMBLittleLeague; Active.com org listing)
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Listed at 2600 Oak St, adjacent to Bay Oaks, where it plays on the campus ballfield.
+- event signal: Field destroyed by Ian, rebuilt with a $50,000 Scotts/MLB refurbishment grant, reopened by public ceremony Aug 28, 2023. Facebook page active. No 2024–2026 season or registration news surfaced beyond the reopening.
+- fit score: 3
+- why: A real league with a rebuilt home field on the island, and end-of-season parties are a natural foam fit — but the documented evidence is mostly the 2023 reopening, and there is no direct contact info. **Practical route in is through Bay Oaks** (Jimmy DeMilia, Youth & Teen Coordinator), since the league plays on the town's field.
+- source: https://www.fortmyersbeachtalk.com/2023/08/22/fort-myers-beach-little-league-to-hold-ceremony-for-ballfield-reopening/ ; https://www.active.com/orgs/fort-myers-beach-little-league
+
+### Fort Myers Beach Soccer Club
+- type: kids gyms and youth sports leagues
+- city: Fort Myers Beach (registered); plays off-island
+- website: https://fmbsoccer.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Registered with Florida Sunbiz as "Fort Myers Beach Soccer League, Inc." at 108 Bay Mar Drive, Fort Myers Beach 33931. Fields competitive and recreational teams across U10–U19 boys age groups.
+- event signal: Held 2024/2025 competitive tryouts in May 2024 — but the tryout and practice location cited was **Kelly Rd Soccer Complex on the mainland**, consistent with the island's own fields still being rebuilt.
+- fit score: 2
+- why: Legally based on the island with confirmed 2024 activity, but its games and practices actually happen on mainland fields, which makes it a weak on-island booking. If pursued, pitch it as a mainland Fort Myers job that happens to have an island-registered client.
+- source: https://fmbsoccer.com/ ; https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&searchNameOrder=FORTMYERSBEACHSOCCERLEAGUE+N070000064560
+
+### 11. Festival and community event organizers
+
+**This is the strongest category in Fort Myers Beach**, and the reason is worth noting: a 5,600-person island that hosts events drawing 15,000+ people has an event economy far out of proportion to its residential base. The buyers here are tourism organizations, not parents.
+
+### American Sand Sculpting Championship
+- type: festival and community event organizers
+- city: Fort Myers Beach
+- website: https://www.fmbsandsculpting.com/
+- phone: (239) 454-7500
+- email: events@fmbchamber.com
+- contact: Jacki Liszak, President, Fort Myers Beach Chamber of Commerce
+- size signal: **15,000+ attendees in 2025** (35th annual), a five-day event held at DiamondHead Beach Resort. Presented by the FMB Chamber with The Sand Lovers LLC and DiamondHead.
+- event signal: Confirmed active post-Ian and on-island. 35th annual ran Nov 20–24, 2025; **36th annual already announced for Nov 19–23, 2026.** Includes a Saturday Amateur Contest explicitly open to kids, adults, families and businesses, live entertainment, food and beverage vendors, and a **live vendor application page**.
+- fit score: 5
+- why: Largest verified attendance figure in this city by an order of magnitude, explicit family and kids programming, a dated 2026 edition already on the calendar, and an existing vendor application process — meaning there is a defined, open way in rather than a cold pitch. Highest-value sponsorship or vendor target on the island. Note it is hosted at DiamondHead, which is already a recorded prospect — one conversation can serve both.
+- source: https://www.fmbsandsculpting.com/2025-vendors/ ; https://www.floridaweekly.com/articles/fort-myers-ae/the-35th-annual-american-sand-sculpting-championship-returns-to-fort-myers-beach/ ; https://www.fortmyersbeachtalk.com/news/community-news/2025/11/one-more-week-to-american-sand-sculpting-championship/
+
+### Fort Myers Beach Lions Club — Shrimp Festival
+- type: festival and community event organizers
+- city: Fort Myers Beach
+- website: https://fortmyersbeachshrimpfestival.com/
+- phone: (239) 634-3887
+- email: secretary@fmblions.com
+- contact: Lion Diane Clifton, Expo Chairman
+- size signal: **69th annual in 2026** — the island's longest-running community event. A full weekend plus a week-long "Shrimp Crawl," drawing island-wide crowds.
+- event signal: Confirmed active post-Ian and held on-island: 2025 on Mar 8–9, 2026 on Mar 7–8. Parade, 5K, Blessing of the Fleet, arts and crafts fair, shrimp-eating contest, and an explicit **Kids Shrimp Run**. Live vendor application page.
+- fit score: 4
+- why: Verified recurring family festival with an active vendor pipeline, explicit kids programming and a named contact with a direct phone. No dedicated kids' zone with inflatables was found, which is precisely the opening — pitch adding one rather than joining one. Spring timing complements the November Sand Sculpting event nicely.
+- source: https://fortmyersbeachshrimpfestival.com/vendor-application/ ; https://www.fortmyersbeachtalk.com/news/community-news/2026/03/fort-myers-beach-shrimp-festival-returns-this-weekend/ ; https://www.fortmyersbeachtalk.com/news/community-news/2026/02/kids-shrimp-run-gets-shrimp-festival-going-this-saturday/
+
+### Greater Fort Myers Beach Area Chamber of Commerce
+- type: festival and community event organizers
+- city: Fort Myers Beach
+- website: https://www.fortmyersbeach.org/events/
+- phone: (239) 454-7500
+- email: info@fmbchamber.com; events@fmbchamber.com
+- contact: Jacki Liszak, President
+- size signal: The umbrella nonprofit behind or beside most recurring island events — Sand Sculpting Championship, Shrimp Festival support, Wings on the Beach, the Christmas Boat Parade, plus member events.
+- event signal: Actively organizing multiple confirmed 2026 events: the December Christmas Boat Parade departing Salty Sam's Marina, "Wings on the Beach" (an island-wide wing competition across 12 restaurants), and co-presenting Sand Sculpting. No named kids' zone at Wings or the Boat Parade.
+- fit score: 4
+- why: **The single highest-leverage relationship in this city.** One contact, Jacki Liszak, sits across the island's whole event calendar and also maintains the member directory that lists the local party rental and wedding vendors. Individual events under the umbrella have weaker kids evidence than Sand Sculpting, so pitch the relationship rather than any one event.
+- source: https://www.fortmyersbeach.org/events/ ; https://www.fortmyersbeach.org/sandsculpting-championship/
+
+### Town of Fort Myers Beach — Special Events and Bayside Park Concert Series
+- type: festival and community event organizers (municipal)
+- city: Fort Myers Beach
+- website: https://www.fortmyersbeachfl.gov/1293/Special-Events
+- phone: (239) 765-4222
+- email: unknown
+- contact: Community Development Department (special event permits)
+- size signal: Runs the free Bayside Park Concert Series and issues special-event permits for third-party events at Bayside Veterans Park.
+- event signal: Concert series ongoing, but no attendance figures and no kids' zone. Functions more as venue and permitting authority than as a festival brand.
+- fit score: 2
+- why: Low as a direct lead, but **operationally important**: this is the office that permits any outdoor event on town land, so it is a call you will end up making anyway for Bay Oaks, the Community Pool or any island festival booking. Treat as a compliance contact, not a prospect.
+- source: https://www.fortmyersbeachfl.gov/1293/Special-Events ; https://www.fortmyersbeachfl.gov/1122/Bayside-Park
+
+### Island Hopper Songwriter Fest
+- type: festival and community event organizers
+- city: Fort Myers Beach (partial — multi-city festival; FMB leg Sept 25–27, 2026)
+- website: https://www.island-hopperfest.visitfortmyers.com/
+- phone: unknown
+- email: vcb@leegov.com
+- contact: Lee County Visitor & Convention Bureau
+- size signal: A 10-day, 60+ show multi-city music festival running Sept 18–27, 2026. The Fort Myers Beach leg plays bars, restaurants and resorts — DiamondHead, Pink Shell, Margaritaville, The Whale, Mound House, Bayside Park.
+- event signal: Confirmed active and on-island for its FMB leg, but the format is adult singer-songwriter shows in bars and restaurants. No kids' zone or family programming.
+- fit score: 2
+- why: Large verified tourist draw, but the format is wrong — bar venues and an adult music audience. Recorded because it puts the Lee County VCB on the board as a contact and because it demonstrates the island's venues are used to hosting outside producers.
+- source: https://www.island-hopperfest.visitfortmyers.com/schedule ; https://www.bmi.com/event/the-island-hopper-songwriter-fest-2026-fort-myers-fl
+
+### 12. Breweries and food truck parks that host family events
+
+### Access 26 Family Food Truck Park — NOT YET OPEN
+- type: breweries and food truck parks that host family events
+- city: Fort Myers Beach
+- website: http://access26.com/ (pre-launch; features PDF at access26.com/features.pdf)
+- phone: unknown
+- email: unknown
+- contact: Dan Myers, owner/developer, with Jamie Hotka; general contractor Stevens Construction
+- size signal: 2500 Estero Blvd at Beach Access 26. Five food truck vendor slots (vendors not yet announced) around a two-story 3,000 sq ft central building with a bar, covered seating, Manny's Scoops ice cream shop and retail space, plus a 569 sq ft comfort center with restrooms and outdoor showers, and a guest parking lot.
+- event signal: **None yet — it has not opened.** Groundbreaking was June 8, 2026; September 2026 sources still describe it as under construction with a target opening of December 2026 or January 2027. What exists is design intent, and it is unusually good design intent: an artificial turf play area for kids, a curbside table rail, three shade canvas structures and direct beach access. The owner has said the concept was built to rehouse mom-and-pop restaurants displaced by Ian.
+- fit score: 2
+- why: **Scored 2 strictly under the project rule** — no evidence of events actually run means a cap of 2, and this venue has run none because it does not exist yet. Read the score as procedural, not as a judgment on the lead. On the merits this is the best future prospect in Fort Myers Beach: a purpose-built family food truck park with an artificial turf play area, shade and beach access, which is a near-perfect foam venue. **Highest-priority re-check on the island — call back Nov/Dec 2026** to catch the opening and get a real phone and email before anyone else does.
+- source: https://www.gulfshorebusiness.com/gb-daily/access-26-food-truck-park-breaks-ground-on-fort-myers-beach/article_3f1c06cd-63a1-43f2-a5d9-6ba9d6c026ab.html ; https://www.fortmyersbeachtalk.com/news/community-news/2026/06/food-truck-park-breaks-ground/ ; https://www.stevensconstructioninc.com/stevens-construction-begins-access-26-family-food-truck-park/
+
+### Smokin' Oyster Brewery (S.O.B.)
+- type: breweries and food truck parks that host family events
+- city: Fort Myers Beach
+- website: unknown direct URL (Chamber listing: fortmyersbeach.org/member/smokin-oyster-brewery/; Facebook: facebook.com/smokinoysterbrewery)
+- phone: (239) 373-4115
+- email: unknown
+- contact: unknown; reopened under new ownership post-Ian
+- size signal: 340 Old San Carlos Blvd. **The only actual brewery on the island.** Storm surge went past the rafters in Ian; reopened Dec 2024 with a grand reopening celebration May 16, 2025. Mostly open-air covered bar with porch seating.
+- event signal: Live entertainment on the outside porch is a long-running house tradition. Casual come-as-you-are beach atmosphere. No dedicated kids' area and no published family events calendar.
+- fit score: 3
+- why: Confirmed open, genuinely a brewery, with real outdoor space and regular live entertainment — but the vibe is dive bar rather than structured family venue. Better suited to adult group bookings or a casual outdoor event than a kids' party.
+- source: https://www.winknews.com/news/lee/fort-myers-beach-brewery-reopens-after-hurricane-ian-devastation/article_6664dec3-5dea-402f-aed7-27a2afe90d43.html ; https://www.fortmyersbeach.org/member/smokin-oyster-brewery/
+
+### Yucatan Beach Stand Bar & Grill
+- type: breweries and food truck parks that host family events (beach bar and grill)
+- city: Fort Myers Beach
+- website: https://yucatanbeachstand.com/events/
+- phone: (239) 333-4386
+- email: unknown
+- contact: unknown
+- size signal: 250 Old San Carlos Blvd. Outdoor patio with swing seats, casual tiki-bar and island-fare restaurant, operating for decades before and after Ian, confirmed running in 2026.
+- event signal: Live music Fri–Mon at the "Swing Bar," daily happy hour, and a **maintained public events page**. Multiple sources describe it as comfortable for bringing children. Participates in the Island Hopper Songwriter Festival, Sept 25–27, 2026.
+- fit score: 3
+- why: Genuinely family-comfortable outdoor space with a live, actively maintained events calendar — the calendar is what lifts it above the other bars. It is a bar and grill rather than a brewery or food truck park, so the categorical fit is loose, but as a real prospect it is a solid secondary call.
+- source: https://yucatanbeachstand.com/events/ ; https://www.keywestexpress.net/prepare-and-go/fort-myers-beach-restaurants/yucatan-beach-stand
+
+### Doc Ford's Rum Bar & Grille (Fort Myers Beach)
+- type: breweries and food truck parks that host family events (waterfront restaurant and bar)
+- city: Fort Myers Beach (San Carlos Island / Estero Bay — see boundary note)
+- website: https://docfords.com/fort-myers-beach/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Waterfront patio on Estero Bay, accessible by car or boat. Reopened after Ian; a long-running island fixture.
+- event signal: Explicitly markets a family-friendly setting with a kids menu for 12 and under and generous kids' portions. Live entertainment most days or nights. States it can host private events. No dedicated outdoor play area.
+- fit score: 3
+- why: Confirmed open, explicitly family-oriented, and it says outright that it hosts private events — a plausible target for a private or group booking add-on. No phone number surfaced in research, so start from the website. Categorical fit is loose: a restaurant, not a brewery or truck park.
+- source: https://docfords.com/fort-myers-beach/ ; https://www.mustdo.com/fl/fort-myers-beach-sanibel-captiva-islands/dining/doc-fords-rum-bar-grille/
+
+### The Beach Bar
+- type: breweries and food truck parks that host family events (beach bar)
+- city: Fort Myers Beach
+- website: unknown confirmed URL (Bandsintown: bandsintown.com/v/10248994-the-beach-bar)
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Feet-in-the-sand outdoor tables directly on the Gulf. **Reopened July 4, 2025** after being destroyed by Ian.
+- event signal: Heavy ongoing live-music schedule booked through 2026–2027, but no kids programming and no family framing — a live-music, adult-leaning beach bar.
+- fit score: 2
+- why: Confirmed reopened with outdoor space, but no family signal and the space is sand. Low priority.
+- source: https://www.businessobserverfl.com/news/2025/jul/07/fort-myers-beachs-new-beach-bar-opens/ ; https://www.bandsintown.com/v/10248994-the-beach-bar
+
+### Petey's Upper Deck (at Matanzas on the Bay)
+- type: breweries and food truck parks that host family events (bar)
+- city: Fort Myers Beach
+- website: https://matanzasonthebay.com/peteys-upper-deck/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Second-floor bar with waterfront and boat access at 416 Crescent St.
+- event signal: Nightly live music. Anecdotal mentions of staff making a fuss of kids and pets, but no structured family programming or events calendar.
+- fit score: 2
+- why: Open with waterfront outdoor seating and live entertainment, but the family evidence is informal and second-hand, and a second-floor deck is a poor foam surface. Low priority.
+- source: https://matanzasonthebay.com/peteys-upper-deck/ ; https://wanderlog.com/place/details/9660192/peteys-upper-deck-bar
+
+### FMB Strong, Inc.
+- type: festival and community event organizers
+- city: Fort Myers Beach
+- website: https://www.fmbstrong.org/
+- phone: 802-239-1962
+- email: events@fmbstrong.org
+- contact: unknown by name (founded by Hurricane Ian survivors)
+- size signal: 501(c)(3) operating a community center at 820 Buttonwood Drive, serving the 33931 zip code with food pantry and relief services. **Named "Nonprofit of the Year" by SWFL Inc.** Listed with the FMB Chamber, the Florida Nonprofit Alliance and SWFL Inc.
+- event signal: Runs special community events and fundraisers with a published calendar of community meals, fundraisers and town celebrations, explicitly to "uplift spirits and foster a sense of togetherness" on the island. Reported as running parades and community events.
+- fit score: 3
+- why: **Late addition — this surfaced as a side-note from the schools research rather than the festivals pass, and I verified it myself rather than leave it unresearched.** A real, award-winning island nonprofit with a dedicated events email, which is better contact data than most organizations in this city. Held at 3 rather than 4 because the documented events are community meals and fundraisers, not confirmed children's events, so the kids angle is inferred rather than evidenced. The recovery-celebration framing is a natural fit for a free community foam event as marketing — a donated party here buys goodwill across the whole island.
+- source: https://www.fmbstrong.org/ ; https://www.fortmyersbeach.org/member/fmb-strong-inc/ ; https://www.swflinc.com/business-directory/fmb-strong ; https://www.flnonprofits.org/member-directory/fmb-strong
+
+**Also noted, not researched:** a separate "Fort Myers Beach Community Foundation" (fmbcommunityfoundation.com) exists on the island. It did not surface in the festivals pass and has not been verified — worth a look when this city is worked.
