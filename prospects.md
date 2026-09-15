@@ -3,7 +3,7 @@
 Mobile foam party service, Lee and Collier counties.
 Packages: Classic $349/60min · Deluxe $449/90min · Commercial and Camps $649/2hr.
 
-Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**.
+Grid: 8 cities x 12 categories. Cities completed so far: **Fort Myers**, **Cape Coral**, **Naples**, **Bonita Springs**.
 
 Research note: this environment's network policy blocks direct page fetches (403 on CONNECT),
 so all records were gathered via web search of the cited source pages rather than by opening
@@ -3795,7 +3795,7 @@ their own sites. See the updated competitive summary at the end of this city sec
 - type: party and event rental companies
 - city: Naples
 - website: https://www.partytimerentalsandspecialevents.com/
-- phone: unknown
+- phone: (239) 263-5471 (found Round 4)
 - email: unknown
 - contact: unknown
 - size signal: Full-service event rental serving Naples, Fort Myers, Estero, Bonita Springs, Marco Island, Cape Coral and Sanibel — effectively the whole service area
@@ -3808,8 +3808,8 @@ their own sites. See the updated competitive summary at the end of this city sec
 - type: party and event rental companies
 - city: Naples
 - website: https://naplespartyrental.com/
-- phone: unknown
-- email: unknown
+- phone: (239) 315-2693 / 888-892-7368 (found Round 4)
+- email: info@naplespartyrental.com (found Round 4)
 - contact: unknown
 - size signal: Small family-owned business serving Naples, Marco Island and Bonita Springs
 - event signal: NO FOAM OR INFLATABLE OFFERING FOUND. Specializes in tables, chairs, linens and tents, with prices starting at $295.
@@ -3876,11 +3876,11 @@ their own sites. See the updated competitive summary at the end of this city sec
 - phone: unknown
 - email: unknown
 - contact: unknown
-- size signal: unknown — surfaced only via a page title; not independently verified
-- event signal: Page title reads "Family Fun Party Rentals Naples FL – Bounce Houses, Water Slides & Tents." No catalog detail, reviews or foam confirmation retrieved before the search budget ran out.
-- fit score: 2
-- why: Fits the partner profile by name and category but the evidence is a page title and nothing more. Flagged for follow-up rather than confirmed — do not treat as researched.
-- source: https://withlovefromnaplespartyrentals.com/
+- size signal: Family-owned local business delivering across Naples, Bonita Springs and Fort Myers — CONFIRMED in Round 4
+- event signal: NO FOAM OFFERING FOUND — confirmed in Round 4. Site lists bounce houses, water slides, combo units, tents, tables and chairs, with no mention of foam parties or foam machines anywhere.
+- fit score: 4
+- why: UPGRADED FROM 2 IN ROUND 4 once the catalog was actually confirmed. A multi-city inflatable operator with no foam line, covering Naples, Bonita Springs and Fort Myers — three of our eight target cities. No phone found yet.
+- source: https://withlovefromnaplespartyrentals.com/about-wlfn-party-rentals-naples-fl-family-owned-local/
 
 ### AB Event Rentals — STATUS STILL UNRESOLVED
 - type: party and event rental companies
@@ -4209,9 +4209,9 @@ their own sites. See the updated competitive summary at the end of this city sec
 - contact: unknown
 - size signal: Previously at 987 3rd Avenue North, Naples 34102, with a beer garden, food trucks and games
 - event signal: Historically strong — Tuesday trivia with rotating food trucks, Wednesday Irish music, Thursday open mic, Friday/Saturday live music, pinball tournaments and fundraisers.
-- fit score: 2
-- why: LIKELY MOVED OR CLOSED IN NAPLES. Their own website now bills the business as a "Craft Brewery in Bonita Springs, FL," an Eventbrite listing places events in Bonita Springs, and a directory tags the Naples location as closed — while older Naples listings persist. Verify by phone before outreach; if they have moved, pick them up in the Bonita Springs round.
-- source: https://www.riptidebrewingcompany.com/
+- fit score: 3
+- why: UPDATED IN ROUND 4 — they EXPANDED, they did not necessarily leave. Riptide opened a second taproom in Bonita Springs at 28120 Hunters Ridge Blvd (the former Momentum Brewhouse site), and a later pass indicates they RETAIN this original Naples location. Earlier evidence suggesting the Naples site had closed is now in doubt. Verify the Naples location by phone; the Bonita Springs taproom is recorded separately and scores 5.
+- source: https://craftapped.com/riptide-brewing-company-bonita-springs/
 
 ### Naples Beach Brewery
 - type: breweries and food truck parks that host family events
@@ -4259,3 +4259,1057 @@ That gap is the whole strategy, and it points at the prospects that scored highe
 city: Collier County Parks, City of Naples Parks, the private schools, and the country clubs
 all require a vendor with insurance, staff and a certificate of insurance on file. A $199
 machine drop-off cannot serve them. Sell to buyers who cannot use the cheap option.
+
+---
+
+## Bonita Springs
+
+Lee County, on the Collier border. Smaller city (~55,000) with a heavy 55+ skew, so several
+categories are genuinely thin — record counts below are not padded.
+
+Boundary note: Shadow Wood Country Club and The Commons Club at The Brooks carry ESTERO
+mailing addresses but are marketed and operated as Bonita Springs communities. They are
+recorded here; the Estero round should skip them to avoid double-counting.
+
+Dedupe note: organizations returned by more than one category agent appear ONCE, under the
+category where their evidence is strongest. Affected: Grace Community School, Growing Room,
+YMCA Bonita Springs, Bonita Springs Academy, Discovery Day Academy, Bonita Springs Community
+Park, Worthington, Palmira, The Commons Club, Bonita National, Gospel Baptist.
+
+### 1. Summer and day camps
+
+### Grace Community School (Bonita Springs campus)
+- type: summer and day camps
+- city: Bonita Springs
+- website: https://www.gracecommunityschools.com/locations/bonita-springs-estero
+- phone: (239) 948-7878
+- email: unknown
+- contact: unknown
+- size signal: 8971 Brighton Lane, Bonita Springs 34135, open Mon-Fri 6:30am-6:00pm, ages 1-11; operating since 1986; before/after care with pickup from multiple local public schools
+- event signal: Summer camp runs weekly themed weeks (Carnival & Circus, Hawaii, Pirate Week) with "theme weeks, parties, dress-up days, bounce houses, Water Wednesdays," plus karate, dance, art and music with dedicated instructors.
+- fit score: 5
+- why: FOURTH CONSECUTIVE CITY AT 4-5. Grace now scores at the top in Fort Myers, Cape Coral, Naples and Bonita Springs, with the same published Water Wednesdays and bounce houses. This is the single strongest multi-site account on the entire list — treat it as one corporate conversation covering 7+ campuses across both counties, not four separate local calls.
+- source: https://pages.gracecommunityschools.com/summer-camp/
+
+### YMCA of Southwest Florida — Bonita Springs YMCA
+- type: summer and day camps
+- city: Bonita Springs
+- website: https://www.ymcaswfl.org/locations/bonita-springs-ymca
+- phone: (239) 221-7560
+- email: unknown
+- contact: unknown
+- size signal: Branch at 27200 Kent Road, Bonita Springs; camp also runs at the city-owned Bonita Springs Recreation Center (26738 Pine Ave) as one of four SWFL YMCA camp sites. Also operates the Suwyn Early Learning Academy (licensed up to 181 children, 6 weeks-VPK) and youth basketball, soccer, futsal, flag football and T-ball for ages 3-14.
+- event signal: Specialty camp weeks (archery, STEM, volleyball, pickleball, aquatics, Lego robotics), a Kinder-Camp track, and a daily lunch/snack program. Separately runs a "Parties at the Y" program offering themed gymnastics and sports birthday parties.
+- fit score: 4
+- why: Three audiences under one roof — day camp, early learning, and multi-sport youth leagues — plus an existing birthday-party product, which means they already think in party packages. The city Rec Center partnership also puts them on municipal property.
+- source: https://www.ymcaswfl.org/programs/youth-and-family-activities/parties-y
+
+### Arts Bonita (Center for the Arts Bonita Springs) — Youth Summer Camp
+- type: summer and day camps
+- city: Bonita Springs
+- website: https://artsbonita.org/youth-summer-camp-2026/
+- phone: (239) 495-8989
+- email: unknown
+- contact: unknown
+- size signal: Arts nonprofit campus at 10150 Bonita Beach Rd; 10-week camp June 1-Aug 7, ages 4-18, full-day and half-day options
+- event signal: Day structured into rotating themed blocks (visual arts, dance, theatre) with a new discipline each hour, plus a separate Summer Spotlight performance program for ages 7-17.
+- fit score: 3
+- why: A 10-week camp with a wide age range and an organization that also runs the Bonita Springs National Art Festival — two relationships in one. No water or party evidence, so foam would be a novel addition rather than a substitution.
+- source: https://artsbonita.org/youth-summer-camp-2026/
+
+### Super Science & Amazing Art (Super Science FL)
+- type: summer and day camps
+- city: Bonita Springs
+- website: https://supersciencefl.com/
+- phone: (239) 682-2780
+- email: unknown
+- contact: "Mr. Glen" (public-facing program lead; no last name or direct contact confirmed)
+- size signal: SWFL STEAM education provider operating 20 years, camps 9am-4pm Mon-Fri; listed as Bonita Springs-based, but the 2026 camp sessions found were partnered with a Naples-area charter school — a fixed Bonita Springs camp address was NOT confirmed
+- event signal: Explicit "Water Wednesday" component — campers bring a change of clothes and water shoes on Wednesdays — plus themed science demos (dry ice, Van de Graaff generator, hovercrafts, rockets, fog).
+- fit score: 3
+- why: A published Water Wednesday is exactly the slot foam fills, and a science-demo culture means they already buy spectacle. Held at 3 only because the 2026 Bonita Springs site location is unconfirmed — confirm where they are actually running before pitching.
+- source: https://supersciencefl.com/
+
+### 2. Preschools and daycare centers
+
+### Growing Room Child Development Center (Bonita Springs)
+- type: preschools and daycare centers
+- city: Bonita Springs
+- website: https://growingroomchilddevelopment.com/locations/bonita-springs-florida/
+- phone: (239) 495-0045 (a directory also lists 239-466-6646, which is the Fort Myers line — verify)
+- email: unknown
+- contact: unknown
+- size signal: 25151 Bernwood Drive, Bonita Springs 34135, opened May 2013; MAX LICENSED CAPACITY 232 CHILDREN — one of the largest single-site capacities found anywhere in this research. Infant through preschool plus "Camp Adventurer" K-5 school-age program.
+- event signal: Summer camp theme "Adventures in the Animal Kingdom" with TWO SWIM/WATER DAYS PER WEEK built into the program, plus weekly field trips to Naples Zoo, Sky Zone, Lakes Park and the movies.
+- fit score: 5
+- why: 232-child capacity and twice-weekly water days already funded. Same operator as the Fort Myers Gladiolus campus, which also scored 5 — a two-site conversation. Foam replaces a swim day at lower cost with no transport.
+- source: https://growingroomchilddevelopment.com/programs/summer-camp/
+
+### Bonita Springs Academy (ministry of New Life Church)
+- type: preschools and daycare centers
+- city: Bonita Springs
+- website: https://www.bonitaspringsacademy.com/
+- phone: (239) 949-1845 (New Life Church main line: 239-992-2952)
+- email: unknown
+- contact: Christine Gory, Preschool Director
+- size signal: 3971 Via Del Rey, Bonita Springs 34134; full campus with TWO OUTDOOR PLAYGROUNDS and a gymnasium; infant (6 weeks) through VPK, before/after care, plus a seasonal summer camp
+- event signal: Site mentions a seasonal summer camp but no specific water day, family night or themed week was found.
+- fit score: 3
+- why: Named director and two outdoor playgrounds give real physical capacity, and critically this is a ministry of New Life Church — the top-scoring church in this city, which runs a Fall Festival. Pitch the church and the academy together; the same leadership sits behind both.
+- source: https://www.bonitaspringsacademy.com/about
+
+### Discovery Day Academy
+- type: preschools and daycare centers
+- city: Bonita Springs
+- website: https://discoverydayacademy.com/
+- phone: (239) 498-5826
+- email: info@discoverydayacademy.com (surfaced in search; not verified on the official contact page)
+- contact: unknown
+- size signal: 25355 S Tamiami Trail, Bonita Springs 34135; private school, toddlers through 8th grade (one source says Pre-K through grade 6), 167 students, 5:1 ratio, founded 2006, project-based learning, ~$14,000 tuition; open Mon-Fri 7:00am-5:30pm
+- event signal: Actively accepting 2026 summer camp applications, but no themed-week, water-day or party evidence was found.
+- fit score: 2
+- why: High-tuition boutique school with parents who expect enrichment, and a summer camp — but no confirmed event programming. The tuition level suggests budget is not the obstacle; evidence is.
+- source: https://discoverydayacademy.com/
+
+### Bonita Springs YMCA — Suwyn Early Learning Academy
+- type: preschools and daycare centers
+- city: Bonita Springs
+- website: https://www.ymcaswfl.org/facility/bonita-springs-ymca-suwyn-early-learning-academy
+- phone: (239) 333-0479
+- email: unknown
+- contact: unknown
+- size signal: Licensed for up to 181 children, ages 6 weeks through VPK; part of the YMCA of SWFL network
+- event signal: No site-specific water day, family night or theme week evidence found, though the parent organization runs camps and a "Parties at the Y" program.
+- fit score: 2
+- why: Large licensed capacity and a parent org with aquatics and party infrastructure, but nothing confirmed for this specific site. Fold into the main YMCA Bonita Springs conversation rather than calling separately.
+- source: https://www.ymcaswfl.org/facility/bonita-springs-ymca-suwyn-early-learning-academy
+
+### Educare Academy (Educare Bonita)
+- type: preschools and daycare centers
+- city: Bonita Springs
+- website: https://educarebonita.com/
+- phone: (239) 992-3424
+- email: unknown
+- contact: unknown
+- size signal: Licensed center, full-day 6:30am-6:00pm, on-site commercial kitchen; fall enrollment reported as filling up
+- event signal: No event, water day or family night evidence found.
+- fit score: 1
+- why: Operating and apparently healthy, but nothing to anchor a pitch to. Low priority.
+- source: https://educarebonita.com/
+
+### Noah's Ark Academy
+- type: preschools and daycare centers
+- city: Bonita Springs
+- website: https://www.noahsarkbonita.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Established 2018, max capacity 105 children, ages 6 weeks-5 years; VPK, before/after school and drop-in care
+- event signal: No event or camp evidence found.
+- fit score: 1
+- why: Small capacity, no event signal, no published phone. Lowest priority in this category.
+- source: https://www.noahsarkbonita.com/
+
+### Wonder Years Christian Preschool (First Presbyterian Church of Bonita)
+- type: preschools and daycare centers
+- city: Bonita Springs
+- website: https://wonderyears.fpcbonita.org/
+- phone: (239) 948-6677
+- email: unknown
+- contact: unknown
+- size signal: Small, PART-DAY ONLY (9am-4pm), founded 1999, ages 18 months-VPK; CLOSES FOR SUMMER
+- event signal: No camp or water-day evidence, and the part-day structure with a summer closure means there is no summer camp to host an event during.
+- fit score: 1
+- why: Structurally wrong — they are closed in the season foam sells best. Note the parent church, First Presbyterian, runs a VBS and scores 4 in the church category; that is the door, not the preschool.
+- source: https://wonderyears.fpcbonita.org/
+
+### RCMA Bonita Child Development Center
+- type: preschools and daycare centers
+- city: Bonita Springs
+- website: https://rcma.org/center/rcma-bonita-cdc/
+- phone: (239) 947-5853
+- email: unknown
+- contact: unknown
+- size signal: Nonprofit Head Start/VPK program, ~40+ children ages 6 weeks-5 years, serving migrant and low-income families
+- event signal: No event or party evidence; government-funded model.
+- fit score: 1
+- why: Subsidized nonprofit with no discretionary event budget. Recorded for completeness; not a commercial prospect.
+- source: https://rcma.org/center/rcma-bonita-cdc/
+
+### 3. Church youth programs
+
+### New Life Church of Bonita Springs
+- type: church youth programs
+- city: Bonita Springs
+- website: https://www.nlcbonita.com/
+- phone: (239) 992-2952
+- email: unknown
+- contact: unknown
+- size signal: Multiple staffed ministries — Kidz Life children's ministry (Pre-K-5th grade with its own Kidz Church service) and Student Life youth ministry (junior high and high school). ALSO OPERATES Bonita Springs Academy, a full preschool/childcare ministry with two outdoor playgrounds and a gymnasium.
+- event signal: Own event page for a "Fall Festival," plus a "Youth Lock In" for grades 6-12.
+- fit score: 5
+- why: The largest, most program-rich church footprint in the city, with a published Fall Festival and a Youth Lock In — two distinct event formats. The attached academy gives a second audience and its own outdoor space. One relationship, multiple bookings.
+- source: https://www.nlcbonita.com/event-details/fall-festival
+
+### First Presbyterian Church of Bonita Springs
+- type: church youth programs
+- city: Bonita Springs
+- website: https://fpcbonita.org
+- phone: (239) 992-3233
+- email: communications@fpcbonita.org
+- contact: unknown
+- size signal: Congregation established 1972 (PCA); runs its own Wonder Years Preschool with a dedicated VBS calendar page and a family ministries section
+- event signal: Vacation Bible School confirmed on the church's own site — Alaskan-adventure theme, hands-on science experiments, games and songs, for ages 4 through current 5th graders.
+- fit score: 4
+- why: A dated VBS with a theme and a clear age range, plus a published staff email — one of the few direct email contacts in this category. The attached preschool closes for summer, so VBS is the summer audience.
+- source: https://fpcbonita.org/ministries/family/vbs/
+
+### St. Leo the Great Parish (Catholic)
+- type: church youth programs
+- city: Bonita Springs
+- website: https://www.stleocatholicchurch.org/
+- phone: (239) 992-0901
+- email: unknown
+- contact: unknown
+- size signal: Large parish now ALSO ABSORBING parishioners from the closing Church of the Ascension in Bonita Springs — effectively two congregations' worth of families under one roof
+- event signal: The Diocese of Venice confirms an active parish with youth ministry programming, but no specific dated VBS or festival page surfaced.
+- fit score: 3
+- why: The consolidation is the story — a parish taking on another congregation's families has both scale and a reason to run welcome events. Worth a call specifically about combined-parish family programming.
+- source: https://dioceseofvenice.org/find-a-parish/st-leo-the-great-parish-bonita-springs/
+
+### Gospel Baptist Church (and Christian School)
+- type: church youth programs
+- city: Bonita Springs
+- website: https://mygbcs.com/
+- phone: (239) 947-1285
+- email: Gospel@mygbcs.com
+- contact: Thomas Swett, Youth Pastor
+- size signal: Church operates its own K3-12 Christian school with sports programs (flag football, basketball, volleyball) at 24861 Old 41 Rd — a combined church-plus-school footprint
+- event signal: Published school calendar lists AWANA, a Veterans Day program and a Christmas program; no dated VBS or community festival confirmed.
+- fit score: 3
+- why: A NAMED YOUTH PASTOR with a published business email is the most direct contact in this category. Church plus school plus sports means multiple occasions even though none is confirmed yet.
+- source: https://www.gospelbaptistchristianschool.com/assets/pdf/School_Calendar_25-26.pdf
+
+### First United Methodist Church of Bonita Springs
+- type: church youth programs
+- city: Bonita Springs
+- website: https://fumcbonita.org/
+- phone: (239) 992-1312
+- email: unknown
+- contact: unknown
+- size signal: Established First UMC congregation with a listed children's and youth ministry
+- event signal: No dated VBS, Trunk-or-Treat or festival page located; only a general youth group mention.
+- fit score: 3
+- why: Confirmed, address-verified church with a youth ministry and a published phone. Note that Methodist congregations elsewhere in this research (Cypress Lake UMC, Cape Coral First UMC, Grace Church) all run VBS or fall festivals — likely here too, just not published where search could reach it.
+- source: https://fumcbonita.org/
+
+### Hope Lutheran Church
+- type: church youth programs
+- city: Bonita Springs
+- website: https://hlcbonita.org/
+- phone: (239) 992-6952
+- email: info@hopebonita.org (surfaced once; NOT independently verified — confirm before using)
+- contact: unknown
+- size signal: LCMS congregation with an active calendar-of-events page and social presence
+- event signal: Maintains a "Calendar of Events" page. A Trunk-or-Treat appeared in search summaries, BUT the underlying source pointed to a DIFFERENT Hope Lutheran church outside Bonita Springs — this event could NOT be confirmed for this congregation. Treat as unverified.
+- fit score: 3
+- why: Real church with an active events calendar, but the one strong event signal turned out to belong to a same-named church elsewhere. Check their actual calendar page before pitching — the honest position is that we do not yet know what they run.
+- source: https://hlcbonita.org/calendar-of-events/
+
+### First Baptist Church of Bonita Springs
+- type: church youth programs
+- city: Bonita Springs
+- website: unknown
+- phone: (239) 992-2952
+- email: unknown
+- contact: unknown
+- size signal: Southern Baptist congregation with a general youth group listing
+- event signal: No dated VBS, Fall Festival or Trunk-or-Treat located in this pass.
+- fit score: 2
+- why: Address and phone verified via directory listings only, with no event evidence and no confirmed website. Note the phone matches New Life Church's listed main line — verify which organization answers before treating these as separate prospects.
+- source: https://www.faithstreet.com/church/first-baptist-church-of-bonita-springs-bonita-springs-fl
+
+### The Springs of Bonita Church
+- type: church youth programs
+- city: Bonita Springs
+- website: https://www.thespringsofbonita.church/
+- phone: (239) 293-3310
+- email: unknown
+- contact: unknown
+- size signal: Small congregation that MEETS OUTDOORS at Riverside Park (Old US 41, downtown Bonita Springs) on Sunday mornings; has tot, kids and teen ("Student Ministries") programs
+- event signal: Student Ministries performed at a Christmas Eve Candlelight service; no VBS, Fall Festival or Trunk-or-Treat confirmed.
+- fit score: 2
+- why: A church with no building has no venue and limited budget — but it already gathers at Riverside Park, the city's main event venue, which is an unusual and interesting angle if they ever run a family day there.
+- source: https://www.thespringsofbonita.church/
+
+### 4. Schools and PTOs
+
+Category note: genuinely thin. Bonita Springs has few schools, and the one candidate that
+looked strongest in search — a "Bonita High School PTSA" page with a full event list — turned
+out to belong to a school in CALIFORNIA, not Lee County's Bonita Springs High. It was excluded
+rather than recorded. Six records, not padded.
+
+### Spring Creek Elementary School PTO
+- type: schools and PTOs
+- city: Bonita Springs
+- website: https://spc.leeschools.net/ (fundraising: https://givebutter.com/spring-creek-elementary-pto)
+- phone: (239) 947-0001
+- email: unknown
+- contact: unknown
+- size signal: Lee County public elementary at 25571 Elementary Way, Bonita Springs 34135
+- event signal: The PTO runs an active "2026 Carnival Auction" fundraising campaign on its own Givebutter platform — a named, dated event confirming an independently operating PTO.
+- fit score: 4
+- why: Best school prospect in the city and the exact profile that worked elsewhere — an independently run PTO with its own fundraising platform and a named carnival. They control their own money and already buy event services.
+- source: https://givebutter.com/spring-creek-elementary-pto
+
+### Grace Classical Academy
+- type: schools and PTOs
+- city: Bonita Springs
+- website: https://wearegca.com/
+- phone: (239) 247-2479
+- email: info@wearegca.com
+- contact: unknown
+- size signal: Private Christian classical K-8 school at 3971 Via Del Rey, Bonita Springs 34134 — the same address as New Life Church and Bonita Springs Academy
+- event signal: Confirmed named annual event — "2026 GCA Light the Night Gala," Saturday April 18, 2026, 5-9pm, with an active fundraising page.
+- fit score: 4
+- why: A dated, actively promoted annual event plus a published general email. The gala is an adult fundraiser rather than a kids' carnival, so pitch a family day instead — and note the shared Via Del Rey address means New Life Church, Bonita Springs Academy and this school are one campus with three organizations on it. Learn who controls the grounds.
+- source: https://secure.qgiv.com/for/graceclassicalacademy/event/2026gcalightthenightgala/
+
+### Bonita Springs Charter School
+- type: schools and PTOs
+- city: Bonita Springs
+- website: https://www.bonitaspringscharter.org/
+- phone: (239) 992-6932
+- email: unknown
+- contact: unknown
+- size signal: K-8 charter school, ~1,320 students, 25380 Bernwood Dr — THE LARGEST SCHOOL IN THE CITY
+- event signal: Active events and news pages with back-to-school events and middle-school athletics, but no specific named festival, carnival or fun run confirmed.
+- fit score: 3
+- why: By far the biggest student body in Bonita Springs, and charter schools make vendor decisions at school level without district procurement — a short sales cycle. The event evidence is thin only because their calendar was not reachable by search; worth a direct call.
+- source: https://www.bonitaspringscharter.org/apps/events/
+
+### Bonita Springs Elementary School PTA/PTO
+- type: schools and PTOs
+- city: Bonita Springs
+- website: https://bne.leeschools.net/our_families/p_t_a__p_t_o
+- phone: (239) 992-0801
+- email: unknown
+- contact: Amy Pacheco, PTA/PTO President (published on the school website)
+- size signal: ~502 students, Pre-K-5, Lee County public school at 10701 Dean Street SE, Bonita Springs 34135
+- event signal: Active PTA/PTO with a named president and a dedicated page, but no specific recurring event (fall festival, fun run) was confirmed.
+- fit score: 3
+- why: A named PTO president published on the school's own site is a real, usable contact. No confirmed event yet, so the first call is discovery rather than a pitch.
+- source: https://bne.leeschools.net/our_families/p_t_a__p_t_o
+
+### Bonita Springs Middle Center for the Arts PTA/PTO
+- type: schools and PTOs
+- city: Bonita Springs
+- website: https://bnm.leeschools.net/our_families/pta_pto
+- phone: (239) 992-4422
+- email: unknown
+- contact: unknown
+- size signal: Lee County public middle school at 10141 W. Terry Street, Bonita Springs 34135
+- event signal: SAC/PTO holds regular meetings on the last Tuesday of each month at 5:30pm in Room 35 — a confirmed recurring cadence, but no named signature event.
+- fit score: 3
+- why: A published meeting schedule tells you exactly when the decision-makers are in a room together. Middle-school age skews slightly older than ideal for foam, but an arts-magnet school runs showcases and end-of-year events.
+- source: https://bnm.leeschools.net/our_families/pta_pto
+
+### Gospel Baptist Christian School
+- type: schools and PTOs
+- city: Bonita Springs
+- website: https://www.gospelbaptistchristianschool.com/
+- phone: (239) 947-2341
+- email: school@mygbcs.com
+- contact: unknown
+- size signal: Private PK-12 school affiliated with Gospel Baptist Church, ~85 students, 24861 Old 41 Rd, Bonita Springs 34135
+- event signal: Published academic calendar lists AWANA programs, a Veterans Day program and a Christmas program, but no community-wide carnival, fall festival or fun run.
+- fit score: 2
+- why: Very small school with a modest calendar and no parent-run PTO identified. The church side (Gospel Baptist, fit 3, named youth pastor) is the better door — same organization, one call.
+- source: https://www.gospelbaptistchristianschool.com/assets/pdf/School_Calendar_25-26.pdf
+
+### 5. Municipal parks and recreation
+
+### City of Bonita Springs Parks & Recreation Department (CITY)
+- type: municipal parks and recreation
+- city: Bonita Springs
+- website: https://www.bonitaspringsparks.org/
+- phone: (239) 992-2556
+- email: unknown
+- contact: unknown
+- size signal: Full municipal department operating Community Park (26740 Pine Ave), Community Pool, Riverside Park, Depot Park, the Dog Park and other city parks and trails
+- event signal: Hosts and produces Celebrate Bonita, Star Spangled Bonita, Taste of Bonita and Movies in the Park; publishes a Recreation Center calendar; promotes YMCA Summer Camp 2026 on its own site.
+- fit score: 5
+- why: The umbrella department that owns every city park and produces the city's festival slate. One relationship reaches the camps, the pool, the pavilions and the festivals. Vendor route runs through city procurement (cityofbonitasprings.procureware.com) — register first.
+- source: https://www.bonitaspringsparks.org/
+
+### Riverside Park (CITY)
+- type: municipal parks and recreation
+- city: Bonita Springs
+- website: https://www.bonitaspringsparks.org/riverside_park
+- phone: (239) 992-2556 (special events permits: City Communications Dept, 239-949-6262)
+- email: unknown
+- contact: unknown
+- size signal: Downtown Bonita Springs off Old 41; includes the Historic Liles Hotel, Artist Cottages, Butterfly Garden, a Bandshell, covered shelters and a pavilion with restrooms
+- event signal: The primary venue for nearly every major city event — Celebrate Bonita, Star Spangled Bonita, Taste of Bonita, Movies in the Park, the Bonita Blues Festival, charity runs and concerts. The city publishes a Special Events Packet for organizers, and has a dedicated Rentals page.
+- fit score: 5
+- why: The city's flagship event park with both a rentals page and a formal permitting process — two routes in. Nearly every festival prospect in this city happens here, so learning this venue's rules once serves many bookings. Permit applications take ~45 days, so plan ahead.
+- source: https://www.bonitaspringsparks.org/riverside_park
+
+### Bonita Springs Community Park & Recreation Center (CITY)
+- type: municipal parks and recreation
+- city: Bonita Springs
+- website: https://www.bonitaspringsparks.org/community_park/rentals
+- phone: (239) 992-2556
+- email: unknown
+- contact: unknown
+- size signal: 26740 Pine Avenue; Recreation Center, 9-hole disc golf, two tennis courts, baseball/softball complex, skate park, playground and an outdoor pavilion. The Community Pool sits at 26890 Pine Ave in the same complex.
+- event signal: Published Rentals page for the Community Park Pavilion; Recreation Center calendar page; hosts the YMCA summer camp on site. Exact fee schedule was not retrievable — confirm by phone.
+- fit score: 4
+- why: STRUCTURAL FIND, THIRD CITY RUNNING. The rentable pavilion sits roughly 150 feet from the Community Pool — water hookup and an aquatic draw already on site. This is both a venue and a demand channel: market to families who book this pavilion. Same pattern as Vineyards Community Park in Naples.
+- source: https://www.bonitaspringsparks.org/community_park
+
+### Bonita Springs Community Pool (CITY)
+- type: municipal parks and recreation
+- city: Bonita Springs
+- website: https://www.bonitaspringsparks.org/community_pool
+- phone: (239) 947-1948
+- email: unknown
+- contact: unknown
+- size signal: 26890 Pine Avenue at W. Terry St; 8 lap lanes, 3'9"-6' depth, heated 82-86°F; admission reportedly ~$5 adult / $3 child under 12 (secondary source, unverified)
+- event signal: Public aquatic facility adjacent to the Community Park pavilion. A kids' splash/play area is referenced in secondary sources but NOT confirmed as a splash pad on the official city page — treat as unverified.
+- fit score: 4
+- why: Directly next to the rentable pavilion, completing the pavilion-plus-water pattern. Municipal pools elsewhere in this research (Fort Myers Aquatic Center, Sun-N-Fun) already sell pool parties, so ask whether this one books private groups.
+- source: https://www.bonitaspringsparks.org/community_pool
+
+### Bonita Beach Park (LEE COUNTY)
+- type: municipal parks and recreation
+- city: Bonita Springs
+- website: https://www.leegov.com/parks/beaches/bonitabeach
+- phone: unknown (Lee County Parks & Rec: 239-533-7275)
+- email: leeparks@leegov.com
+- contact: unknown
+- size signal: County-operated beach park on Little Hickory Island; swimming, sheltered picnic areas, sand volleyball, restrooms and showers, picnic shelters, paddlecraft launch, food concession; $2/hr metered parking
+- event signal: Lee County runs a countywide shelter, building, ballfield and gym rental system with fees due in full at booking; no beach-specific festival or camp calendar surfaced for this location.
+- fit score: 3
+- why: This is LEE COUNTY, not the city — a different budget and procurement path (leegov.ionwave.net), and the same county department already recorded under Fort Myers. Rentable shelters and a beach draw, but sand and salt water complicate foam setup.
+- source: https://www.leegov.com/parks/beaches/bonitabeach
+
+### Depot Park (CITY)
+- type: municipal parks and recreation
+- city: Bonita Springs
+- website: https://www.bonitaspringsparks.org/parks___trails/depot_park
+- phone: unknown (route through 239-992-2556)
+- email: unknown
+- contact: unknown
+- size signal: 10375 Pennsylvania Ave, across the railroad tracks from Riverside Park; natural playground, restrooms, floating dock on the Imperial River, covered pavilion
+- event signal: The pavilion hosts occasional art shows and community gatherings, but no dedicated rentals page or fee schedule surfaced, and there is no pool or splash pad on site.
+- fit score: 2
+- why: Has a pavilion and a playground but no adjacent water feature and no confirmed rental infrastructure — fails the pattern that makes Community Park interesting. Its value is proximity to Riverside Park for overflow.
+- source: https://www.bonitaspringsparks.org/parks___trails/depot_park
+
+### Bonita Springs Dog Park (Bark-N-Play Park) (CITY)
+- type: municipal parks and recreation
+- city: Bonita Springs
+- website: https://www.bonitaspringsparks.org/parks___trails/other_parks
+- phone: unknown (route through 239-992-2556)
+- email: unknown
+- contact: unknown
+- size signal: E. Terry St at Matheson Ave; 6-acre off-leash park with fenced dog areas, covered pavilion, dog-wash station, picnic tables and an asphalt path
+- event signal: No evidence of ticketed events, camps or rentable pavilion for private parties; appears to be free, unstaffed park use.
+- fit score: 1
+- why: No booking or rental infrastructure and no event programming — not a realistic channel. Recorded so it is not re-researched.
+- source: https://www.bonitaspringsparks.org/parks___trails/other_parks
+
+### 6. Country clubs
+
+Selection note: chosen on FAMILY AND KIDS PROGRAMMING, not prestige. The "grandkids visiting"
+angle is decisive in this city — Bonita Springs clubs skew retiree, so the winning signal is a
+club that programs for visiting grandchildren rather than resident children.
+
+### Bonita Bay Club
+- type: country clubs
+- city: Bonita Springs
+- website: https://www.bonitabayclub.net
+- phone: (239) 495-0200; membership office (239) 949-5061
+- email: unknown (an aggregator-sourced address surfaced but its domain did not match the club's own site, so it was discarded rather than recorded)
+- contact: unknown — verify the Membership Director name on bonitabayclub.net/contact-us before outreach
+- size signal: Large private club community across 2,400 acres with multiple villages; decades established
+- event signal: Community events explicitly include an ANNUAL CHILDREN'S EASTER EGG HUNT, plus a Christmas Tree Lighting and a Bay Breeze Concert Series described as open to all residents and guests. Club dining and pool are flagged as kid-friendly (kids' menu, multi-use family pool).
+- fit score: 4
+- why: A named, recurring children's event plus kid-friendly dining and pool — a real family draw rather than adult golf with family language bolted on. 2,400 acres means scale.
+- source: https://www.bonitabayclub.net/events-reservation
+
+### Shadow Wood Country Club
+- type: country clubs
+- city: Bonita Springs (mailing address 22801 Oakwilde Blvd, Estero FL 34135 — marketed as Bonita Springs; Estero round should skip)
+- website: https://www.shadowwoodcc.com
+- phone: (239) 992-6000
+- email: dosborn@shadowwoodcc.com
+- contact: Danita Osborn, Director of Membership
+- size signal: Large club with three championship golf courses, currently mid-way through a $22.5M clubhouse and pool renovation
+- event signal: Explicit ZERO-DEPTH-ENTRY KIDS' POOLS built for families, opening as part of the 2026 renovation, and member commentary that "children and grandchildren love to visit the club." New resort-style pool complex targets multi-generational use.
+- fit score: 4
+- why: Hits the grandkids angle exactly, with a purpose-built kids' pool and a NAMED DIRECTOR OF MEMBERSHIP WITH A DIRECT EMAIL — the cleanest club contact in this city. The renovation is the hook: a new family pool complex needs programming to fill it.
+- source: https://www.shadowwoodcc.com/lifestyle
+
+### The Commons Club at The Brooks
+- type: country clubs
+- city: Bonita Springs (address 9930 Coconut Rd is technically Estero FL 34135 — marketed as The Brooks/Bonita Springs; Estero round should skip)
+- website: https://www.thecommonsclub.com
+- phone: (239) 949-3800; membership direct (239) 949-3816
+- email: unknown
+- contact: Kat Allen, Membership Director; Joseph Archazki, General Manager (239-949-3804)
+- size signal: Member-owned club with ~2,300 MEMBER FAMILIES across a 2,492-acre master-planned community of five gated neighborhoods (Copperleaf, Lighthouse Bay, Pebble Pointe, Shadow Wood, Spring Run). Confirmed all-ages — "a mix of families and retirees," with a tot lot playground
+- event signal: Park-like campus with a playground and interactive fountain, an Enrichment Center, a beach club, and an active social calendar (live entertainment, holiday parties, wine tastings, Super Bowl party). No single named kids' event found.
+- fit score: 3
+- why: 2,300 member families and a playground with an interactive fountain is real family infrastructure, and two named contacts including a Membership Director. Held at 3 because no named recurring kids' event was confirmed — the fountain and tot lot suggest one exists.
+- source: https://www.thecommonsclub.com/contact-directions/contact-info
+
+### Palmira Golf Club / Palmira Golf & Country Club
+- type: country clubs
+- city: Bonita Springs
+- website: https://golfclubatpalmira.org (master HOA: mypalmira.org)
+- phone: (239) 949-4466; membership/marketing (239) 444-3734
+- email: unknown
+- contact: Ron M. Parris, PGA — General Manager; MJ Chappy, Director of Membership & Marketing
+- size signal: Private member-owned 27-hole community of 13 neighborhoods, with a separate Renaissance Center Club offering pool, spa and fitness. No age restriction found.
+- event signal: A poolside "TIKE BAR" and a heated lagoon-style family pool are explicitly called out, plus a Renaissance Center for community gatherings. The events calendar otherwise skews adult — golf tournaments, men's and ladies' days, couples events. No named kids' event.
+- fit score: 3
+- why: A poolside "tike bar" is an unusually direct signal that children are expected at the pool. Two named contacts. Held at 3 pending a confirmed family event — one qualifying call should settle it.
+- source: https://golfclubatpalmira.clubhouseonline-e3.com/Amenities.aspx
+
+### Worthington Country Club
+- type: country clubs
+- city: Bonita Springs
+- website: https://www.worthingtoncc.net/
+- phone: (239) 495-2278
+- email: unknown
+- contact: unknown
+- size signal: Member-owned bundled-golf community at 13500 Worthington Way. AGE STATUS DISPUTED — one research pass recorded it as confirmed 55+ citing Seniorly; a second pass found no age restriction. Seniorly was independently shown in this same round to MISLABEL communities (it lists the all-ages VillageWalk as 55+), so the 55+ claim rests on a source of demonstrated unreliability. TREAT AS UNRESOLVED and ask directly.
+- event signal: Family-friendly pool swimming, kids practicing at the golf range and kid-friendly dining options are mentioned, but the bulk of programming (Mahjongg, Bridge, Bingo, model yachting, dinner dances) reads adult/senior. No named family event.
+- fit score: 3
+- why: Recorded at 3 rather than 1 precisely because the 55+ claim is unreliable. If it is all-ages, the kid-facing amenities (pool, junior range access, kids' menu) make it a genuine prospect; if it is 55+, drop it. One question resolves a two-point swing.
+- source: https://www.worthingtoncc.net/
+
+### Spanish Wells Golf & Country Club
+- type: country clubs
+- city: Bonita Springs
+- website: https://www.spanishwellscountryclub.com/
+- phone: (239) 992-5100
+- email: unknown
+- contact: unknown
+- size signal: 27-hole club with tennis, pickleball, bocce, fitness and a heated pool
+- event signal: Offers a "Junior Executive Membership" and a "Family Membership" tier plus a heated tropical pool, but no confirmed kids' club, family event or grandchildren programming. Mostly adult social, golf and wedding hosting.
+- fit score: 2
+- why: Membership tiers imply families are present, but implication is not evidence. Do not prioritize without a verifying call.
+- source: https://www.spanishwellscountryclub.com/
+
+### Vasari Country Club
+- type: country clubs
+- city: Bonita Springs
+- website: https://www.vasaricountryclub.com
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Gated golf community with a lagoon-style resort pool, tennis and bocce
+- event signal: Resort pool and general "family and friends" amenity language, but named events are holiday parties, themed nights and wine dinners — all adult-oriented. No kids' club or family event found.
+- fit score: 2
+- why: Amenities could support family visits but there is no concrete evidence of family or kids programming, and no published contact details at all.
+- source: https://www.vasaricountryclub.com/lifestyle
+
+### Pelican's Nest Golf Club
+- type: country clubs
+- city: Bonita Springs
+- website: https://pelicansnest.org
+- phone: (239) 992-7782
+- email: sales@pelicansnest.org
+- contact: unknown
+- size signal: 36-hole Tom Fazio-designed private club within Pelican Landing, with a 45,000 sq ft clubhouse
+- event signal: Offers "Family Memberships," but programming described is tournaments, clinics and social golf events with no confirmed kids' club, family pool event or grandchildren programming.
+- fit score: 2
+- why: Golf-only positioning fails the family qualifier despite a family membership tier. NOTE: the surrounding Pelican Landing Community Association scores 4 as a residential prospect with a children's park — the community, not the golf club, is the door.
+- source: https://www.bonitaesteromagazine.com/businesses/fl-bonita-springs-pelicans-nest-golf-club-at-pelican-landing
+
+### 7. Apartment and condo communities with event staff
+
+Age-restriction note: Bonita Springs has a very high 55+ concentration. Every entry was checked.
+VillageWalk and Bonita National are both mis-listed as 55+ on third-party retirement sites and
+are confirmed ALL-AGES. Valencia Bonita is genuinely 55+ and scored accordingly.
+
+### VillageWalk of Bonita Springs
+- type: apartment and condo communities with event staff
+- city: Bonita Springs
+- website: https://websites.kw-ic.com/villagewalk
+- phone: (239) 319-0779 or (239) 498-7000
+- email: dgibson@kwpmc.com
+- contact: Dawn Gibson, Activities Director
+- size signal: Large gated HOA community with resort and lap pools; HOA office at 15291 Latitude Drive, Suite 100. CORRECTED AGE STATUS — 55places lists it as 55+, but the community's own materials and resident sources confirm it is NOT age-restricted: a mix of families and retirees, all ages welcome.
+- event signal: Named, full-time Activities Director running an active social calendar — aqua aerobics, bingo, holiday celebrations, bowling and hobby groups.
+- fit score: 5
+- why: THE RESCUED PROSPECT OF THIS ROUND. A named Activities Director with a DIRECT EMAIL at a large all-ages community that a retirement directory had wrongly filed as 55+. Without the age-verification step this would have been discarded. Best residential contact in the city.
+- source: https://www.hoabulletinboard.com/hoa/vwbsfl/about_hoa/
+
+### Bonita National Golf & Country Club
+- type: apartment and condo communities with event staff
+- city: Bonita Springs
+- website: https://www.bonitanationalgolfcc.com/
+- phone: (239) 692-8832
+- email: unknown
+- contact: Nancy Dagher, Membership & Lifestyle Director
+- size signal: 1,459 HOMES. ALL-AGES CONFIRMED — all residents are social members of the club; 55places mislabels it as 55+, but Troon and community sources describe it as all ages.
+- event signal: A named full-time Membership & Lifestyle Director organizing clubs and activities across Aerobics, Community Events, Golf, Swimming and Tennis. (A separate pass reviewing this as a golf club found its published calendar adult-skewing — crafts, seminars, themed celebrations, travel.)
+- fit score: 4
+- why: 1,459 homes with a named Lifestyle Director whose remit explicitly includes Community Events and Swimming. Recorded here rather than under country clubs because the residential/lifestyle angle is where the evidence is strongest. Second community in this city rescued from a bad 55+ label.
+- source: https://www.troon.com/press-releases/bonita-national-golf-country-club-lifestyle-director-receives-professional-scholarships/
+
+### Pelican Landing Community Association
+- type: apartment and condo communities with event staff
+- city: Bonita Springs
+- website: https://pelicanlanding.com
+- phone: (239) 947-5977
+- email: unknown
+- contact: Community Association office (a lifestyle director role exists per community materials; individual not verified)
+- size signal: Large master-planned community with a 14,900 sq ft community center; a mix of retirees, professionals and FAMILIES WITH SCHOOL-AGE CHILDREN — confirmed all-ages
+- event signal: Lifestyle director role; year-round activity calendar (trivia night, pasta night, concerts, clubs); private island beach club and a CHILDREN'S PARK and butterfly garden on site.
+- fit score: 4
+- why: An explicit children's park plus confirmed school-age families and a 14,900 sq ft community center. This is also the residential community surrounding Pelican's Nest Golf Club (fit 2) — the association, not the golf club, is the buyer.
+- source: https://pelicanlanding.com/community-center
+
+### The Brooks (Copperleaf / Lighthouse Bay / Pebble Pointe / Shadow Wood / Spring Run)
+- type: apartment and condo communities with event staff
+- city: Bonita Springs
+- website: https://www.thecommonsclub.com
+- phone: (239) 949-3800
+- email: unknown
+- contact: unknown (Commons Club membership office)
+- size signal: 2,492-acre master-planned community across five gated neighborhoods; confirmed all-ages — "a mix of families and retirees," with a tot lot playground
+- event signal: Active social calendar through the Commons Club (live entertainment, holiday parties, wine tastings, Super Bowl party); beach club and enrichment center. No single named lifestyle director for the whole master community.
+- fit score: 3
+- why: Genuinely all-ages with a playground and real events infrastructure, but staffing is diffuse across the Commons Club and five sub-HOAs, which weakens actionability. Cross-referenced with the Commons Club country-club record — same organization, two angles.
+- source: https://www.lifeinbonitasprings.com/blog/the-brooks-bonita-springs-florida/
+
+### Hawthorne Community Association
+- type: apartment and condo communities with event staff
+- city: Bonita Springs
+- website: https://hawthornehoa.communitysite.com
+- phone: (239) 249-7000
+- email: unknown
+- contact: Heather Keel, CAM — Community Association Manager (Cambridge Management of SWFL)
+- size signal: 307 single-family homes plus 156 coach homes and condos; confirmed all-ages, a mix of families and retirees. IMPORTANT: the separate nearby sub-community "Hawthorne Emory Oaks" IS 55+ — do not confuse the two.
+- event signal: Two community rooms and two pools; "countless social events and activities" mentioned generically, but no named lifestyle or activities director confirmed.
+- fit score: 3
+- why: All-ages, sizable, two pools and two community rooms, with a NAMED MANAGER as a contact. Weaker than the top two because the events role is a general community manager rather than a dedicated activities director.
+- source: https://hawthornehoa.communitysite.com/
+
+### Monterra at Bonita Springs
+- type: apartment and condo communities with event staff
+- city: Bonita Springs
+- website: https://www.monterraatbonitasprings.com/
+- phone: (833) 661-6009
+- email: unknown
+- contact: Leasing office
+- size signal: Large gated apartment community with 1/2/3-bedroom units; all-ages rental community, not age-restricted
+- event signal: Clubhouse, pool and PLAYGROUND on site, but no confirmed events program or lifestyle staff.
+- fit score: 2
+- why: The right physical amenities and an all-ages family renter base, but no verified events staff or programming. A playground in an apartment community is a genuine signal of family residents — worth a leasing-office call.
+- source: https://www.monterraatbonitasprings.com/amenities
+
+### Versol Living
+- type: apartment and condo communities with event staff
+- city: Bonita Springs
+- website: https://www.versolliving.com/
+- phone: (239) 999-8404 / (855) 915-2875
+- email: unknown
+- contact: Leasing office
+- size signal: Modern luxury apartment community, studio-3BR; all-ages rental, not age-restricted
+- event signal: Clubhouse "sponsors regular events for residents" per site copy, but no named staff or specific programming confirmed.
+- fit score: 2
+- why: Generic marketing copy rather than verified programming, and a studio-heavy luxury mix suggests fewer children. Low priority.
+- source: https://www.versolliving.com/
+
+### Valencia Bonita
+- type: apartment and condo communities with event staff
+- city: Bonita Springs
+- website: unknown (GL Homes community)
+- phone: unknown
+- email: unknown
+- contact: unknown (a full-time activities director role exists; individual not verified)
+- size signal: 997 single-family homes on 347 acres. AGE RESTRICTION: 55+ CONFIRMED (GL Homes Active Adult community) — genuinely restricted, not mislabeled.
+- event signal: Full-time activities director, 45,000 sq ft clubhouse, champagne Sunday brunch, Halloween Dog Costume Contest and similar.
+- fit score: 1
+- why: Excellent events infrastructure aimed at the wrong audience. Recorded to close the loop — GL Homes communities elsewhere (Marina Bay in Fort Myers, Riverstone in Naples) scored 5 as all-ages, so the builder is not the signal; the age restriction is.
+- source: https://www.55places.com/florida/communities/valencia-bonita
+
+### 8. Birthday party venues
+
+### The Wonder Gardens (Everglades Wonder Gardens)
+- type: birthday party venues
+- city: Bonita Springs
+- website: https://wondergardens.org
+- phone: (239) 992-2591
+- email: unknown
+- contact: unknown
+- size signal: Nonprofit zoo and botanical garden on the Imperial River; lawns plus a Victorian-themed Tea Room accommodating up to 200 guests; open daily 9am-4pm; celebrated its 90th anniversary in January 2026
+- event signal: The venue is available for private celebrations including birthdays and weddings; no published price tiers found — contact for package details.
+- fit score: 4
+- why: Large outdoor lawn plus a private event room and an animal/nature draw, already positioned for private birthday bookings, at a 90-year-old institution with genuine local standing. Confirm water hookup and any animal-proximity restrictions, as with Naples Zoo and Corkscrew.
+- source: https://wondergardens.org/venue/everglades-wonder-gardens/
+
+### Providence Equestrian Center
+- type: birthday party venues
+- city: Bonita Springs
+- website: http://www.providenceequestriancenter.com/
+- phone: (941) 677-8606 (call or text)
+- email: unknown
+- contact: unknown
+- size signal: Full-service equestrian facility in a preserve area near I-75 exit 116; lessons, boarding, leasing, training, showing, summer camp and special events
+- event signal: Hosts organized children's birthday parties with pony rides and horse-related games; no published price sheet found.
+- fit score: 4
+- why: FARM AND RANCH PATTERN HOLDS FOR A FOURTH CITY. Outdoor arenas and paddocks, an established kids'-party track record, and the water access typical of an equestrian facility. They also run a summer camp — two occasions. Matches M&M Farms (Fort Myers), Saddlewood (Cape Coral) and Good Mood Ranch (Naples).
+- source: https://madbarn.com/directory/providence-equestrian-center/
+
+### Big City Kids
+- type: birthday party venues
+- city: Bonita Springs
+- website: https://www.bigcitykidsfl.com/
+- phone: (239) 788-5519
+- email: unknown
+- contact: unknown
+- size signal: Indoor family fun and play center at 12601 Trade Way Dr, Units 1 & 2, Bonita Springs 34135
+- event signal: Published tiered party packages — Weekday Party, Friday Night Party, Weekend Morning Party — each 2-hour blocks for up to 12 kids with a dedicated staff coordinator and place settings; $150 non-refundable deposit to book.
+- fit score: 2
+- why: Genuinely well-structured party packages, and their 2-hour/12-kid format plus $150 deposit is useful local price context. But it is purely indoor with no outdoor space or water hookup — value is as a referral partner for families wanting the outdoor version.
+- source: https://www.bigcitykidsfl.com/pricing-packages
+
+### Cutie Patooties Play Cafe
+- type: birthday party venues
+- city: Bonita Springs
+- website: https://www.cutiepatootiesplaycafe.com/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Indoor pediatric-PT-informed play cafe at 24860 South Tamiami Trail Suite 1, geared to ages 6 months to 5 years
+- event signal: Hosts birthday parties via a Book Online page, but no package pricing surfaced.
+- fit score: 1
+- why: Purely indoor and aimed at under-5s — both the space and the age range are wrong for foam. Recorded to close the loop.
+- source: https://www.cutiepatootiesplaycafe.com/book-online
+
+### 9. Party and event rental companies (PARTNERS)
+
+Category note: only three Bonita Springs-based companies were found; the rest of this market is
+served by Naples and Fort Myers operators already recorded under those cities. A new lead
+surfaced: a directory site called "Foam Party America" lists SWFL rental companies under foam —
+worth mining directly, as it may name competitors this research has not yet found.
+
+### Taylor Rental / Creative Events & Rentals — Bonita Springs line
+- type: party and event rental companies
+- city: Bonita Springs
+- website: https://www.taylorrentalnaples.com/ ; https://creativeevents1.com/
+- phone: (239) 992-1210 (DEDICATED BONITA SPRINGS LINE); toll-free 1-800-421-2393
+- email: unknown
+- contact: unknown
+- size signal: Founded 1973; Southwest Florida's largest event planning, production and rental business, with a full-line inventory (tents, tables, chairs, china, glassware, linens, inflatables)
+- event signal: NO FOAM OFFERING FOUND in any search or on-site service listing across four cities of research. Product line is general event rentals.
+- fit score: 5
+- why: FOURTH CONSECUTIVE CITY AT 5, and they maintain a DEDICATED BONITA SPRINGS PHONE NUMBER. Alongside Grace Community School, this is one of the two highest-value relationships on the entire list. Approach once, regionally, covering Fort Myers, Cape Coral, Naples and Bonita Springs together.
+- source: https://www.taylorrentalnaples.com/party-rentals.asp
+
+### Garcia's Party Rentals
+- type: party and event rental companies
+- city: Bonita Springs
+- website: https://garciaspartyrentalsbros.com/
+- phone: (239) 202-6004
+- email: unknown
+- contact: Jose Garcia (owner)
+- size signal: Small, locally owned family business at 11670 Chapman Ave, Bonita Springs 34135; teen-entrepreneur-led startup with a growing inventory — water slides, mechanical bulls, bounce houses, tables, chairs, tents
+- event signal: NO FOAM listed anywhere in their own site inventory (Rentals, All-Items and FAQ pages all checked). HOWEVER they appear on a third-party directory, foampartyamerica.com, which shows no actual foam equipment or service description on their own site — likely an unclaimed directory entry rather than confirmed ownership.
+- fit score: 4
+- why: The only genuinely Bonita Springs-based inflatable company found, with no foam on their own site. A young growing operation is more likely to welcome a subcontract than a established one. Discounted from 5 only by the unresolved directory listing — ask directly on the first call.
+- source: https://garciaspartyrentalsbros.com/rentals/
+
+### TLC Marketing & Creative Services, Inc.
+- type: party and event rental companies
+- city: Bonita Springs
+- website: https://tlcmarketing-events.com/
+- phone: (239) 405-8115
+- email: unknown
+- contact: unknown
+- size signal: Bonita Springs-headquartered at 9240 Bonita Beach Rd, Ste 3317; 17+ years in business, woman-owned, Florida-certified; full-service boutique marketing, PR and event planning firm serving Bonita Springs, Estero, Naples and Fort Myers
+- event signal: NO foam, bounce houses or inflatables anywhere on their site — they plan and produce events and would source entertainment vendors rather than own equipment.
+- fit score: 4
+- why: A planner with no inventory is the cleanest subcontract relationship available — nothing to protect and every reason to mark up a vendor. Same profile as My Party Guru (Fort Myers) and The Party Girl Co. (Naples). Corporate and community events are their lane, which suits the Commercial tier.
+- source: https://tlcmarketing-events.com/event-planning/
+
+### 10. Kids gyms and youth sports leagues
+
+### Bonita Springs Little League
+- type: kids gyms and youth sports leagues
+- city: Bonita Springs
+- website: https://www.bonitaspringslittleleague.com/
+- phone: (239) 498-6438
+- email: unknown (a search snippet showed an address but it was garbled and unverifiable — omitted rather than guessed)
+- contact: league board via website
+- size signal: T-ball, baseball and softball divisions for ages 4-16, with multiple teams and fields on Pine Avenue
+- event signal: PUBLISHED 2026 SPRING SEASON DATES — Feb 7, 2026 through May 23, 2026, with registration closing Dec 10, 2025. Dedicated Calendar of Events page.
+- fit score: 5
+- why: Both ends of the season are dated on the league's own site, so you know exactly when to call and what to sell — Opening Day around Feb 7, or an end-of-season celebration in late May. Fields on Pine Avenue put it beside the Community Park complex.
+- source: https://www.bonitaspringslittleleague.com/
+
+### Bonita Gymnastics Academy
+- type: kids gyms and youth sports leagues
+- city: Bonita Springs
+- website: https://www.bonitagymnasticsacademy.com/
+- phone: (239) 880-3547 (also listed as 239-887-1910 in one source — verify)
+- email: BonitaGymnasticsAcademy@gmail.com
+- contact: front desk (published business email)
+- size signal: Toddler and preschool gymnastics, tumbling, recreational and pre-team classes; single location at 12622 Trade Way Dr, Unit 6
+- event signal: Dedicated "Parties and Rentals" page plus Spring Break Camp and summer camp pages on their own site.
+- fit score: 4
+- why: Already runs both birthday parties and school-break camps, with a published email — they sell parties, so the concept needs no explaining. A natural referral partner for customers wanting an outdoor option.
+- source: https://www.bonitagymnasticsacademy.com/parties-and-rentals
+
+### Bonita Bull Sharks Youth Football and Cheer
+- type: kids gyms and youth sports leagues
+- city: Bonita Springs
+- website: https://bullsharkfootball.wixsite.com/bonitabullsharks
+- phone: unknown
+- email: unknown
+- contact: organization — in-person registration at Bonita Springs High School, Tue/Thu 6-7pm and Sat 11:30am-1pm
+- size signal: Fields football plus multiple cheer squads (Juniors, JV, Varsity, competitive); affiliated with SWFYFL
+- event signal: Practices begin in April, in-season 2-3 evenings per week; the season structure implies an end-of-season or trophy event, but no dated event page was found.
+- fit score: 3
+- why: Covers both football and cheer, doubling the roster and the family base, and the published in-person registration times tell you exactly where and when to find the board. No dated event yet.
+- source: https://bullsharkfootball.wixsite.com/bonitabullsharks
+
+### Goldfish Swim School — Bonita Springs
+- type: kids gyms and youth sports leagues
+- city: Bonita Springs
+- website: https://goldfishswimschool.com/bonita-springs
+- phone: unknown
+- email: unknown
+- contact: front desk via website contact form
+- size signal: National franchise swim school with a dedicated Bonita Springs location; ages 4 months to 12 years, 4:1 class ratio, indoor heated pool
+- event signal: No specific dated event surfaced for this location; the franchise model typically runs ongoing sessions and birthday parties, but that was not confirmed here.
+- fit score: 3
+- why: Fills the swim-school segment that earlier rounds kept missing, and a franchise with a 4:1 ratio implies real enrollment volume. Note an earlier round found Goldfish's "Fort Myers" pages were service-area pages for a Bonita Springs facility — this is that facility.
+- source: https://goldfishswimschool.com/bonita-springs
+
+### Azzurri Storm
+- type: kids gyms and youth sports leagues
+- city: Bonita Springs
+- website: https://azzurristorm.com/
+- phone: (239) 289-0564
+- email: unknown
+- contact: club office via website
+- size signal: Described as "the most established club in the greater Naples and Bonita Springs area," year-round for ages 3-18, based at Bonita Springs Soccer Field
+- event signal: Published tryouts page with a stated recurring window of mid-April to early May.
+- fit score: 3
+- why: A recurring dated tryout season and a published phone, operating out of a Bonita Springs field. Covers both Bonita Springs and Naples families — a two-city club.
+- source: https://azzurristorm.com/tryouts/
+
+### Bonita Springs Wildcats
+- type: kids gyms and youth sports leagues
+- city: Bonita Springs
+- website: https://www.bonitaspringswildcats.org/
+- phone: unknown
+- email: unknown
+- contact: club office via website
+- size signal: Recreational soccer for ages 6-15 plus a competitive program, playing out of the Bonita Springs Soccer Complex
+- event signal: No specific dated tryout or season-kickoff page surfaced; the club emphasizes affordability and community access.
+- fit score: 2
+- why: Confirmed operating club with its own field complex, but no dated event and no published contact details. The affordability positioning also suggests a tighter budget than the competitive clubs.
+- source: https://www.bonitaspringswildcats.org/
+
+### Bonita Buccaneers Youth Football & Cheer
+- type: kids gyms and youth sports leagues
+- city: Bonita Springs
+- website: https://www.sportsengine.com/org/bonita-buccaneers-youth-football
+- phone: unknown
+- email: unknown
+- contact: league office via registration portal
+- size signal: Registered nonprofit ("Bonita Youth Football & Cheer" per IRS filings); fields youth football and cheer squads
+- event signal: No specific dated season-kickoff or event page found; presence on the USA Football League Finder confirms active status.
+- fit score: 2
+- why: Confirmed active and nonprofit-registered, but no dated event and no contact details — and it competes for the same players as the Bull Sharks. Pursue the Bull Sharks first.
+- source: https://leaguefinder.usafootball.com/leagues/bonita-buccaneers-youth-football-cheer
+
+### 11. Festival and community event organizers
+
+Category note: no fit-5 in this category. Bonita Springs runs plenty of festivals, but almost
+all are produced or permitted by the City, and few publish a named kids' zone the way Cape
+Coral's Red White & BOOM! or Naples PrideFest do. Nothing was inflated to fill the top slot.
+
+### City of Bonita Springs — Special Events Office
+- type: festival and community event organizers
+- city: Bonita Springs
+- website: https://www.cityofbonitasprings.org/services___departments/communications_department/special_events
+- phone: (239) 949-6262
+- email: unknown
+- contact: Communications Department, City of Bonita Springs
+- size signal: The municipal special-events function that produces and permits Celebrate Bonita, Star Spangled Bonita, Taste of Bonita, Movies in the Park and other recurring festivals at Riverside Park (10450 Reynolds St). Special event permit applications take ~45 days.
+- event signal: Umbrella organizer for multiple recurring citywide festivals with food and vendor components; family-friendly programming is standard across its events.
+- fit score: 4
+- why: THE SINGLE ENTRY POINT for this city's festival slate — they both run their own events and permit everyone else's, so one relationship opens several activations and surfaces every third-party event in town. Same pattern as Cape Coral's Special Events Division. Note the 45-day permit lead time.
+- source: https://www.cityofbonitasprings.org/services___departments/communications_department/special_events
+
+### Star Spangled Bonita (City of Bonita Springs)
+- type: festival and community event organizers
+- city: Bonita Springs
+- website: https://www.cityofbonitasprings.org/services___departments/communications_department/4th_of_july
+- phone: (239) 949-6262
+- email: unknown
+- contact: City of Bonita Springs Communications Department
+- size signal: Free city-produced annual event at Riverside Park with a live band, food trucks and a 50-minute drone, fireworks and laser show. 2026 DATE SET: Saturday, July 4, 2026.
+- event signal: Explicitly includes "kid's activities" alongside live music and food trucks; beverage sales benefit the Bonita Springs Rotary Club, indicating an existing sponsor and vendor structure.
+- fit score: 4
+- why: A confirmed kids' activities component, a dated 2026 slot, free admission driving large turnout, and an existing vendor structure. July 4 in Florida is peak foam weather. Book through the Special Events Office above.
+- source: https://www.cityofbonitasprings.org/services___departments/communications_department/4th_of_july
+
+### Bonita Springs Area Chamber of Commerce (SWFL Inc.)
+- type: festival and community event organizers
+- city: Bonita Springs
+- website: https://www.swflinc.com/bonita-springs
+- phone: (239) 992-2943
+- email: unknown
+- contact: unknown
+- size signal: Community Business Expo drew 1,500+ attendees and 80+ exhibitors at The Promenade; also runs Business After Hours mixers. Offices at 25071 Chamber of Commerce Dr, Bonita Springs 34135.
+- event signal: Annual Community Business Expo in a vendor-exhibitor format with real attendance figures, but no confirmed kids' zone.
+- fit score: 3
+- why: A vendor-friendly expo with 1,500+ attendees and an established exhibitor process, though the audience is B2B rather than family. Real value is as a referral hub into member businesses, HOAs and the other organizations on this list.
+- source: https://swfloridabusinesstoday.com/1500-attended-bonita-springs-chamber-community-business-expo/
+
+### Bonita Springs Independence Day Parade (Firefighters Local 3444 Benevolent Fund)
+- type: festival and community event organizers
+- city: Bonita Springs
+- website: https://bonitaspringsparade.com/
+- phone: (239) 301-8402
+- email: unknown
+- contact: Tyler Bess
+- size signal: Annual July 4th parade on Old 41, organized since 1958 by the Bonita Springs Firefighters union, drawing thousands of spectators
+- event signal: Formal sponsorship tiers that INCLUDE A VENDOR BOOTH, unlimited parade entries, and banner and map placement.
+- fit score: 3
+- why: A NAMED CONTACT WITH A DIRECT PHONE and a published sponsorship structure that already includes vendor booths — unusually easy to buy into. Held at 3 because a street-route parade offers limited space for a stationary foam setup; ask whether a companion festival footprint exists.
+- source: https://bonitaspringsparade.com/sponsorship/
+
+### Bonita Blues Festival
+- type: festival and community event organizers
+- city: Bonita Springs
+- website: https://www.mustdo.com/events/bonita-blues-festival-2/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Recurring two-day music festival, 10+ years running, at Riverside Park with local, regional and international blues acts and multiple vendors
+- event signal: Two-day festival, rain or shine, with vendor booths; CHILDREN 12 AND UNDER ADMITTED FREE — but no named kids' zone or kids-specific activities.
+- fit score: 3
+- why: Free child admission is a deliberate choice that tells you families attend, and a two-day vendor ecosystem already exists. No kids programming yet, which is the opening — propose the kids' zone they do not have.
+- source: https://www.lifeinbonitasprings.com/blog/bonita-blues-festival-riverside-park-bonita-springs-florida/
+
+### Bonita Springs National Art Festival (Arts Bonita)
+- type: festival and community event organizers
+- city: Bonita Springs
+- website: https://artsbonita.org/artfest-application-info/
+- phone: (239) 495-8989
+- email: artfest@artsbonita.org
+- contact: unknown
+- size signal: Multi-show recurring national juried art festival, listed on ZAPPlication with shows running into 2027; $40 vendor application fee, up to four applications per show
+- event signal: A recurring national art festival series with multiple shows per year, but no evidence of a kids' zone or kids programming in vendor materials.
+- fit score: 2
+- why: Active, well-run vendor application infrastructure and a published email, but this is a juried fine-art vendor festival, not a family event — the same pattern as the Naples New Year's Art Fair. Note Arts Bonita also runs the youth summer camp recorded above; the camp is the better door.
+- source: https://artsbonita.org/artfest-application-info/
+
+### Taste of Bonita (Bonita Springs Historical Society)
+- type: festival and community event organizers
+- city: Bonita Springs
+- website: https://bonitahistoricalsociety.org/tasteofbonita/
+- phone: (619) 267-5141
+- email: unknown
+- contact: Wendy Wilson-Gibson
+- size signal: Community fundraiser that returned in 2025 after a 13-year hiatus; proceeds support free educational programs reaching 5,000+ schoolchildren and community members annually
+- event signal: A food-tasting fundraiser with restaurant participation, $50 adult / $25 child suggested donation. No kids' zone.
+- fit score: 2
+- why: A named contact with a direct phone, and the child pricing tier shows families are expected — but the format is an adult tasting event. The organization's schools programming (5,000+ children) is the more interesting angle than the festival.
+- source: https://bonitahistoricalsociety.org/tasteofbonita/
+
+### Bonita Springs Lions Club
+- type: festival and community event organizers
+- city: Bonita Springs
+- website: https://www.bonitalions.org/
+- phone: unknown
+- email: office@bonitalions.org
+- contact: unknown
+- size signal: Long-running civic nonprofit whose thrift store generates $250,000+/year distributed as grants to local schools, scholarships and disability sports programs; also runs a Wednesday community market
+- event signal: Regular fundraisers — a pancake breakfast running since 1972, bingo, comedy and brunch events, and a dog-walk fundraiser at Lovers Key State Park. No kids' zone or festival-scale attendance figures.
+- fit score: 2
+- why: Events skew adult, but the $250k/year in grants TO LOCAL SCHOOLS is the real story — they fund the schools on this list. A sponsorship conversation rather than a booking.
+- source: https://www.bonitalions.org/
+
+### Bonita Springs Farmers Market
+- type: festival and community event organizers
+- city: Bonita Springs
+- website: https://www.buylocallee.com/markets/bonita-springs-farmers-market/
+- phone: unknown
+- email: unknown
+- contact: unknown
+- size signal: Seasonal weekly market, first Saturday in October through May, 8am-Noon, at The Promenade at Bonita Bay, 26795 S Bay Dr; produce, baked goods and an expanding artists and crafters section
+- event signal: A recurring weekly draw, but no kids programming, attendance figures, or confirmed vendor-application process for outside activation vendors.
+- fit score: 2
+- why: Weekly family foot traffic through the season, but thin verifiable detail and no contact route found. Note the season runs October-May — the opposite of peak foam months.
+- source: https://www.buylocallee.com/markets/bonita-springs-farmers-market/
+
+### 12. Breweries and food truck parks that host family events
+
+### Rooftop at Riverside
+- type: breweries and food truck parks that host family events
+- city: Bonita Springs
+- website: https://www.eatdrinkparadise.com/
+- phone: (239) 268-0080
+- email: unknown
+- contact: Chris Magnus (referenced as event and programming lead)
+- size signal: BONITA SPRINGS' FIRST DEDICATED FOOD TRUCK PARK, on the Imperial River downtown. 11,000+ sq ft open courtyard, a 4,100 sq ft covered structure with deck and patio, an 800 sq ft fireside patio, a 600 SQ FT PLAYGROUND, and a cooling mist wall.
+- event signal: Published recurring calendar — Wooftop Wednesdays (dog-friendly happy hour), Twisted Bingo on Wednesdays, live Motown on Thursdays, and rotating food trucks. Explicitly family-friendly with the on-site playground.
+- fit score: 5
+- why: BEST VENUE FIT IN THE CITY. Purpose-built outdoor food truck park with an actual playground on site, 11,000 sq ft of open courtyard, a published events calendar and a named programming contact. The mist wall shows they already think about cooling guests down in Florida heat — that is the pitch.
+- source: https://www.eatdrinkparadise.com/calendar
+
+### Riptide Brewing Company — Bonita Springs
+- type: breweries and food truck parks that host family events
+- city: Bonita Springs
+- website: https://www.riptidebrewingcompany.com/visit-us-bonita-springs
+- phone: (239) 949-9945
+- email: unknown
+- contact: unknown
+- size signal: Second Riptide taproom (the original is in Naples), at 28120 Hunters Ridge Blvd, Unit 1-2, Bonita Springs 34135 — the former Momentum Brewhouse space. Full taproom with pinball and arcade games, beer garden and food truck partners.
+- event signal: Hosts food truck nights, pinball tournaments, fundraising events and live music; family- and dog-friendly per family-blog coverage. Eventbrite lists ongoing Riptide events under Bonita Springs.
+- fit score: 5
+- why: RESOLVES A QUESTION CARRIED SINCE ROUND 3. Riptide did not disappear from Naples — it took over Momentum's Bonita Springs site as a second location. Confirmed operating, family- and dog-friendly, with a beer garden and an established event pattern. The Naples location needs a separate verification call.
+- source: https://craftapped.com/riptide-brewing-company-bonita-springs/
+
+### Hopsized Brewing Co.
+- type: breweries and food truck parks that host family events
+- city: Bonita Springs
+- website: https://www.hopsizedbrewing.com/
+- phone: (239) 317-2287
+- email: unknown
+- contact: unknown
+- size signal: Taproom and brewpub at 9201 Cockleshell Court, Unit 13, Bonita Springs 34135; open daily afternoons into evening
+- event signal: Strong published recurring calendar — a monthly "Night Market at The Springs" on third Fridays with local craft makers and small businesses, plus Latin Night, yoga, a run club and trivia nights. Also books private events including BIRTHDAY PARTIES, rehearsal dinners, weddings and work functions.
+- fit score: 4
+- why: Explicitly family-friendly with a genuinely active calendar, and they already sell private birthday bookings — the clearest commercial path in this category. Held at 4 because no dedicated outdoor lawn or beer garden was confirmed; verify the layout.
+- source: https://www.hopsizedbrewing.com/visit/
+
+### Momentum Brewhouse
+- type: breweries and food truck parks that host family events
+- city: Bonita Springs
+- website: unknown (no longer live)
+- phone: (239) 949-9945 (now answers for Riptide at the same address)
+- email: unknown
+- contact: Brian Hahn (founder, per historical listings)
+- size signal: Formerly a 5-bbl craft brewery at 28120 Hunters Ridge Blvd, Unit 1-2, Bonita Springs 34135, with a tasting room and games but no kitchen
+- event signal: None — business is closed.
+- fit score: 1
+- why: PERMANENTLY CLOSED, resolving a lead carried since Round 3. Its exact address is now Riptide Brewing's Bonita Springs taproom. Recorded so it is not re-researched; use the Riptide record instead.
+- source: https://www.yelp.com/biz/momentum-brewhouse-bonita-springs
+
+Category note: Bonita Brew Fest was considered and excluded as a record — it is an annual
+one-day festival run by a nonprofit at Riverside Park rather than a standing venue. It belongs
+under festivals as a sponsorship target if that route is pursued.
